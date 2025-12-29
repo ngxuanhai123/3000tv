@@ -1,0 +1,413 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: N (English Vocabulary)",
+  "words": [
+    {
+      "english": "nail",
+      "ipa": "/neɪl/",
+      "vietnamese": "móng (tay, chân); cái đinh",
+      "example": "Paint your nails."
+    },
+    {
+      "english": "naked",
+      "ipa": "/ˈneɪkɪd/",
+      "vietnamese": "trần, khỏa thân, trơ trụi",
+      "example": "The naked eye."
+    },
+    {
+      "english": "name",
+      "ipa": "/neɪm/",
+      "vietnamese": "tên; đặt tên",
+      "example": "What is your name?"
+    },
+    {
+      "english": "narrow",
+      "ipa": "/ˈnærəʊ/",
+      "vietnamese": "hẹp, chật hẹp",
+      "example": "A narrow street."
+    },
+    {
+      "english": "nation",
+      "ipa": "/ˈneɪʃn/",
+      "vietnamese": "quốc gia",
+      "example": "The whole nation."
+    },
+    {
+      "english": "national",
+      "ipa": "/ˈnæʃnəl/",
+      "vietnamese": "thuộc quốc gia, dân tộc",
+      "example": "National anthem."
+    },
+    {
+      "english": "natural",
+      "ipa": "/ˈnætʃrəl/",
+      "vietnamese": "tự nhiên",
+      "example": "Natural beauty."
+    },
+    {
+      "english": "naturally",
+      "ipa": "/ˈnætʃrəli/",
+      "vietnamese": "vốn, tự nhiên",
+      "example": "Act naturally."
+    },
+    {
+      "english": "nature",
+      "ipa": "/ˈneɪtʃər/",
+      "vietnamese": "tự nhiên, thiên nhiên",
+      "example": "Mother Nature."
+    },
+    {
+      "english": "navy",
+      "ipa": "/ˈneɪvi/",
+      "vietnamese": "hải quân",
+      "example": "Join the navy."
+    },
+    {
+      "english": "near",
+      "ipa": "/nɪər/",
+      "vietnamese": "gần",
+      "example": "Near the station."
+    },
+    {
+      "english": "nearby",
+      "ipa": "/ˌnɪəˈbaɪ/",
+      "vietnamese": "gần",
+      "example": "A nearby shop."
+    },
+    {
+      "english": "nearly",
+      "ipa": "/ˈnɪəli/",
+      "vietnamese": "gần, sắp, suýt",
+      "example": "It is nearly midnight."
+    },
+    {
+      "english": "neat",
+      "ipa": "/niːt/",
+      "vietnamese": "sạch, ngăn nắp",
+      "example": "A neat room."
+    },
+    {
+      "english": "neatly",
+      "ipa": "/ˈniːtli/",
+      "vietnamese": "gọn gàng, ngăn nắp",
+      "example": "Fold the clothes neatly."
+    },
+    {
+      "english": "necessary",
+      "ipa": "/ˈnesəsəri/",
+      "vietnamese": "cần thiết",
+      "example": "It is necessary to sleep."
+    },
+    {
+      "english": "necessarily",
+      "ipa": "/ˌnesəˈserəli/",
+      "vietnamese": "tất yếu, nhất thiết",
+      "example": "Not necessarily true."
+    },
+    {
+      "english": "neck",
+      "ipa": "/nek/",
+      "vietnamese": "cổ",
+      "example": "He has a long neck."
+    },
+    {
+      "english": "need",
+      "ipa": "/niːd/",
+      "vietnamese": "cần, nhu cầu",
+      "example": "I need help."
+    },
+    {
+      "english": "needle",
+      "ipa": "/ˈniːdl/",
+      "vietnamese": "cái kim",
+      "example": "Needle and thread."
+    },
+    {
+      "english": "negative",
+      "ipa": "/ˈneɡətɪv/",
+      "vietnamese": "phủ định; tiêu cực",
+      "example": "A negative attitude."
+    },
+    {
+      "english": "neighbour",
+      "ipa": "/ˈneɪbər/",
+      "vietnamese": "hàng xóm",
+      "example": "My next-door neighbour."
+    },
+    {
+      "english": "neighbourhood",
+      "ipa": "/ˈneɪbəhʊd/",
+      "vietnamese": "hàng xóm, khu vực lân cận",
+      "example": "A quiet neighbourhood."
+    },
+    {
+      "english": "neither",
+      "ipa": "/ˈnaɪðər/",
+      "vietnamese": "không này mà cũng không kia",
+      "example": "Neither of them came."
+    },
+    {
+      "english": "nephew",
+      "ipa": "/ˈnefjuː/",
+      "vietnamese": "cháu trai (của chú, bác...)",
+      "example": "My nephew is five."
+    },
+    {
+      "english": "nerve",
+      "ipa": "/nɜːrv/",
+      "vietnamese": "dây thần kinh",
+      "example": "Nerve cells."
+    },
+    {
+      "english": "nervous",
+      "ipa": "/ˈnɜːrvəs/",
+      "vietnamese": "lo lắng, hoảng sợ",
+      "example": "Don't be nervous."
+    },
+    {
+      "english": "nest",
+      "ipa": "/nest/",
+      "vietnamese": "tổ, ổ",
+      "example": "A bird's nest."
+    },
+    {
+      "english": "net",
+      "ipa": "/net/",
+      "vietnamese": "lưới, mạng",
+      "example": "Fishing net."
+    },
+    {
+      "english": "network",
+      "ipa": "/ˈnetwɜːrk/",
+      "vietnamese": "mạng lưới",
+      "example": "Computer network."
+    },
+    {
+      "english": "never",
+      "ipa": "/ˈnevər/",
+      "vietnamese": "không bao giờ",
+      "example": "I never lie."
+    },
+    {
+      "english": "nevertheless",
+      "ipa": "/ˌnevəðəˈles/",
+      "vietnamese": "tuy nhiên, tuy thế mà",
+      "example": "It was raining; nevertheless, we went out."
+    },
+    {
+      "english": "new",
+      "ipa": "/nuː/",
+      "vietnamese": "mới",
+      "example": "Happy New Year."
+    },
+    {
+      "english": "newly",
+      "ipa": "/ˈnuːli/",
+      "vietnamese": "mới",
+      "example": "Newly married."
+    },
+    {
+      "english": "news",
+      "ipa": "/nuːz/",
+      "vietnamese": "tin tức",
+      "example": "Good news."
+    },
+    {
+      "english": "newspaper",
+      "ipa": "/ˈnuːzpeɪpər/",
+      "vietnamese": "báo",
+      "example": "Read a newspaper."
+    },
+    {
+      "english": "next",
+      "ipa": "/nekst/",
+      "vietnamese": "kế tiếp, sau đó",
+      "example": "Next week."
+    },
+    {
+      "english": "next to",
+      "ipa": "/nekst tuː/",
+      "vietnamese": "bên cạnh",
+      "example": "Sit next to me."
+    },
+    {
+      "english": "nice",
+      "ipa": "/naɪs/",
+      "vietnamese": "đẹp, thú vị, dễ chịu",
+      "example": "Have a nice day."
+    },
+    {
+      "english": "nicely",
+      "ipa": "/ˈnaɪsli/",
+      "vietnamese": "tốt, tử tế",
+      "example": "Behave nicely."
+    },
+    {
+      "english": "niece",
+      "ipa": "/niːs/",
+      "vietnamese": "cháu gái",
+      "example": "My niece is cute."
+    },
+    {
+      "english": "night",
+      "ipa": "/naɪt/",
+      "vietnamese": "đêm, tối",
+      "example": "Good night."
+    },
+    {
+      "english": "no",
+      "ipa": "/nəʊ/",
+      "vietnamese": "không",
+      "example": "No problem."
+    },
+    {
+      "english": "nobody",
+      "ipa": "/ˈnəʊbədi/",
+      "vietnamese": "không ai",
+      "example": "Nobody knows."
+    },
+    {
+      "english": "noise",
+      "ipa": "/nɔɪz/",
+      "vietnamese": "tiếng ồn",
+      "example": "Make a noise."
+    },
+    {
+      "english": "noisy",
+      "ipa": "/ˈnɔɪzi/",
+      "vietnamese": "ồn ào",
+      "example": "A noisy street."
+    },
+    {
+      "english": "non-",
+      "ipa": "/nɒn/",
+      "vietnamese": "không (tiền tố)",
+      "example": "Non-smoking."
+    },
+    {
+      "english": "none",
+      "ipa": "/nʌn/",
+      "vietnamese": "không ai, không cái gì",
+      "example": "None of them."
+    },
+    {
+      "english": "nonsense",
+      "ipa": "/ˈnɒnsns/",
+      "vietnamese": "lời nói vô lý, vô nghĩa",
+      "example": "Stop talking nonsense."
+    },
+    {
+      "english": "nor",
+      "ipa": "/nɔːr/",
+      "vietnamese": "cũng không",
+      "example": "Neither... nor..."
+    },
+    {
+      "english": "normal",
+      "ipa": "/ˈnɔːrml/",
+      "vietnamese": "bình thường",
+      "example": "Normal life."
+    },
+    {
+      "english": "normally",
+      "ipa": "/ˈnɔːrməli/",
+      "vietnamese": "thông thường",
+      "example": "I normally get up at 6."
+    },
+    {
+      "english": "north",
+      "ipa": "/nɔːrθ/",
+      "vietnamese": "phía bắc",
+      "example": "North Pole."
+    },
+    {
+      "english": "northern",
+      "ipa": "/ˈnɔːrðərn/",
+      "vietnamese": "thuộc phương bắc",
+      "example": "Northern lights."
+    },
+    {
+      "english": "nose",
+      "ipa": "/nəʊz/",
+      "vietnamese": "mũi",
+      "example": "Blow your nose."
+    },
+    {
+      "english": "not",
+      "ipa": "/nɒt/",
+      "vietnamese": "không",
+      "example": "I am not tired."
+    },
+    {
+      "english": "note",
+      "ipa": "/nəʊt/",
+      "vietnamese": "lời ghi chú; ghi chú",
+      "example": "Take notes."
+    },
+    {
+      "english": "nothing",
+      "ipa": "/ˈnʌθɪŋ/",
+      "vietnamese": "không gì, không cái gì",
+      "example": "Nothing happened."
+    },
+    {
+      "english": "notice",
+      "ipa": "/ˈnəʊtɪs/",
+      "vietnamese": "thông báo, yết thị; chú ý",
+      "example": "Did you notice?"
+    },
+    {
+      "english": "noticeable",
+      "ipa": "/ˈnəʊtɪsəbl/",
+      "vietnamese": "đáng chú ý",
+      "example": "A noticeable difference."
+    },
+    {
+      "english": "novel",
+      "ipa": "/ˈnɒvl/",
+      "vietnamese": "tiểu thuyết",
+      "example": "Write a novel."
+    },
+    {
+      "english": "November",
+      "ipa": "/nəʊˈvembər/",
+      "vietnamese": "tháng Mười Một",
+      "example": "Thanksgiving is in November."
+    },
+    {
+      "english": "now",
+      "ipa": "/naʊ/",
+      "vietnamese": "bây giờ",
+      "example": "Do it now."
+    },
+    {
+      "english": "nowhere",
+      "ipa": "/ˈnəʊweər/",
+      "vietnamese": "không nơi nào",
+      "example": "Nowhere to go."
+    },
+    {
+      "english": "nuclear",
+      "ipa": "/ˈnuːkliər/",
+      "vietnamese": "hạt nhân",
+      "example": "Nuclear power."
+    },
+    {
+      "english": "number",
+      "ipa": "/ˈnʌmbər/",
+      "vietnamese": "con số",
+      "example": "Phone number."
+    },
+    {
+      "english": "nurse",
+      "ipa": "/nɜːrs/",
+      "vietnamese": "y tá",
+      "example": "She is a nurse."
+    },
+    {
+      "english": "nut",
+      "ipa": "/nʌt/",
+      "vietnamese": "quả hạch (óc chó, dẻ...)",
+      "example": "Crack a nut."
+    }
+  ]
+}
