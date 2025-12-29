@@ -1,0 +1,1763 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: S (English Vocabulary)",
+  "words": [
+    {
+      "english": "sack",
+      "ipa": "/sæk/",
+      "vietnamese": "bao tải; đóng bao",
+      "example": "A sack of potatoes."
+    },
+    {
+      "english": "sad",
+      "ipa": "/sæd/",
+      "vietnamese": "buồn, buồn bã",
+      "example": "He looks very sad."
+    },
+    {
+      "english": "sadly",
+      "ipa": "/ˈsædli/",
+      "vietnamese": "một cách buồn bã; đáng tiếc là",
+      "example": "Sadly, I cannot come."
+    },
+    {
+      "english": "sadness",
+      "ipa": "/ˈsædnəs/",
+      "vietnamese": "sự buồn rầu, nỗi buồn",
+      "example": "Her eyes were full of sadness."
+    },
+    {
+      "english": "safe",
+      "ipa": "/seɪf/",
+      "vietnamese": "an toàn, chắc chắn",
+      "example": "Keep your money in a safe place."
+    },
+    {
+      "english": "safely",
+      "ipa": "/ˈseɪfli/",
+      "vietnamese": "an toàn, chắc chắn",
+      "example": "Drive safely."
+    },
+    {
+      "english": "safety",
+      "ipa": "/ˈseɪfti/",
+      "vietnamese": "sự an toàn",
+      "example": "Safety first."
+    },
+    {
+      "english": "sail",
+      "ipa": "/seɪl/",
+      "vietnamese": "cánh buồm; đi thuyền",
+      "example": "The ship sailed away."
+    },
+    {
+      "english": "sailing",
+      "ipa": "/ˈseɪlɪŋ/",
+      "vietnamese": "sự đi thuyền",
+      "example": "I love sailing."
+    },
+    {
+      "english": "sailor",
+      "ipa": "/ˈseɪlər/",
+      "vietnamese": "thủy thủ",
+      "example": "He is a sailor."
+    },
+    {
+      "english": "salad",
+      "ipa": "/ˈsæləd/",
+      "vietnamese": "món sa lát (rau trộn)",
+      "example": "Chicken salad."
+    },
+    {
+      "english": "salary",
+      "ipa": "/ˈsæləri/",
+      "vietnamese": "tiền lương",
+      "example": "A high salary."
+    },
+    {
+      "english": "sale",
+      "ipa": "/seɪl/",
+      "vietnamese": "sự bán hàng; giảm giá",
+      "example": "For sale."
+    },
+    {
+      "english": "salt",
+      "ipa": "/sɔːlt/",
+      "vietnamese": "muối",
+      "example": "Pass the salt, please."
+    },
+    {
+      "english": "salty",
+      "ipa": "/ˈsɔːlti/",
+      "vietnamese": "mặn",
+      "example": "This soup is too salty."
+    },
+    {
+      "english": "same",
+      "ipa": "/seɪm/",
+      "vietnamese": "giống nhau, cùng",
+      "example": "We have the same car."
+    },
+    {
+      "english": "sample",
+      "ipa": "/ˈsɑːmpl/",
+      "vietnamese": "mẫu, vật mẫu",
+      "example": "A blood sample."
+    },
+    {
+      "english": "sand",
+      "ipa": "/sænd/",
+      "vietnamese": "cát",
+      "example": "Playing in the sand."
+    },
+    {
+      "english": "satisfaction",
+      "ipa": "/ˌsætɪsˈfækʃn/",
+      "vietnamese": "sự thỏa mãn, sự hài lòng",
+      "example": "Customer satisfaction."
+    },
+    {
+      "english": "satisfied",
+      "ipa": "/ˈsætɪsfaɪd/",
+      "vietnamese": "hài lòng, thỏa mãn",
+      "example": "Are you satisfied with the result?"
+    },
+    {
+      "english": "satisfy",
+      "ipa": "/ˈsætɪsfaɪ/",
+      "vietnamese": "làm hài lòng, thỏa mãn",
+      "example": "Nothing satisfies him."
+    },
+    {
+      "english": "satisfying",
+      "ipa": "/ˈsætɪsfaɪɪŋ/",
+      "vietnamese": "đem lại sự thỏa mãn",
+      "example": "A satisfying meal."
+    },
+    {
+      "english": "Saturday",
+      "ipa": "/ˈsætədeɪ/",
+      "vietnamese": "thứ Bảy",
+      "example": "See you on Saturday."
+    },
+    {
+      "english": "sauce",
+      "ipa": "/sɔːs/",
+      "vietnamese": "nước xốt",
+      "example": "Tomato sauce."
+    },
+    {
+      "english": "save",
+      "ipa": "/seɪv/",
+      "vietnamese": "cứu; tiết kiệm; lưu",
+      "example": "Save money."
+    },
+    {
+      "english": "saving",
+      "ipa": "/ˈseɪvɪŋ/",
+      "vietnamese": "sự tiết kiệm, tiền tiết kiệm",
+      "example": "Life savings."
+    },
+    {
+      "english": "say",
+      "ipa": "/seɪ/",
+      "vietnamese": "nói",
+      "example": "What did you say?"
+    },
+    {
+      "english": "scale",
+      "ipa": "/skeɪl/",
+      "vietnamese": "quy mô, tỷ lệ; cái cân; vảy (cá)",
+      "example": "On a large scale."
+    },
+    {
+      "english": "scare",
+      "ipa": "/skeər/",
+      "vietnamese": "làm kinh hãi, dọa",
+      "example": "Don't scare me."
+    },
+    {
+      "english": "scared",
+      "ipa": "/skeərd/",
+      "vietnamese": "bị hoảng sợ",
+      "example": "I'm scared of spiders."
+    },
+    {
+      "english": "scene",
+      "ipa": "/siːn/",
+      "vietnamese": "cảnh, phong cảnh; hiện trường",
+      "example": "The crime scene."
+    },
+    {
+      "english": "schedule",
+      "ipa": "/ˈʃedjuːl/",
+      "vietnamese": "lịch trình, thời gian biểu",
+      "example": "A busy schedule."
+    },
+    {
+      "english": "scheme",
+      "ipa": "/skiːm/",
+      "vietnamese": "kế hoạch, âm mưu",
+      "example": "A new scheme."
+    },
+    {
+      "english": "school",
+      "ipa": "/skuːl/",
+      "vietnamese": "trường học",
+      "example": "Go to school."
+    },
+    {
+      "english": "science",
+      "ipa": "/ˈsaɪəns/",
+      "vietnamese": "khoa học",
+      "example": "Computer science."
+    },
+    {
+      "english": "scientific",
+      "ipa": "/ˌsaɪənˈtɪfɪk/",
+      "vietnamese": "thuộc khoa học",
+      "example": "Scientific research."
+    },
+    {
+      "english": "scientist",
+      "ipa": "/ˈsaɪəntɪst/",
+      "vietnamese": "nhà khoa học",
+      "example": "A famous scientist."
+    },
+    {
+      "english": "scissors",
+      "ipa": "/ˈsɪzərz/",
+      "vietnamese": "cái kéo",
+      "example": "A pair of scissors."
+    },
+    {
+      "english": "score",
+      "ipa": "/skɔːr/",
+      "vietnamese": "điểm số, bàn thắng; ghi bàn",
+      "example": "What is the score?"
+    },
+    {
+      "english": "scratch",
+      "ipa": "/skrætʃ/",
+      "vietnamese": "cào, làm xước",
+      "example": "The cat scratched me."
+    },
+    {
+      "english": "scream",
+      "ipa": "/skriːm/",
+      "vietnamese": "hét lên, gào thét",
+      "example": "She screamed in terror."
+    },
+    {
+      "english": "screen",
+      "ipa": "/skriːn/",
+      "vietnamese": "màn hình, màn ảnh",
+      "example": "Touch screen."
+    },
+    {
+      "english": "screw",
+      "ipa": "/skruː/",
+      "vietnamese": "đinh ốc, vít; vặn ốc",
+      "example": "Tighten the screw."
+    },
+    {
+      "english": "sea",
+      "ipa": "/siː/",
+      "vietnamese": "biển",
+      "example": "By the sea."
+    },
+    {
+      "english": "seal",
+      "ipa": "/siːl/",
+      "vietnamese": "hải cẩu; con dấu; niêm phong",
+      "example": "Seal the letter."
+    },
+    {
+      "english": "search",
+      "ipa": "/sɜːrtʃ/",
+      "vietnamese": "tìm kiếm; sự tìm kiếm",
+      "example": "Search for truth."
+    },
+    {
+      "english": "season",
+      "ipa": "/ˈsiːzn/",
+      "vietnamese": "mùa",
+      "example": "The rainy season."
+    },
+    {
+      "english": "seat",
+      "ipa": "/siːt/",
+      "vietnamese": "chỗ ngồi, ghế",
+      "example": "Take a seat."
+    },
+    {
+      "english": "second",
+      "ipa": "/ˈsekənd/",
+      "vietnamese": "thứ hai; giây",
+      "example": "Wait a second."
+    },
+    {
+      "english": "secondary",
+      "ipa": "/ˈsekəndri/",
+      "vietnamese": "trung học; thứ yếu",
+      "example": "Secondary education."
+    },
+    {
+      "english": "secret",
+      "ipa": "/ˈsiːkrət/",
+      "vietnamese": "bí mật",
+      "example": "It's a secret."
+    },
+    {
+      "english": "secretary",
+      "ipa": "/ˈsekrətri/",
+      "vietnamese": "thư ký",
+      "example": "Private secretary."
+    },
+    {
+      "english": "secretly",
+      "ipa": "/ˈsiːkrətli/",
+      "vietnamese": "một cách bí mật",
+      "example": "They met secretly."
+    },
+    {
+      "english": "section",
+      "ipa": "/ˈsekʃn/",
+      "vietnamese": "phần, mục, khu vực",
+      "example": "The sports section."
+    },
+    {
+      "english": "sector",
+      "ipa": "/ˈsektər/",
+      "vietnamese": "khu vực, lĩnh vực",
+      "example": "Public sector."
+    },
+    {
+      "english": "secure",
+      "ipa": "/sɪˈkjʊər/",
+      "vietnamese": "chắc chắn, an toàn; bảo đảm",
+      "example": "Secure job."
+    },
+    {
+      "english": "security",
+      "ipa": "/sɪˈkjʊərəti/",
+      "vietnamese": "an ninh, sự an toàn",
+      "example": "Security check."
+    },
+    {
+      "english": "see",
+      "ipa": "/siː/",
+      "vietnamese": "nhìn thấy, xem, hiểu",
+      "example": "I see a bird."
+    },
+    {
+      "english": "seed",
+      "ipa": "/siːd/",
+      "vietnamese": "hạt giống",
+      "example": "Sow seeds."
+    },
+    {
+      "english": "seek",
+      "ipa": "/siːk/",
+      "vietnamese": "tìm kiếm, theo đuổi",
+      "example": "Seek advice."
+    },
+    {
+      "english": "seem",
+      "ipa": "/siːm/",
+      "vietnamese": "có vẻ như, dường như",
+      "example": "It seems likely."
+    },
+    {
+      "english": "select",
+      "ipa": "/sɪˈlekt/",
+      "vietnamese": "lựa chọn",
+      "example": "Select your language."
+    },
+    {
+      "english": "selection",
+      "ipa": "/sɪˈlekʃn/",
+      "vietnamese": "sự lựa chọn",
+      "example": "Good selection."
+    },
+    {
+      "english": "self",
+      "ipa": "/self/",
+      "vietnamese": "bản thân",
+      "example": "Self-control."
+    },
+    {
+      "english": "sell",
+      "ipa": "/sel/",
+      "vietnamese": "bán",
+      "example": "Sell cars."
+    },
+    {
+      "english": "senate",
+      "ipa": "/ˈsenɪt/",
+      "vietnamese": "thượng nghị viện",
+      "example": "The US Senate."
+    },
+    {
+      "english": "senator",
+      "ipa": "/ˈsenətər/",
+      "vietnamese": "thượng nghị sĩ",
+      "example": "Senator Jones."
+    },
+    {
+      "english": "send",
+      "ipa": "/send/",
+      "vietnamese": "gửi",
+      "example": "Send a letter."
+    },
+    {
+      "english": "senior",
+      "ipa": "/ˈsiːniər/",
+      "vietnamese": "cao cấp; lớn tuổi hơn",
+      "example": "Senior citizen."
+    },
+    {
+      "english": "sense",
+      "ipa": "/sens/",
+      "vietnamese": "giác quan; ý thức, cảm giác",
+      "example": "Sense of humour."
+    },
+    {
+      "english": "sensible",
+      "ipa": "/ˈsensəbl/",
+      "vietnamese": "biết điều, hợp lý",
+      "example": "A sensible decision."
+    },
+    {
+      "english": "sensitive",
+      "ipa": "/ˈsensətɪv/",
+      "vietnamese": "nhạy cảm",
+      "example": "Sensitive skin."
+    },
+    {
+      "english": "sentence",
+      "ipa": "/ˈsentəns/",
+      "vietnamese": "câu; kết án",
+      "example": "Write a sentence."
+    },
+    {
+      "english": "separate",
+      "ipa": "/ˈseprət/",
+      "vietnamese": "riêng biệt, tách rời",
+      "example": "Separate rooms."
+    },
+    {
+      "english": "separated",
+      "ipa": "/ˈseprəɪtɪd/",
+      "vietnamese": "ly thân, bị tách ra",
+      "example": "They are separated."
+    },
+    {
+      "english": "separately",
+      "ipa": "/ˈseprətli/",
+      "vietnamese": "riêng rẽ, tách biệt",
+      "example": "Sold separately."
+    },
+    {
+      "english": "separation",
+      "ipa": "/ˌsepəˈreɪʃn/",
+      "vietnamese": "sự chia cắt, sự ly thân",
+      "example": "Legal separation."
+    },
+    {
+      "english": "September",
+      "ipa": "/sepˈtembər/",
+      "vietnamese": "tháng Chín",
+      "example": "Born in September."
+    },
+    {
+      "english": "series",
+      "ipa": "/ˈsɪəriːz/",
+      "vietnamese": "loạt, dãy, chuỗi",
+      "example": "TV series."
+    },
+    {
+      "english": "serious",
+      "ipa": "/ˈsɪəriəs/",
+      "vietnamese": "nghiêm trọng, nghiêm túc",
+      "example": "Serious injury."
+    },
+    {
+      "english": "seriously",
+      "ipa": "/ˈsɪəriəsli/",
+      "vietnamese": "nghiêm trọng, nghiêm túc",
+      "example": "Take it seriously."
+    },
+    {
+      "english": "servant",
+      "ipa": "/ˈsɜːrvənt/",
+      "vietnamese": "người hầu",
+      "example": "Domestic servant."
+    },
+    {
+      "english": "serve",
+      "ipa": "/sɜːrv/",
+      "vietnamese": "phục vụ",
+      "example": "Serve the customers."
+    },
+    {
+      "english": "service",
+      "ipa": "/ˈsɜːrvɪs/",
+      "vietnamese": "dịch vụ, sự phục vụ",
+      "example": "Customer service."
+    },
+    {
+      "english": "session",
+      "ipa": "/ˈseʃn/",
+      "vietnamese": "phiên, buổi, kỳ",
+      "example": "Training session."
+    },
+    {
+      "english": "set",
+      "ipa": "/set/",
+      "vietnamese": "bộ; đặt, để; lặn (mặt trời)",
+      "example": "A set of tools."
+    },
+    {
+      "english": "settle",
+      "ipa": "/ˈsetl/",
+      "vietnamese": "giải quyết; định cư; lắng xuống",
+      "example": "Settle a dispute."
+    },
+    {
+      "english": "several",
+      "ipa": "/ˈsevrəl/",
+      "vietnamese": "vài, một số",
+      "example": "Several times."
+    },
+    {
+      "english": "severe",
+      "ipa": "/sɪˈvɪər/",
+      "vietnamese": "khắt khe, dữ dội, nghiêm trọng",
+      "example": "Severe weather."
+    },
+    {
+      "english": "severely",
+      "ipa": "/sɪˈvɪəli/",
+      "vietnamese": "khắt khe, dữ dội",
+      "example": "Severely damaged."
+    },
+    {
+      "english": "sew",
+      "ipa": "/səʊ/",
+      "vietnamese": "may, khâu",
+      "example": "Sew a button."
+    },
+    {
+      "english": "sewing",
+      "ipa": "/ˈsəʊɪŋ/",
+      "vietnamese": "sự may vá",
+      "example": "Sewing machine."
+    },
+    {
+      "english": "sex",
+      "ipa": "/seks/",
+      "vietnamese": "giới tính; tình dục",
+      "example": "Male or female sex."
+    },
+    {
+      "english": "sexual",
+      "ipa": "/ˈsekʃuəl/",
+      "vietnamese": "thuộc giới tính, tình dục",
+      "example": "Sexual equality."
+    },
+    {
+      "english": "sexually",
+      "ipa": "/ˈsekʃuəli/",
+      "vietnamese": "về mặt giới tính, tình dục",
+      "example": "Sexually active."
+    },
+    {
+      "english": "shade",
+      "ipa": "/ʃeɪd/",
+      "vietnamese": "bóng râm",
+      "example": "In the shade."
+    },
+    {
+      "english": "shadow",
+      "ipa": "/ˈʃædəʊ/",
+      "vietnamese": "cái bóng",
+      "example": "Cast a shadow."
+    },
+    {
+      "english": "shake",
+      "ipa": "/ʃeɪk/",
+      "vietnamese": "rung, lắc",
+      "example": "Shake hands."
+    },
+    {
+      "english": "shall",
+      "ipa": "/ʃæl/",
+      "vietnamese": "sẽ (dùng cho I/We)",
+      "example": "Shall we go?"
+    },
+    {
+      "english": "shallow",
+      "ipa": "/ˈʃæləʊ/",
+      "vietnamese": "nông, cạn",
+      "example": "Shallow water."
+    },
+    {
+      "english": "shame",
+      "ipa": "/ʃeɪm/",
+      "vietnamese": "sự xấu hổ, điều đáng tiếc",
+      "example": "It's a shame."
+    },
+    {
+      "english": "shape",
+      "ipa": "/ʃeɪp/",
+      "vietnamese": "hình dạng; định hình",
+      "example": "In the shape of."
+    },
+    {
+      "english": "shaped",
+      "ipa": "/ʃeɪpt/",
+      "vietnamese": "có hình dáng",
+      "example": "Heart-shaped."
+    },
+    {
+      "english": "share",
+      "ipa": "/ʃeər/",
+      "vietnamese": "chia sẻ; cổ phần",
+      "example": "Share a pizza."
+    },
+    {
+      "english": "sharp",
+      "ipa": "/ʃɑːrp/",
+      "vietnamese": "sắc, nhọn; thông minh",
+      "example": "A sharp knife."
+    },
+    {
+      "english": "sharply",
+      "ipa": "/ˈʃɑːrpli/",
+      "vietnamese": "sắc nét, đột ngột",
+      "example": "Prices rose sharply."
+    },
+    {
+      "english": "shave",
+      "ipa": "/ʃeɪv/",
+      "vietnamese": "cạo râu",
+      "example": "Shave every morning."
+    },
+    {
+      "english": "she",
+      "ipa": "/ʃiː/",
+      "vietnamese": "cô ấy, bà ấy",
+      "example": "She is my sister."
+    },
+    {
+      "english": "sheep",
+      "ipa": "/ʃiːp/",
+      "vietnamese": "con cừu",
+      "example": "A flock of sheep."
+    },
+    {
+      "english": "sheet",
+      "ipa": "/ʃiːt/",
+      "vietnamese": "tờ (giấy); tấm (ga trải giường)",
+      "example": "A sheet of paper."
+    },
+    {
+      "english": "shelf",
+      "ipa": "/ʃelf/",
+      "vietnamese": "cái kệ, cái giá",
+      "example": "Put it on the shelf."
+    },
+    {
+      "english": "shell",
+      "ipa": "/ʃel/",
+      "vietnamese": "vỏ (sò, ốc)",
+      "example": "Sea shell."
+    },
+    {
+      "english": "shelter",
+      "ipa": "/ˈʃeltər/",
+      "vietnamese": "chỗ ẩn náu; che chở",
+      "example": "Find shelter."
+    },
+    {
+      "english": "shift",
+      "ipa": "/ʃɪft/",
+      "vietnamese": "ca làm việc; sự thay đổi",
+      "example": "Night shift."
+    },
+    {
+      "english": "shine",
+      "ipa": "/ʃaɪn/",
+      "vietnamese": "chiếu sáng, tỏa sáng",
+      "example": "The sun shines."
+    },
+    {
+      "english": "shiny",
+      "ipa": "/ˈʃaɪni/",
+      "vietnamese": "sáng bóng",
+      "example": "Shiny shoes."
+    },
+    {
+      "english": "ship",
+      "ipa": "/ʃɪp/",
+      "vietnamese": "tàu thủy",
+      "example": "A cargo ship."
+    },
+    {
+      "english": "shirt",
+      "ipa": "/ʃɜːrt/",
+      "vietnamese": "áo sơ mi",
+      "example": "A white shirt."
+    },
+    {
+      "english": "shock",
+      "ipa": "/ʃɒk/",
+      "vietnamese": "cú sốc; gây sốc",
+      "example": "It was a big shock."
+    },
+    {
+      "english": "shocked",
+      "ipa": "/ʃɒkt/",
+      "vietnamese": "bị sốc, chấn động",
+      "example": "I was shocked by the news."
+    },
+    {
+      "english": "shocking",
+      "ipa": "/ˈʃɒkɪŋ/",
+      "vietnamese": "gây sốc, kinh hoàng",
+      "example": "Shocking behavior."
+    },
+    {
+      "english": "shoe",
+      "ipa": "/ʃuː/",
+      "vietnamese": "chiếc giày",
+      "example": "A pair of shoes."
+    },
+    {
+      "english": "shoot",
+      "ipa": "/ʃuːt/",
+      "vietnamese": "bắn; quay phim; sút",
+      "example": "Shoot a gun."
+    },
+    {
+      "english": "shooting",
+      "ipa": "/ˈʃuːtɪŋ/",
+      "vietnamese": "sự bắn; vụ nổ súng",
+      "example": "Shooting star."
+    },
+    {
+      "english": "shop",
+      "ipa": "/ʃɒp/",
+      "vietnamese": "cửa hàng; mua sắm",
+      "example": "Go to the shop."
+    },
+    {
+      "english": "shopping",
+      "ipa": "/ˈʃɒpɪŋ/",
+      "vietnamese": "việc mua sắm",
+      "example": "Do the shopping."
+    },
+    {
+      "english": "short",
+      "ipa": "/ʃɔːrt/",
+      "vietnamese": "ngắn, thấp",
+      "example": "Short hair."
+    },
+    {
+      "english": "shortly",
+      "ipa": "/ˈʃɔːrtli/",
+      "vietnamese": "sớm, một thời gian ngắn",
+      "example": "Arrive shortly."
+    },
+    {
+      "english": "shot",
+      "ipa": "/ʃɒt/",
+      "vietnamese": "phát đạn, cú sút; liều thuốc",
+      "example": "A good shot."
+    },
+    {
+      "english": "should",
+      "ipa": "/ʃʊd/",
+      "vietnamese": "nên",
+      "example": "You should go."
+    },
+    {
+      "english": "shoulder",
+      "ipa": "/ˈʃəʊldər/",
+      "vietnamese": "vai",
+      "example": "Shoulder bag."
+    },
+    {
+      "english": "shout",
+      "ipa": "/ʃaʊt/",
+      "vietnamese": "la hét, reo hò",
+      "example": "Don't shout."
+    },
+    {
+      "english": "show",
+      "ipa": "/ʃəʊ/",
+      "vietnamese": "chỉ, cho xem; buổi biểu diễn",
+      "example": "Show me."
+    },
+    {
+      "english": "shower",
+      "ipa": "/ˈʃaʊər/",
+      "vietnamese": "vòi hoa sen; trận mưa rào",
+      "example": "Take a shower."
+    },
+    {
+      "english": "shut",
+      "ipa": "/ʃʌt/",
+      "vietnamese": "đóng, khép",
+      "example": "Shut the door."
+    },
+    {
+      "english": "shy",
+      "ipa": "/ʃaɪ/",
+      "vietnamese": "nhút nhát, e thẹn",
+      "example": "A shy girl."
+    },
+    {
+      "english": "sick",
+      "ipa": "/sɪk/",
+      "vietnamese": "ốm; buồn nôn",
+      "example": "Feel sick."
+    },
+    {
+      "english": "side",
+      "ipa": "/saɪd/",
+      "vietnamese": "bên, cạnh, mặt",
+      "example": "The other side."
+    },
+    {
+      "english": "sideways",
+      "ipa": "/ˈsaɪdweɪz/",
+      "vietnamese": "ngang, sang bên",
+      "example": "Move sideways."
+    },
+    {
+      "english": "sight",
+      "ipa": "/saɪt/",
+      "vietnamese": "thị lực, tầm nhìn; cảnh tượng",
+      "example": "Out of sight."
+    },
+    {
+      "english": "sign",
+      "ipa": "/saɪn/",
+      "vietnamese": "dấu hiệu, biển báo; ký tên",
+      "example": "Sign your name."
+    },
+    {
+      "english": "signal",
+      "ipa": "/ˈsɪɡnəl/",
+      "vietnamese": "tín hiệu",
+      "example": "Traffic signal."
+    },
+    {
+      "english": "signature",
+      "ipa": "/ˈsɪɡnətʃər/",
+      "vietnamese": "chữ ký",
+      "example": "Signature required."
+    },
+    {
+      "english": "significant",
+      "ipa": "/sɪɡˈnɪfɪkənt/",
+      "vietnamese": "đáng kể, quan trọng",
+      "example": "Significant change."
+    },
+    {
+      "english": "significantly",
+      "ipa": "/sɪɡˈnɪfɪkəntli/",
+      "vietnamese": "đáng kể",
+      "example": "Increase significantly."
+    },
+    {
+      "english": "silence",
+      "ipa": "/ˈsaɪləns/",
+      "vietnamese": "sự im lặng",
+      "example": "Silence is golden."
+    },
+    {
+      "english": "silent",
+      "ipa": "/ˈsaɪlənt/",
+      "vietnamese": "im lặng, yên tĩnh",
+      "example": "Remain silent."
+    },
+    {
+      "english": "silk",
+      "ipa": "/sɪlk/",
+      "vietnamese": "lụa",
+      "example": "Silk scarf."
+    },
+    {
+      "english": "silly",
+      "ipa": "/ˈsɪli/",
+      "vietnamese": "ngớ ngẩn",
+      "example": "Don't be silly."
+    },
+    {
+      "english": "silver",
+      "ipa": "/ˈsɪlvər/",
+      "vietnamese": "bạc; màu bạc",
+      "example": "Silver ring."
+    },
+    {
+      "english": "similar",
+      "ipa": "/ˈsɪmɪlər/",
+      "vietnamese": "tương tự, giống",
+      "example": "Similar interests."
+    },
+    {
+      "english": "similarly",
+      "ipa": "/ˈsɪmɪləli/",
+      "vietnamese": "tương tự, giống nhau",
+      "example": "Behave similarly."
+    },
+    {
+      "english": "simple",
+      "ipa": "/ˈsɪmpl/",
+      "vietnamese": "đơn giản",
+      "example": "Simple solution."
+    },
+    {
+      "english": "simply",
+      "ipa": "/ˈsɪmpli/",
+      "vietnamese": "đơn giản là, chỉ là",
+      "example": "Simply the best."
+    },
+    {
+      "english": "since",
+      "ipa": "/sɪns/",
+      "vietnamese": "từ khi; bởi vì",
+      "example": "Since 1990."
+    },
+    {
+      "english": "sincere",
+      "ipa": "/sɪnˈsɪər/",
+      "vietnamese": "chân thành",
+      "example": "Sincere thanks."
+    },
+    {
+      "english": "sincerely",
+      "ipa": "/sɪnˈsɪəli/",
+      "vietnamese": "một cách chân thành",
+      "example": "Yours sincerely."
+    },
+    {
+      "english": "sing",
+      "ipa": "/sɪŋ/",
+      "vietnamese": "hát",
+      "example": "Sing a song."
+    },
+    {
+      "english": "singer",
+      "ipa": "/ˈsɪŋər/",
+      "vietnamese": "ca sĩ",
+      "example": "Famous singer."
+    },
+    {
+      "english": "singing",
+      "ipa": "/ˈsɪŋɪŋ/",
+      "vietnamese": "tiếng hát, sự hát",
+      "example": "Singing lessons."
+    },
+    {
+      "english": "single",
+      "ipa": "/ˈsɪŋɡl/",
+      "vietnamese": "đơn, độc thân; một mình",
+      "example": "Single room."
+    },
+    {
+      "english": "sink",
+      "ipa": "/sɪŋk/",
+      "vietnamese": "chìm; bồn rửa",
+      "example": "The ship sank."
+    },
+    {
+      "english": "sir",
+      "ipa": "/sɜːr/",
+      "vietnamese": "ngài, ông (xưng hô lịch sự)",
+      "example": "Yes, sir."
+    },
+    {
+      "english": "sister",
+      "ipa": "/ˈsɪstər/",
+      "vietnamese": "chị, em gái",
+      "example": "Older sister."
+    },
+    {
+      "english": "sit",
+      "ipa": "/sɪt/",
+      "vietnamese": "ngồi",
+      "example": "Sit down."
+    },
+    {
+      "english": "situation",
+      "ipa": "/ˌsɪtʃuˈeɪʃn/",
+      "vietnamese": "tình huống, hoàn cảnh",
+      "example": "Difficult situation."
+    },
+    {
+      "english": "size",
+      "ipa": "/saɪz/",
+      "vietnamese": "kích cỡ",
+      "example": "What size are you?"
+    },
+    {
+      "english": "skilful",
+      "ipa": "/ˈskɪlfl/",
+      "vietnamese": "khéo léo, tài giỏi",
+      "example": "Skilful player."
+    },
+    {
+      "english": "skilfully",
+      "ipa": "/ˈskɪlfəli/",
+      "vietnamese": "tài tình, khéo léo",
+      "example": "Played skilfully."
+    },
+    {
+      "english": "skill",
+      "ipa": "/skɪl/",
+      "vietnamese": "kỹ năng",
+      "example": "Reading skills."
+    },
+    {
+      "english": "skilled",
+      "ipa": "/skɪld/",
+      "vietnamese": "lành nghề, có kỹ năng",
+      "example": "Skilled worker."
+    },
+    {
+      "english": "skin",
+      "ipa": "/skɪn/",
+      "vietnamese": "da",
+      "example": "Soft skin."
+    },
+    {
+      "english": "skirt",
+      "ipa": "/skɜːrt/",
+      "vietnamese": "váy",
+      "example": "Short skirt."
+    },
+    {
+      "english": "sky",
+      "ipa": "/skaɪ/",
+      "vietnamese": "bầu trời",
+      "example": "Blue sky."
+    },
+    {
+      "english": "sleep",
+      "ipa": "/sliːp/",
+      "vietnamese": "ngủ; giấc ngủ",
+      "example": "Go to sleep."
+    },
+    {
+      "english": "sleeve",
+      "ipa": "/sliːv/",
+      "vietnamese": "tay áo",
+      "example": "Long sleeves."
+    },
+    {
+      "english": "slice",
+      "ipa": "/slaɪs/",
+      "vietnamese": "miếng mỏng, lát mỏng",
+      "example": "A slice of bread."
+    },
+    {
+      "english": "slide",
+      "ipa": "/slaɪd/",
+      "vietnamese": "trượt; cầu trượt",
+      "example": "Slide down."
+    },
+    {
+      "english": "slight",
+      "ipa": "/slaɪt/",
+      "vietnamese": "nhẹ, không đáng kể",
+      "example": "Slight change."
+    },
+    {
+      "english": "slightly",
+      "ipa": "/ˈslaɪtli/",
+      "vietnamese": "hơi, một chút",
+      "example": "Slightly better."
+    },
+    {
+      "english": "slip",
+      "ipa": "/slɪp/",
+      "vietnamese": "trượt chân",
+      "example": "Don't slip."
+    },
+    {
+      "english": "slope",
+      "ipa": "/sləʊp/",
+      "vietnamese": "dốc, độ dốc",
+      "example": "Steep slope."
+    },
+    {
+      "english": "slow",
+      "ipa": "/sləʊ/",
+      "vietnamese": "chậm",
+      "example": "Slow down."
+    },
+    {
+      "english": "slowly",
+      "ipa": "/ˈsləʊli/",
+      "vietnamese": "một cách chậm chạp",
+      "example": "Walk slowly."
+    },
+    {
+      "english": "small",
+      "ipa": "/smɔːl/",
+      "vietnamese": "nhỏ, bé",
+      "example": "Small house."
+    },
+    {
+      "english": "smart",
+      "ipa": "/smɑːrt/",
+      "vietnamese": "thông minh; bảnh bao",
+      "example": "Smart phone."
+    },
+    {
+      "english": "smash",
+      "ipa": "/smæʃ/",
+      "vietnamese": "đập tan, vỡ tan",
+      "example": "Smash the glass."
+    },
+    {
+      "english": "smell",
+      "ipa": "/smel/",
+      "vietnamese": "ngửi; mùi",
+      "example": "Smell the flowers."
+    },
+    {
+      "english": "smile",
+      "ipa": "/smaɪl/",
+      "vietnamese": "mỉm cười; nụ cười",
+      "example": "She smiled at me."
+    },
+    {
+      "english": "smoke",
+      "ipa": "/sməʊk/",
+      "vietnamese": "khói; hút thuốc",
+      "example": "No smoking."
+    },
+    {
+      "english": "smoking",
+      "ipa": "/ˈsməʊkɪŋ/",
+      "vietnamese": "việc hút thuốc",
+      "example": "Smoking is bad for you."
+    },
+    {
+      "english": "smooth",
+      "ipa": "/smuːð/",
+      "vietnamese": "mượt mà, trôi chảy",
+      "example": "Smooth skin."
+    },
+    {
+      "english": "smoothly",
+      "ipa": "/ˈsmuːðli/",
+      "vietnamese": "một cách trôi chảy, êm ả",
+      "example": "Run smoothly."
+    },
+    {
+      "english": "snake",
+      "ipa": "/sneɪk/",
+      "vietnamese": "con rắn",
+      "example": "Poisonous snake."
+    },
+    {
+      "english": "snow",
+      "ipa": "/snəʊ/",
+      "vietnamese": "tuyết; tuyết rơi",
+      "example": "White snow."
+    },
+    {
+      "english": "so",
+      "ipa": "/səʊ/",
+      "vietnamese": "vì vậy, như vậy; quá",
+      "example": "I was tired so I went to bed."
+    },
+    {
+      "english": "soap",
+      "ipa": "/səʊp/",
+      "vietnamese": "xà phòng",
+      "example": "Bar of soap."
+    },
+    {
+      "english": "social",
+      "ipa": "/ˈsəʊʃl/",
+      "vietnamese": "thuộc xã hội",
+      "example": "Social media."
+    },
+    {
+      "english": "socially",
+      "ipa": "/ˈsəʊʃəli/",
+      "vietnamese": "về mặt xã hội",
+      "example": "Socially active."
+    },
+    {
+      "english": "society",
+      "ipa": "/səˈsaɪəti/",
+      "vietnamese": "xã hội",
+      "example": "Modern society."
+    },
+    {
+      "english": "sock",
+      "ipa": "/sɒk/",
+      "vietnamese": "tất ngắn",
+      "example": "Pair of socks."
+    },
+    {
+      "english": "soft",
+      "ipa": "/sɒft/",
+      "vietnamese": "mềm",
+      "example": "Soft pillow."
+    },
+    {
+      "english": "softly",
+      "ipa": "/ˈsɒftli/",
+      "vietnamese": "nhẹ nhàng, êm ái",
+      "example": "Speak softly."
+    },
+    {
+      "english": "software",
+      "ipa": "/ˈsɒftweər/",
+      "vietnamese": "phần mềm",
+      "example": "Computer software."
+    },
+    {
+      "english": "soil",
+      "ipa": "/sɔɪl/",
+      "vietnamese": "đất trồng",
+      "example": "Fertile soil."
+    },
+    {
+      "english": "soldier",
+      "ipa": "/ˈsəʊldʒər/",
+      "vietnamese": "người lính",
+      "example": "Brave soldier."
+    },
+    {
+      "english": "solid",
+      "ipa": "/ˈsɒlɪd/",
+      "vietnamese": "rắn, chắc",
+      "example": "Solid rock."
+    },
+    {
+      "english": "solution",
+      "ipa": "/səˈluːʃn/",
+      "vietnamese": "giải pháp",
+      "example": "Find a solution."
+    },
+    {
+      "english": "solve",
+      "ipa": "/sɒlv/",
+      "vietnamese": "giải quyết",
+      "example": "Solve a problem."
+    },
+    {
+      "english": "some",
+      "ipa": "/sʌm/",
+      "vietnamese": "một vài, một ít",
+      "example": "Some water."
+    },
+    {
+      "english": "somebody",
+      "ipa": "/ˈsʌmbədi/",
+      "vietnamese": "ai đó, người nào đó (someone)",
+      "example": "Somebody is calling."
+    },
+    {
+      "english": "somehow",
+      "ipa": "/ˈsʌmhaʊ/",
+      "vietnamese": "bằng cách nào đó",
+      "example": "We must succeed somehow."
+    },
+    {
+      "english": "something",
+      "ipa": "/ˈsʌmθɪŋ/",
+      "vietnamese": "cái gì đó",
+      "example": "I want something to eat."
+    },
+    {
+      "english": "sometimes",
+      "ipa": "/ˈsʌmtaɪmz/",
+      "vietnamese": "thỉnh thoảng",
+      "example": "I sometimes walk to work."
+    },
+    {
+      "english": "somewhat",
+      "ipa": "/ˈsʌmwɒt/",
+      "vietnamese": "hơi, một chút",
+      "example": "Somewhat difficult."
+    },
+    {
+      "english": "somewhere",
+      "ipa": "/ˈsʌmweər/",
+      "vietnamese": "nơi nào đó",
+      "example": "Let's go somewhere else."
+    },
+    {
+      "english": "son",
+      "ipa": "/sʌn/",
+      "vietnamese": "con trai",
+      "example": "Like father, like son."
+    },
+    {
+      "english": "song",
+      "ipa": "/sɒŋ/",
+      "vietnamese": "bài hát",
+      "example": "Sing a song."
+    },
+    {
+      "english": "soon",
+      "ipa": "/suːn/",
+      "vietnamese": "sớm",
+      "example": "See you soon."
+    },
+    {
+      "english": "sore",
+      "ipa": "/sɔːr/",
+      "vietnamese": "đau, nhức",
+      "example": "Sore throat."
+    },
+    {
+      "english": "sorry",
+      "ipa": "/ˈsɒri/",
+      "vietnamese": "xin lỗi, tiếc",
+      "example": "I am sorry."
+    },
+    {
+      "english": "sort",
+      "ipa": "/sɔːrt/",
+      "vietnamese": "loại, hạng; phân loại",
+      "example": "What sort of music do you like?"
+    },
+    {
+      "english": "soul",
+      "ipa": "/səʊl/",
+      "vietnamese": "tâm hồn, linh hồn",
+      "example": "Body and soul."
+    },
+    {
+      "english": "sound",
+      "ipa": "/saʊnd/",
+      "vietnamese": "âm thanh; nghe có vẻ",
+      "example": "That sounds good."
+    },
+    {
+      "english": "soup",
+      "ipa": "/suːp/",
+      "vietnamese": "súp, canh",
+      "example": "Chicken soup."
+    },
+    {
+      "english": "sour",
+      "ipa": "/ˈsaʊər/",
+      "vietnamese": "chua",
+      "example": "Sour lemon."
+    },
+    {
+      "english": "source",
+      "ipa": "/sɔːrs/",
+      "vietnamese": "nguồn",
+      "example": "Source of information."
+    },
+    {
+      "english": "south",
+      "ipa": "/saʊθ/",
+      "vietnamese": "phía nam",
+      "example": "South Africa."
+    },
+    {
+      "english": "southern",
+      "ipa": "/ˈsʌðərn/",
+      "vietnamese": "thuộc phương nam",
+      "example": "Southern accent."
+    },
+    {
+      "english": "space",
+      "ipa": "/speɪs/",
+      "vietnamese": "không gian, chỗ trống",
+      "example": "Outer space."
+    },
+    {
+      "english": "spare",
+      "ipa": "/speər/",
+      "vietnamese": "thừa, dự phòng; dành (thời gian)",
+      "example": "Spare time."
+    },
+    {
+      "english": "speak",
+      "ipa": "/spiːk/",
+      "vietnamese": "nói",
+      "example": "Do you speak English?"
+    },
+    {
+      "english": "speaker",
+      "ipa": "/ˈspiːkər/",
+      "vietnamese": "người nói, loa",
+      "example": "Loud speaker."
+    },
+    {
+      "english": "special",
+      "ipa": "/ˈspeʃl/",
+      "vietnamese": "đặc biệt",
+      "example": "A special gift."
+    },
+    {
+      "english": "specialist",
+      "ipa": "/ˈspeʃəlɪst/",
+      "vietnamese": "chuyên gia",
+      "example": "Heart specialist."
+    },
+    {
+      "english": "specially",
+      "ipa": "/ˈspeʃəli/",
+      "vietnamese": "đặc biệt, riêng biệt",
+      "example": "Made specially for you."
+    },
+    {
+      "english": "specific",
+      "ipa": "/spəˈsɪfɪk/",
+      "vietnamese": "cụ thể, đặc trưng",
+      "example": "Be specific."
+    },
+    {
+      "english": "specifically",
+      "ipa": "/spəˈsɪfɪkli/",
+      "vietnamese": "một cách cụ thể",
+      "example": "Specifically designed."
+    },
+    {
+      "english": "speech",
+      "ipa": "/spiːtʃ/",
+      "vietnamese": "bài phát biểu, lời nói",
+      "example": "Make a speech."
+    },
+    {
+      "english": "speed",
+      "ipa": "/spiːd/",
+      "vietnamese": "tốc độ",
+      "example": "High speed."
+    },
+    {
+      "english": "spell",
+      "ipa": "/spel/",
+      "vietnamese": "đánh vần; bùa chú",
+      "example": "How do you spell it?"
+    },
+    {
+      "english": "spelling",
+      "ipa": "/ˈspelɪŋ/",
+      "vietnamese": "chính tả, cách đánh vần",
+      "example": "Correct spelling."
+    },
+    {
+      "english": "spend",
+      "ipa": "/spend/",
+      "vietnamese": "tiêu (tiền), dành (thời gian)",
+      "example": "Spend money."
+    },
+    {
+      "english": "spice",
+      "ipa": "/spaɪs/",
+      "vietnamese": "gia vị",
+      "example": "Add spice to the food."
+    },
+    {
+      "english": "spicy",
+      "ipa": "/ˈspaɪsi/",
+      "vietnamese": "cay, có gia vị",
+      "example": "Spicy food."
+    },
+    {
+      "english": "spider",
+      "ipa": "/ˈspaɪdər/",
+      "vietnamese": "con nhện",
+      "example": "Spiders have 8 legs."
+    },
+    {
+      "english": "spin",
+      "ipa": "/spɪn/",
+      "vietnamese": "quay",
+      "example": "Spin the wheel."
+    },
+    {
+      "english": "spirit",
+      "ipa": "/ˈspɪrɪt/",
+      "vietnamese": "tinh thần, tâm hồn",
+      "example": "Team spirit."
+    },
+    {
+      "english": "spiritual",
+      "ipa": "/ˈspɪrɪtʃuəl/",
+      "vietnamese": "thuộc tinh thần, tâm linh",
+      "example": "Spiritual life."
+    },
+    {
+      "english": "spite",
+      "ipa": "/spaɪt/",
+      "vietnamese": "sự giận; mặc dù (in spite of)",
+      "example": "In spite of the rain."
+    },
+    {
+      "english": "split",
+      "ipa": "/splɪt/",
+      "vietnamese": "chia, tách",
+      "example": "Split the bill."
+    },
+    {
+      "english": "spoil",
+      "ipa": "/spɔɪl/",
+      "vietnamese": "làm hỏng",
+      "example": "Don't spoil the surprise."
+    },
+    {
+      "english": "spoken",
+      "ipa": "/ˈspəʊkən/",
+      "vietnamese": "nói (spoken English)",
+      "example": "Spoken language."
+    },
+    {
+      "english": "spoon",
+      "ipa": "/spuːn/",
+      "vietnamese": "cái thìa",
+      "example": "Soup spoon."
+    },
+    {
+      "english": "sport",
+      "ipa": "/spɔːrt/",
+      "vietnamese": "thể thao",
+      "example": "Play sports."
+    },
+    {
+      "english": "spot",
+      "ipa": "/spɒt/",
+      "vietnamese": "dấu, đốm; địa điểm",
+      "example": "On the spot."
+    },
+    {
+      "english": "spray",
+      "ipa": "/spreɪ/",
+      "vietnamese": "xịt, phun",
+      "example": "Hair spray."
+    },
+    {
+      "english": "spread",
+      "ipa": "/spred/",
+      "vietnamese": "lan truyền, trải ra",
+      "example": "Spread the news."
+    },
+    {
+      "english": "spring",
+      "ipa": "/sprɪŋ/",
+      "vietnamese": "mùa xuân; lò xo; suối",
+      "example": "Flowers bloom in spring."
+    },
+    {
+      "english": "square",
+      "ipa": "/skweər/",
+      "vietnamese": "hình vuông; quảng trường",
+      "example": "Red Square."
+    },
+    {
+      "english": "squeeze",
+      "ipa": "/skwiːz/",
+      "vietnamese": "ép, vắt",
+      "example": "Squeeze the lemon."
+    },
+    {
+      "english": "stable",
+      "ipa": "/ˈsteɪbl/",
+      "vietnamese": "ổn định; chuồng ngựa",
+      "example": "Stable condition."
+    },
+    {
+      "english": "staff",
+      "ipa": "/stɑːf/",
+      "vietnamese": "nhân viên",
+      "example": "Hotel staff."
+    },
+    {
+      "english": "stage",
+      "ipa": "/steɪdʒ/",
+      "vietnamese": "giai đoạn; sân khấu",
+      "example": "On stage."
+    },
+    {
+      "english": "stair",
+      "ipa": "/steər/",
+      "vietnamese": "bậc thang",
+      "example": "Up the stairs."
+    },
+    {
+      "english": "stamp",
+      "ipa": "/stæmp/",
+      "vietnamese": "con tem",
+      "example": "Put a stamp on the envelope."
+    },
+    {
+      "english": "stand",
+      "ipa": "/stænd/",
+      "vietnamese": "đứng; chịu đựng",
+      "example": "Stand up."
+    },
+    {
+      "english": "standard",
+      "ipa": "/ˈstændərd/",
+      "vietnamese": "tiêu chuẩn",
+      "example": "High standard."
+    },
+    {
+      "english": "star",
+      "ipa": "/stɑːr/",
+      "vietnamese": "ngôi sao",
+      "example": "Movie star."
+    },
+    {
+      "english": "stare",
+      "ipa": "/steər/",
+      "vietnamese": "nhìn chằm chằm",
+      "example": "Don't stare at people."
+    },
+    {
+      "english": "start",
+      "ipa": "/stɑːrt/",
+      "vietnamese": "bắt đầu",
+      "example": "Start the car."
+    },
+    {
+      "english": "state",
+      "ipa": "/steɪt/",
+      "vietnamese": "tiểu bang; trạng thái; phát biểu",
+      "example": "United States."
+    },
+    {
+      "english": "statement",
+      "ipa": "/ˈsteɪtmənt/",
+      "vietnamese": "lời tuyên bố",
+      "example": "Make a statement."
+    },
+    {
+      "english": "station",
+      "ipa": "/ˈsteɪʃn/",
+      "vietnamese": "trạm, ga, đồn",
+      "example": "Train station."
+    },
+    {
+      "english": "statue",
+      "ipa": "/ˈstætʃuː/",
+      "vietnamese": "bức tượng",
+      "example": "Statue of Liberty."
+    },
+    {
+      "english": "status",
+      "ipa": "/ˈsteɪtəs/",
+      "vietnamese": "địa vị, tình trạng",
+      "example": "Social status."
+    },
+    {
+      "english": "stay",
+      "ipa": "/steɪ/",
+      "vietnamese": "ở lại, lưu lại",
+      "example": "Stay here."
+    },
+    {
+      "english": "steadily",
+      "ipa": "/ˈstedɪli/",
+      "vietnamese": "vững chắc, đều đặn",
+      "example": "Prices rose steadily."
+    },
+    {
+      "english": "steady",
+      "ipa": "/ˈstedi/",
+      "vietnamese": "vững chắc, đều đặn",
+      "example": "Steady job."
+    },
+    {
+      "english": "steal",
+      "ipa": "/stiːl/",
+      "vietnamese": "ăn cắp",
+      "example": "Steal money."
+    },
+    {
+      "english": "steam",
+      "ipa": "/stiːm/",
+      "vietnamese": "hơi nước",
+      "example": "Steam engine."
+    },
+    {
+      "english": "steel",
+      "ipa": "/stiːl/",
+      "vietnamese": "thép",
+      "example": "Stainless steel."
+    },
+    {
+      "english": "steep",
+      "ipa": "/stiːp/",
+      "vietnamese": "dốc",
+      "example": "Steep hill."
+    },
+    {
+      "english": "steeply",
+      "ipa": "/ˈstiːpli/",
+      "vietnamese": "dốc đứng, cheo leo",
+      "example": "Rise steeply."
+    },
+    {
+      "english": "steer",
+      "ipa": "/stɪər/",
+      "vietnamese": "lái (tàu, xe)",
+      "example": "Steer the car."
+    },
+    {
+      "english": "step",
+      "ipa": "/step/",
+      "vietnamese": "bước; bước đi",
+      "example": "Take a step."
+    },
+    {
+      "english": "stick",
+      "ipa": "/stɪk/",
+      "vietnamese": "cái gậy; dính, dán",
+      "example": "Stick to the plan."
+    },
+    {
+      "english": "sticky",
+      "ipa": "/ˈstɪki/",
+      "vietnamese": "dính",
+      "example": "Sticky fingers."
+    },
+    {
+      "english": "stiff",
+      "ipa": "/stɪf/",
+      "vietnamese": "cứng, cứng rắn",
+      "example": "Stiff neck."
+    },
+    {
+      "english": "stiffly",
+      "ipa": "/ˈstɪfli/",
+      "vietnamese": "cứng rắn, kiên quyết",
+      "example": "Walk stiffly."
+    },
+    {
+      "english": "still",
+      "ipa": "/stɪl/",
+      "vietnamese": "vẫn, vẫn còn; đứng yên",
+      "example": "Stand still."
+    },
+    {
+      "english": "sting",
+      "ipa": "/stɪŋ/",
+      "vietnamese": "châm, đốt (côn trùng)",
+      "example": "Bee sting."
+    },
+    {
+      "english": "stir",
+      "ipa": "/stɜːr/",
+      "vietnamese": "khuấy, đảo",
+      "example": "Stir the soup."
+    }
+  ]
+}
