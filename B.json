@@ -1,0 +1,1001 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: B (English Vocabulary)",
+  "words": [
+    {
+      "english": "back",
+      "ipa": "/bæk/",
+      "vietnamese": "lưng, sau, về phía sau, trở lại",
+      "example": "He hurt his back while lifting the box."
+    },
+    {
+      "english": "background",
+      "ipa": "/ˈbækɡraʊnd/",
+      "vietnamese": "phía sau; nền",
+      "example": "The mountains are in the background."
+    },
+    {
+      "english": "backward",
+      "ipa": "/ˈbækwəd/",
+      "vietnamese": "về phía sau, lùi lại",
+      "example": "He took a backward step."
+    },
+    {
+      "english": "backwards",
+      "ipa": "/ˈbækwədz/",
+      "vietnamese": "ngược",
+      "example": "She looked backwards over her shoulder."
+    },
+    {
+      "english": "bacteria",
+      "ipa": "/bækˈtɪəriə/",
+      "vietnamese": "vi khuẩn",
+      "example": "Bacteria can cause diseases."
+    },
+    {
+      "english": "bad",
+      "ipa": "/bæd/",
+      "vietnamese": "xấu, tồi; bẩn thỉu, thối, hỏng (go bad)",
+      "example": "This is a bad idea."
+    },
+    {
+      "english": "badly",
+      "ipa": "/ˈbædli/",
+      "vietnamese": "xấu, tồi",
+      "example": "He was treated badly."
+    },
+    {
+      "english": "bad-tempered",
+      "ipa": "/ˌbædˈtempəd/",
+      "vietnamese": "xấu tính, dễ nổi cáu",
+      "example": "He gets bad-tempered when he is hungry."
+    },
+    {
+      "english": "bag",
+      "ipa": "/bæg/",
+      "vietnamese": "bao, túi, cặp xách",
+      "example": "I forgot my bag in the car."
+    },
+    {
+      "english": "baggage",
+      "ipa": "/ˈbæɡɪdʒ/",
+      "vietnamese": "hành lý",
+      "example": "We checked our baggage at the airport."
+    },
+    {
+      "english": "bake",
+      "ipa": "/beɪk/",
+      "vietnamese": "nung, nướng bằng lò",
+      "example": "She likes to bake cakes."
+    },
+    {
+      "english": "balance",
+      "ipa": "/ˈbæləns/",
+      "vietnamese": "cái cân; làm cho cân bằng, tương xứng",
+      "example": "Try to keep your balance."
+    },
+    {
+      "english": "ball",
+      "ipa": "/bɔːl/",
+      "vietnamese": "quả bóng",
+      "example": "The kids are playing with a ball."
+    },
+    {
+      "english": "ban",
+      "ipa": "/bæn/",
+      "vietnamese": "cấm, cấm chỉ; sự cấm",
+      "example": "Smoking is banned in this building."
+    },
+    {
+      "english": "band",
+      "ipa": "/bænd/",
+      "vietnamese": "băng, đai, nẹp; ban nhạc",
+      "example": "The band played all night."
+    },
+    {
+      "english": "bandage",
+      "ipa": "/ˈbændɪdʒ/",
+      "vietnamese": "dải băng; băng bó",
+      "example": "The nurse put a bandage on his arm."
+    },
+    {
+      "english": "bank",
+      "ipa": "/bæŋk/",
+      "vietnamese": "bờ (sông...), đê; ngân hàng",
+      "example": "I need to go to the bank."
+    },
+    {
+      "english": "bar",
+      "ipa": "/bɑːr/",
+      "vietnamese": "quán bán rượu; thanh, thỏi",
+      "example": "He ate a bar of chocolate."
+    },
+    {
+      "english": "bargain",
+      "ipa": "/ˈbɑːɡən/",
+      "vietnamese": "sự mặc cả, sự giao kèo mua bán",
+      "example": "This shirt was a real bargain."
+    },
+    {
+      "english": "barrier",
+      "ipa": "/ˈbæriər/",
+      "vietnamese": "đặt chướng ngại vật; rào cản",
+      "example": "Language is a barrier to communication."
+    },
+    {
+      "english": "base",
+      "ipa": "/beɪs/",
+      "vietnamese": "cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì",
+      "example": "The lamp has a heavy base."
+    },
+    {
+      "english": "basic",
+      "ipa": "/ˈbeɪsɪk/",
+      "vietnamese": "cơ bản, cơ sở",
+      "example": "Food is a basic need."
+    },
+    {
+      "english": "basically",
+      "ipa": "/ˈbeɪsɪkli/",
+      "vietnamese": "cơ bản, về cơ bản",
+      "example": "Basically, I agree with you."
+    },
+    {
+      "english": "basis",
+      "ipa": "/ˈbeɪsɪs/",
+      "vietnamese": "nền tảng, cơ sở",
+      "example": "We meet on a regular basis."
+    },
+    {
+      "english": "bath",
+      "ipa": "/bɑːθ/",
+      "vietnamese": "sự tắm",
+      "example": "I took a hot bath."
+    },
+    {
+      "english": "bathroom",
+      "ipa": "/ˈbɑːθruːm/",
+      "vietnamese": "buồng tắm, nhà vệ sinh",
+      "example": "The bathroom is upstairs."
+    },
+    {
+      "english": "battery",
+      "ipa": "/ˈbætri/",
+      "vietnamese": "pin, ắc quy",
+      "example": "My phone battery is low."
+    },
+    {
+      "english": "battle",
+      "ipa": "/ˈbætl/",
+      "vietnamese": "trận đánh, chiến thuật",
+      "example": "The battle lasted for days."
+    },
+    {
+      "english": "bay",
+      "ipa": "/beɪ/",
+      "vietnamese": "gian (nhà), nhịp (cầu); vịnh",
+      "example": "The boat is anchored in the bay."
+    },
+    {
+      "english": "be sick",
+      "ipa": "/bi sɪk/",
+      "vietnamese": "bị ốm; buồn nôn",
+      "example": "He might be sick if he eats too much."
+    },
+    {
+      "english": "beach",
+      "ipa": "/biːtʃ/",
+      "vietnamese": "bãi biển",
+      "example": "We walked along the beach."
+    },
+    {
+      "english": "beak",
+      "ipa": "/biːk/",
+      "vietnamese": "mỏ chim",
+      "example": "The bird has a yellow beak."
+    },
+    {
+      "english": "bear",
+      "ipa": "/beər/",
+      "vietnamese": "mang, cầm, vác, đeo, ôm; chịu đựng; con gấu",
+      "example": "I can't bear this heat."
+    },
+    {
+      "english": "beard",
+      "ipa": "/bɪəd/",
+      "vietnamese": "râu",
+      "example": "He has a long white beard."
+    },
+    {
+      "english": "beat",
+      "ipa": "/biːt/",
+      "vietnamese": "tiếng đập, sự đập; đánh đập, đấm",
+      "example": "My heart beats fast."
+    },
+    {
+      "english": "beautiful",
+      "ipa": "/ˈbjuːtɪfl/",
+      "vietnamese": "đẹp",
+      "example": "It's a beautiful day."
+    },
+    {
+      "english": "beautifully",
+      "ipa": "/ˈbjuːtɪfli/",
+      "vietnamese": "tốt đẹp, đáng hài lòng",
+      "example": "She sings beautifully."
+    },
+    {
+      "english": "beauty",
+      "ipa": "/ˈbjuːti/",
+      "vietnamese": "vẻ đẹp, cái đẹp; người đẹp",
+      "example": "She is a great beauty."
+    },
+    {
+      "english": "because",
+      "ipa": "/bɪˈkɒz/",
+      "vietnamese": "bởi vì, vì",
+      "example": "I stayed home because it was raining."
+    },
+    {
+      "english": "become",
+      "ipa": "/bɪˈkʌm/",
+      "vietnamese": "trở thành, trở nên",
+      "example": "He wants to become a doctor."
+    },
+    {
+      "english": "bed",
+      "ipa": "/bed/",
+      "vietnamese": "cái giường",
+      "example": "It's time to go to bed."
+    },
+    {
+      "english": "bedroom",
+      "ipa": "/ˈbedruːm/",
+      "vietnamese": "phòng ngủ",
+      "example": "My bedroom is small but cozy."
+    },
+    {
+      "english": "beef",
+      "ipa": "/biːf/",
+      "vietnamese": "thịt bò",
+      "example": "We are having roast beef for dinner."
+    },
+    {
+      "english": "beer",
+      "ipa": "/bɪər/",
+      "vietnamese": "rượu bia",
+      "example": "He drank a glass of beer."
+    },
+    {
+      "english": "before",
+      "ipa": "/bɪˈfɔːr/",
+      "vietnamese": "trước, đằng trước",
+      "example": "Please finish this before noon."
+    },
+    {
+      "english": "begin",
+      "ipa": "/bɪˈɡɪn/",
+      "vietnamese": "bắt đầu, khởi đầu",
+      "example": "Let's begin the meeting."
+    },
+    {
+      "english": "beginning",
+      "ipa": "/bɪˈɡɪnɪŋ/",
+      "vietnamese": "phần đầu, lúc bắt đầu, lúc khởi đầu",
+      "example": "Since the beginning of the year."
+    },
+    {
+      "english": "behalf",
+      "ipa": "/bɪˈhɑːf/",
+      "vietnamese": "sự thay mặt, nhân danh",
+      "example": "I speak on behalf of my team."
+    },
+    {
+      "english": "behave",
+      "ipa": "/bɪˈheɪv/",
+      "vietnamese": "đối xử, ăn ở, cư xử",
+      "example": "The children behaved very well."
+    },
+    {
+      "english": "behaviour",
+      "ipa": "/bɪˈheɪvjər/",
+      "vietnamese": "thái độ, cách đối xử; cách cư xử",
+      "example": "His behaviour was unacceptable."
+    },
+    {
+      "english": "behind",
+      "ipa": "/bɪˈhaɪnd/",
+      "vietnamese": "sau, ở đằng sau",
+      "example": "The sun went behind the clouds."
+    },
+    {
+      "english": "belief",
+      "ipa": "/bɪˈliːf/",
+      "vietnamese": "lòng tin, đức tin, sự tin tưởng",
+      "example": "His belief in God is strong."
+    },
+    {
+      "english": "believe",
+      "ipa": "/bɪˈliːv/",
+      "vietnamese": "tin, tin tưởng",
+      "example": "I believe you."
+    },
+    {
+      "english": "bell",
+      "ipa": "/bel/",
+      "vietnamese": "cái chuông, tiếng chuông",
+      "example": "The church bell rang."
+    },
+    {
+      "english": "belong",
+      "ipa": "/bɪˈlɒŋ/",
+      "vietnamese": "thuộc về, của, thuộc quyền sở hữu",
+      "example": "Does this bag belong to you?"
+    },
+    {
+      "english": "below",
+      "ipa": "/bɪˈləʊ/",
+      "vietnamese": "ở dưới, dưới thấp, phía dưới",
+      "example": "Please sign below the line."
+    },
+    {
+      "english": "belt",
+      "ipa": "/belt/",
+      "vietnamese": "dây lưng, thắt lưng",
+      "example": "Fasten your seat belt."
+    },
+    {
+      "english": "bend",
+      "ipa": "/bend/",
+      "vietnamese": "chỗ rẽ, chỗ uốn; cúi xuống, uốn cong",
+      "example": "Bend your knees."
+    },
+    {
+      "english": "beneath",
+      "ipa": "/bɪˈniːθ/",
+      "vietnamese": "ở dưới, dưới thấp",
+      "example": "She hid the letter beneath a pile of papers."
+    },
+    {
+      "english": "benefit",
+      "ipa": "/ˈbenɪfɪt/",
+      "vietnamese": "lợi, lợi ích; giúp ích, làm lợi cho",
+      "example": "The new law will benefit many people."
+    },
+    {
+      "english": "bent",
+      "ipa": "/bent/",
+      "vietnamese": "khiếu, sở thích, khuynh hướng; cong",
+      "example": "The metal bar was bent."
+    },
+    {
+      "english": "beside",
+      "ipa": "/bɪˈsaɪd/",
+      "vietnamese": "bên cạnh, so với",
+      "example": "Come and sit beside me."
+    },
+    {
+      "english": "bet",
+      "ipa": "/bet/",
+      "vietnamese": "đánh cuộc, cá cược; sự đánh cuộc",
+      "example": "I bet he will be late."
+    },
+    {
+      "english": "better",
+      "ipa": "/ˈbetər/",
+      "vietnamese": "tốt hơn",
+      "example": "I feel better today."
+    },
+    {
+      "english": "best",
+      "ipa": "/best/",
+      "vietnamese": "tốt nhất",
+      "example": "He is my best friend."
+    },
+    {
+      "english": "betting",
+      "ipa": "/ˈbetɪŋ/",
+      "vietnamese": "sự đánh cuộc",
+      "example": "Betting on horses is popular."
+    },
+    {
+      "english": "between",
+      "ipa": "/bɪˈtwiːn/",
+      "vietnamese": "giữa, ở giữa",
+      "example": "Sit between the two trees."
+    },
+    {
+      "english": "beyond",
+      "ipa": "/bɪˈjɒnd/",
+      "vietnamese": "ở xa, phía bên kia",
+      "example": "The village lies beyond the river."
+    },
+    {
+      "english": "bicycle",
+      "ipa": "/ˈbaɪsɪkl/",
+      "vietnamese": "xe đạp (bike)",
+      "example": "He rides his bicycle to school."
+    },
+    {
+      "english": "bid",
+      "ipa": "/bɪd/",
+      "vietnamese": "đặt giá, trả giá; sự đặt giá",
+      "example": "She made a bid for the painting."
+    },
+    {
+      "english": "big",
+      "ipa": "/bɪɡ/",
+      "vietnamese": "to, lớn",
+      "example": "That is a big house."
+    },
+    {
+      "english": "bill",
+      "ipa": "/bɪl/",
+      "vietnamese": "hóa đơn, giấy bạc",
+      "example": "Can I have the bill, please?"
+    },
+    {
+      "english": "bin",
+      "ipa": "/bɪn/",
+      "vietnamese": "thùng, thùng đựng rượu",
+      "example": "Throw the rubbish in the bin."
+    },
+    {
+      "english": "biology",
+      "ipa": "/baɪˈɒlədʒi/",
+      "vietnamese": "sinh vật học",
+      "example": "She is studying biology."
+    },
+    {
+      "english": "bird",
+      "ipa": "/bɜːd/",
+      "vietnamese": "chim",
+      "example": "The bird flew away."
+    },
+    {
+      "english": "birth",
+      "ipa": "/bɜːθ/",
+      "vietnamese": "sự ra đời, sự sinh đẻ",
+      "example": "She gave birth to a healthy boy."
+    },
+    {
+      "english": "birthday",
+      "ipa": "/ˈbɜːθdeɪ/",
+      "vietnamese": "ngày sinh, sinh nhật",
+      "example": "Happy birthday!"
+    },
+    {
+      "english": "biscuit",
+      "ipa": "/ˈbɪskɪt/",
+      "vietnamese": "bánh quy",
+      "example": "Would you like a biscuit?"
+    },
+    {
+      "english": "bit",
+      "ipa": "/bɪt/",
+      "vietnamese": "miếng, mảnh; một chút (a bit)",
+      "example": "Wait a bit."
+    },
+    {
+      "english": "bite",
+      "ipa": "/baɪt/",
+      "vietnamese": "cắn, ngoạm; sự cắn",
+      "example": "The dog might bite."
+    },
+    {
+      "english": "bitter",
+      "ipa": "/ˈbɪtər/",
+      "vietnamese": "đắng; đắng cay, chua xót",
+      "example": "The coffee tastes bitter."
+    },
+    {
+      "english": "bitterly",
+      "ipa": "/ˈbɪtəli/",
+      "vietnamese": "đắng, đắng cay, chua xót",
+      "example": "He wept bitterly."
+    },
+    {
+      "english": "black",
+      "ipa": "/blæk/",
+      "vietnamese": "đen; màu đen",
+      "example": "He wore a black suit."
+    },
+    {
+      "english": "blade",
+      "ipa": "/bleɪd/",
+      "vietnamese": "lưỡi (dao, kiếm); lá (cỏ, cây)",
+      "example": "The knife blade is sharp."
+    },
+    {
+      "english": "blame",
+      "ipa": "/bleɪm/",
+      "vietnamese": "khiển trách, mắng trách; sự khiển trách",
+      "example": "Don't blame me for your mistakes."
+    },
+    {
+      "english": "blank",
+      "ipa": "/blæŋk/",
+      "vietnamese": "trống, để trắng; sự trống rỗng",
+      "example": "Leave the last page blank."
+    },
+    {
+      "english": "blankly",
+      "ipa": "/ˈblæŋkli/",
+      "vietnamese": "ngây ra, không có thần",
+      "example": "She stared blankly at the wall."
+    },
+    {
+      "english": "blind",
+      "ipa": "/blaɪnd/",
+      "vietnamese": "đui, mù",
+      "example": "He is blind in one eye."
+    },
+    {
+      "english": "block",
+      "ipa": "/blɒk/",
+      "vietnamese": "khối, tảng (đá); làm ngăn cản, ngăn chặn",
+      "example": "A fallen tree blocked the road."
+    },
+    {
+      "english": "blonde",
+      "ipa": "/blɒnd/",
+      "vietnamese": "hoe vàng, mái tóc hoe vàng",
+      "example": "She has blonde hair."
+    },
+    {
+      "english": "blood",
+      "ipa": "/blʌd/",
+      "vietnamese": "máu, huyết",
+      "example": "He lost a lot of blood."
+    },
+    {
+      "english": "blow",
+      "ipa": "/bləʊ/",
+      "vietnamese": "thổi, nở hoa; sự nở hoa",
+      "example": "The wind blows hard."
+    },
+    {
+      "english": "blue",
+      "ipa": "/bluː/",
+      "vietnamese": "xanh, màu xanh",
+      "example": "The sky is blue."
+    },
+    {
+      "english": "board",
+      "ipa": "/bɔːd/",
+      "vietnamese": "tấm ván; bảng; lên tàu (on board)",
+      "example": "Write it on the board."
+    },
+    {
+      "english": "boat",
+      "ipa": "/bəʊt/",
+      "vietnamese": "tàu, thuyền",
+      "example": "They went out on a boat."
+    },
+    {
+      "english": "body",
+      "ipa": "/ˈbɒdi/",
+      "vietnamese": "thân thể, thân xác",
+      "example": "Exercise is good for your body."
+    },
+    {
+      "english": "boil",
+      "ipa": "/bɔɪl/",
+      "vietnamese": "sôi, luộc",
+      "example": "Boil the water for tea."
+    },
+    {
+      "english": "bomb",
+      "ipa": "/bɒm/",
+      "vietnamese": "quả bom; đánh bom",
+      "example": "The bomb exploded."
+    },
+    {
+      "english": "bone",
+      "ipa": "/bəʊn/",
+      "vietnamese": "xương",
+      "example": "The dog is chewing a bone."
+    },
+    {
+      "english": "book",
+      "ipa": "/bʊk/",
+      "vietnamese": "sách; ghi chép, đặt chỗ",
+      "example": "I read a good book."
+    },
+    {
+      "english": "boot",
+      "ipa": "/buːt/",
+      "vietnamese": "giày ống",
+      "example": "She wore winter boots."
+    },
+    {
+      "english": "border",
+      "ipa": "/ˈbɔːrdər/",
+      "vietnamese": "bờ, mép, vỉa, lề (đường); biên giới",
+      "example": "They crossed the border."
+    },
+    {
+      "english": "bore",
+      "ipa": "/bɔːr/",
+      "vietnamese": "buồn chán, buồn tẻ",
+      "example": "Don't bore me with details."
+    },
+    {
+      "english": "bored",
+      "ipa": "/bɔːd/",
+      "vietnamese": "buồn chán",
+      "example": "I am bored with this movie."
+    },
+    {
+      "english": "boring",
+      "ipa": "/ˈbɔːrɪŋ/",
+      "vietnamese": "tẻ nhạt, buồn chán",
+      "example": "The lesson was boring."
+    },
+    {
+      "english": "born",
+      "ipa": "/bɔːn/",
+      "vietnamese": "sinh, đẻ (be born)",
+      "example": "I was born in May."
+    },
+    {
+      "english": "borrow",
+      "ipa": "/ˈbɒrəʊ/",
+      "vietnamese": "vay, mượn",
+      "example": "Can I borrow your pen?"
+    },
+    {
+      "english": "boss",
+      "ipa": "/bɒs/",
+      "vietnamese": "ông chủ, thủ trưởng",
+      "example": "The boss is in a meeting."
+    },
+    {
+      "english": "both",
+      "ipa": "/bəʊθ/",
+      "vietnamese": "cả hai",
+      "example": "Both of them are here."
+    },
+    {
+      "english": "bother",
+      "ipa": "/ˈbɒðər/",
+      "vietnamese": "làm phiền, quấy rầy",
+      "example": "Don't bother your father."
+    },
+    {
+      "english": "bottle",
+      "ipa": "/ˈbɒtl/",
+      "vietnamese": "chai, lọ",
+      "example": "A bottle of water."
+    },
+    {
+      "english": "bottom",
+      "ipa": "/ˈbɒtəm/",
+      "vietnamese": "phần dưới cùng, đáy",
+      "example": "Sign at the bottom of the page."
+    },
+    {
+      "english": "bound",
+      "ipa": "/baʊnd/",
+      "vietnamese": "nhất định, chắc chắn (bound to)",
+      "example": "It is bound to happen."
+    },
+    {
+      "english": "bowl",
+      "ipa": "/bəʊl/",
+      "vietnamese": "cái bát",
+      "example": "She ate a bowl of soup."
+    },
+    {
+      "english": "box",
+      "ipa": "/bɒks/",
+      "vietnamese": "hộp, thùng",
+      "example": "Pack the books in the box."
+    },
+    {
+      "english": "boy",
+      "ipa": "/bɔɪ/",
+      "vietnamese": "con trai, thiếu niên",
+      "example": "The boy is playing football."
+    },
+    {
+      "english": "boyfriend",
+      "ipa": "/ˈbɔɪfrend/",
+      "vietnamese": "bạn trai",
+      "example": "She went out with her boyfriend."
+    },
+    {
+      "english": "brain",
+      "ipa": "/breɪn/",
+      "vietnamese": "óc não; đầu óc, trí não",
+      "example": "Use your brain."
+    },
+    {
+      "english": "branch",
+      "ipa": "/brɑːntʃ/",
+      "vietnamese": "ngành; nhành cây, chi nhánh",
+      "example": "The bank has a local branch."
+    },
+    {
+      "english": "brand",
+      "ipa": "/brænd/",
+      "vietnamese": "nhãn (hàng hóa)",
+      "example": "Which brand do you prefer?"
+    },
+    {
+      "english": "brave",
+      "ipa": "/breɪv/",
+      "vietnamese": "gan dạ, can đảm",
+      "example": "He was a brave soldier."
+    },
+    {
+      "english": "bread",
+      "ipa": "/bred/",
+      "vietnamese": "bánh mỳ",
+      "example": "I need to buy some bread."
+    },
+    {
+      "english": "break",
+      "ipa": "/breɪk/",
+      "vietnamese": "bẻ gẫy, đập vỡ; sự gãy, sự vỡ, giờ nghỉ",
+      "example": "Don't break the glass."
+    },
+    {
+      "english": "breakfast",
+      "ipa": "/ˈbrekfəst/",
+      "vietnamese": "bữa điểm tâm, bữa sáng",
+      "example": "I have breakfast at 7 am."
+    },
+    {
+      "english": "breast",
+      "ipa": "/brest/",
+      "vietnamese": "ngực, vú",
+      "example": "Breast milk is best for babies."
+    },
+    {
+      "english": "breath",
+      "ipa": "/breθ/",
+      "vietnamese": "hơi thở, hơi",
+      "example": "Take a deep breath."
+    },
+    {
+      "english": "breathe",
+      "ipa": "/briːð/",
+      "vietnamese": "hít, thở",
+      "example": "I can't breathe in this smoke."
+    },
+    {
+      "english": "breathing",
+      "ipa": "/ˈbriːðɪŋ/",
+      "vietnamese": "sự hô hấp, sự thở",
+      "example": "His breathing was heavy."
+    },
+    {
+      "english": "breed",
+      "ipa": "/briːd/",
+      "vietnamese": "nuôi dưỡng; sinh đẻ; nòi giống",
+      "example": "They breed horses."
+    },
+    {
+      "english": "brick",
+      "ipa": "/brɪk/",
+      "vietnamese": "gạch",
+      "example": "The wall is made of red brick."
+    },
+    {
+      "english": "bridge",
+      "ipa": "/brɪdʒ/",
+      "vietnamese": "cái cầu",
+      "example": "We crossed the bridge."
+    },
+    {
+      "english": "brief",
+      "ipa": "/briːf/",
+      "vietnamese": "ngắn, gọn, vắn tắt",
+      "example": "Keep your report brief."
+    },
+    {
+      "english": "briefly",
+      "ipa": "/ˈbriːfli/",
+      "vietnamese": "ngắn, gọn, vắn tắt, tóm tắt",
+      "example": "She spoke briefly."
+    },
+    {
+      "english": "bright",
+      "ipa": "/braɪt/",
+      "vietnamese": "sáng, sáng chói",
+      "example": "The sun is very bright."
+    },
+    {
+      "english": "brightly",
+      "ipa": "/ˈbraɪtli/",
+      "vietnamese": "sáng chói, tươi",
+      "example": "The room was brightly lit."
+    },
+    {
+      "english": "brilliant",
+      "ipa": "/ˈbrɪliənt/",
+      "vietnamese": "tỏa sáng, rực rỡ, chói lọi; xuất sắc",
+      "example": "That's a brilliant idea."
+    },
+    {
+      "english": "bring",
+      "ipa": "/brɪŋ/",
+      "vietnamese": "mang, cầm, xách lại",
+      "example": "Please bring me the menu."
+    },
+    {
+      "english": "broad",
+      "ipa": "/brɔːd/",
+      "vietnamese": "rộng",
+      "example": "He has broad shoulders."
+    },
+    {
+      "english": "broadcast",
+      "ipa": "/ˈbrɔːdkɑːst/",
+      "vietnamese": "phát thanh, quảng bá",
+      "example": "The news was broadcast live."
+    },
+    {
+      "english": "broadly",
+      "ipa": "/ˈbrɔːdli/",
+      "vietnamese": "rộng, rộng rãi",
+      "example": "Broadly speaking, I agree."
+    },
+    {
+      "english": "broken",
+      "ipa": "/ˈbrəʊkən/",
+      "vietnamese": "bị gãy, bị vỡ",
+      "example": "The window is broken."
+    },
+    {
+      "english": "brother",
+      "ipa": "/ˈbrʌðər/",
+      "vietnamese": "anh, em trai",
+      "example": "I have one brother."
+    },
+    {
+      "english": "brown",
+      "ipa": "/braʊn/",
+      "vietnamese": "nâu, màu nâu",
+      "example": "She has brown eyes."
+    },
+    {
+      "english": "brush",
+      "ipa": "/brʌʃ/",
+      "vietnamese": "bàn chải; chải, quét",
+      "example": "Brush your teeth."
+    },
+    {
+      "english": "bubble",
+      "ipa": "/ˈbʌbl/",
+      "vietnamese": "bong bóng, bọt",
+      "example": "The kids like blowing bubbles."
+    },
+    {
+      "english": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "vietnamese": "ngân sách",
+      "example": "We are on a tight budget."
+    },
+    {
+      "english": "build",
+      "ipa": "/bɪld/",
+      "vietnamese": "xây dựng",
+      "example": "They plan to build a house."
+    },
+    {
+      "english": "building",
+      "ipa": "/ˈbɪldɪŋ/",
+      "vietnamese": "sự xây dựng, công trình xây dựng, tòa nhà",
+      "example": "That is a tall building."
+    },
+    {
+      "english": "bullet",
+      "ipa": "/ˈbʊlɪt/",
+      "vietnamese": "đạn (súng trường, súng lục)",
+      "example": "The bullet hit the wall."
+    },
+    {
+      "english": "bunch",
+      "ipa": "/bʌntʃ/",
+      "vietnamese": "búi, chùm, bó, cụm",
+      "example": "A bunch of flowers."
+    },
+    {
+      "english": "burn",
+      "ipa": "/bɜːn/",
+      "vietnamese": "đốt, đốt cháy, thắp, nung",
+      "example": "The fire burns brightly."
+    },
+    {
+      "english": "burnt",
+      "ipa": "/bɜːnt/",
+      "vietnamese": "bị đốt, bị cháy",
+      "example": "The toast is burnt."
+    },
+    {
+      "english": "burst",
+      "ipa": "/bɜːst/",
+      "vietnamese": "nổ, nổ tung; vỡ",
+      "example": "The balloon burst."
+    },
+    {
+      "english": "bury",
+      "ipa": "/ˈberi/",
+      "vietnamese": "chôn cất, mai táng",
+      "example": "They buried the treasure."
+    },
+    {
+      "english": "bus",
+      "ipa": "/bʌs/",
+      "vietnamese": "xe buýt",
+      "example": "I go to work by bus."
+    },
+    {
+      "english": "bush",
+      "ipa": "/bʊʃ/",
+      "vietnamese": "bụi cây, bụi rậm",
+      "example": "The cat hid in the bush."
+    },
+    {
+      "english": "business",
+      "ipa": "/ˈbɪznɪs/",
+      "vietnamese": "việc buôn bán, thương mại",
+      "example": "Business is good."
+    },
+    {
+      "english": "businessman, businesswoman",
+      "ipa": "/ˈbɪznəsmæn/",
+      "vietnamese": "thương nhân",
+      "example": "He is a successful businessman."
+    },
+    {
+      "english": "busy",
+      "ipa": "/ˈbɪzi/",
+      "vietnamese": "bận, bận rộn",
+      "example": "I am very busy today."
+    },
+    {
+      "english": "but",
+      "ipa": "/bʌt/",
+      "vietnamese": "nhưng",
+      "example": "I'd love to go, but I can't."
+    },
+    {
+      "english": "butter",
+      "ipa": "/ˈbʌtər/",
+      "vietnamese": "bơ",
+      "example": "Bread and butter."
+    },
+    {
+      "english": "button",
+      "ipa": "/ˈbʌtn/",
+      "vietnamese": "cái nút, cái khuy, cúc",
+      "example": "Push the button."
+    },
+    {
+      "english": "buy",
+      "ipa": "/baɪ/",
+      "vietnamese": "mua",
+      "example": "I want to buy a car."
+    },
+    {
+      "english": "buyer",
+      "ipa": "/ˈbaɪər/",
+      "vietnamese": "người mua",
+      "example": "We found a buyer for the house."
+    },
+    {
+      "english": "by",
+      "ipa": "/baɪ/",
+      "vietnamese": "bởi, bằng",
+      "example": "Written by John."
+    },
+    {
+      "english": "bye",
+      "ipa": "/baɪ/",
+      "vietnamese": "tạm biệt",
+      "example": "Bye, see you later!"
+    }
+  ]
+}
