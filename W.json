@@ -1,0 +1,707 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: W (English Vocabulary)",
+  "words": [
+    {
+      "english": "wage",
+      "ipa": "/weɪdʒ/",
+      "vietnamese": "tiền lương, tiền công",
+      "example": "Minimum wage."
+    },
+    {
+      "english": "waist",
+      "ipa": "/weɪst/",
+      "vietnamese": "eo, chỗ thắt lưng",
+      "example": "Slim waist."
+    },
+    {
+      "english": "wait",
+      "ipa": "/weɪt/",
+      "vietnamese": "chờ đợi",
+      "example": "Wait for me."
+    },
+    {
+      "english": "waiter, waitress",
+      "ipa": "/ˈweɪtər/",
+      "vietnamese": "người hầu bàn, bồi bàn",
+      "example": "The waiter brought the menu."
+    },
+    {
+      "english": "wake",
+      "ipa": "/weɪk/",
+      "vietnamese": "thức dậy, tỉnh thức",
+      "example": "Wake up early."
+    },
+    {
+      "english": "walk",
+      "ipa": "/wɔːk/",
+      "vietnamese": "đi, đi bộ; sự đi bộ",
+      "example": "Go for a walk."
+    },
+    {
+      "english": "walking",
+      "ipa": "/ˈwɔːkɪŋ/",
+      "vietnamese": "sự đi, sự đi bộ",
+      "example": "Walking is good exercise."
+    },
+    {
+      "english": "wall",
+      "ipa": "/wɔːl/",
+      "vietnamese": "tường, vách",
+      "example": "Brick wall."
+    },
+    {
+      "english": "wallet",
+      "ipa": "/ˈwɒlɪt/",
+      "vietnamese": "cái ví",
+      "example": "I lost my wallet."
+    },
+    {
+      "english": "wander",
+      "ipa": "/ˈwɒndər/",
+      "vietnamese": "đi lang thang; sự đi lang thang",
+      "example": "Wander around the city."
+    },
+    {
+      "english": "want",
+      "ipa": "/wɒnt/",
+      "vietnamese": "muốn",
+      "example": "I want some water."
+    },
+    {
+      "english": "war",
+      "ipa": "/wɔːr/",
+      "vietnamese": "chiến tranh",
+      "example": "World War II."
+    },
+    {
+      "english": "warm",
+      "ipa": "/wɔːrm/",
+      "vietnamese": "ấm, ấm áp; hâm nóng",
+      "example": "Warm weather."
+    },
+    {
+      "english": "warmth",
+      "ipa": "/wɔːrmθ/",
+      "vietnamese": "trạng thái ấm, sự ấm áp",
+      "example": "Feel the warmth of the sun."
+    },
+    {
+      "english": "warn",
+      "ipa": "/wɔːrn/",
+      "vietnamese": "báo cho biết, cảnh báo",
+      "example": "Warn someone of danger."
+    },
+    {
+      "english": "warning",
+      "ipa": "/ˈwɔːrnɪŋ/",
+      "vietnamese": "sự báo trước, lời cảnh báo",
+      "example": "Give a warning."
+    },
+    {
+      "english": "wash",
+      "ipa": "/wɒʃ/",
+      "vietnamese": "rửa, giặt",
+      "example": "Wash your hands."
+    },
+    {
+      "english": "washing",
+      "ipa": "/ˈwɒʃɪŋ/",
+      "vietnamese": "sự tắm rửa, sự giặt",
+      "example": "Do the washing."
+    },
+    {
+      "english": "waste",
+      "ipa": "/weɪst/",
+      "vietnamese": "lãng phí; rác thải",
+      "example": "Don't waste time."
+    },
+    {
+      "english": "watch",
+      "ipa": "/wɒtʃ/",
+      "vietnamese": "nhìn, theo dõi; đồng hồ đeo tay",
+      "example": "Watch TV."
+    },
+    {
+      "english": "water",
+      "ipa": "/ˈwɔːtər/",
+      "vietnamese": "nước; tưới nước",
+      "example": "Drink water."
+    },
+    {
+      "english": "wave",
+      "ipa": "/weɪv/",
+      "vietnamese": "làn sóng; vẫy tay",
+      "example": "Ocean wave."
+    },
+    {
+      "english": "way",
+      "ipa": "/weɪ/",
+      "vietnamese": "đường, lối đi; cách thức",
+      "example": "This way, please."
+    },
+    {
+      "english": "we",
+      "ipa": "/wiː/",
+      "vietnamese": "chúng tôi, chúng ta",
+      "example": "We are friends."
+    },
+    {
+      "english": "weak",
+      "ipa": "/wiːk/",
+      "vietnamese": "yếu",
+      "example": "Feeling weak."
+    },
+    {
+      "english": "weakness",
+      "ipa": "/ˈwiːknəs/",
+      "vietnamese": "nhược điểm, điểm yếu",
+      "example": "Overcome weakness."
+    },
+    {
+      "english": "wealth",
+      "ipa": "/welθ/",
+      "vietnamese": "sự giàu có, của cải",
+      "example": "Health is wealth."
+    },
+    {
+      "english": "weapon",
+      "ipa": "/ˈwepən/",
+      "vietnamese": "vũ khí",
+      "example": "Nuclear weapon."
+    },
+    {
+      "english": "wear",
+      "ipa": "/weər/",
+      "vietnamese": "mặc, mang, đeo",
+      "example": "Wear a hat."
+    },
+    {
+      "english": "weather",
+      "ipa": "/ˈweðər/",
+      "vietnamese": "thời tiết",
+      "example": "Nice weather."
+    },
+    {
+      "english": "web",
+      "ipa": "/web/",
+      "vietnamese": "mạng, lưới",
+      "example": "World Wide Web."
+    },
+    {
+      "english": "website",
+      "ipa": "/ˈwebsaɪt/",
+      "vietnamese": "trang web",
+      "example": "Visit our website."
+    },
+    {
+      "english": "wedding",
+      "ipa": "/ˈwedɪŋ/",
+      "vietnamese": "lễ cưới, đám cưới",
+      "example": "Wedding ceremony."
+    },
+    {
+      "english": "Wednesday",
+      "ipa": "/ˈwenzdeɪ/",
+      "vietnamese": "thứ Tư",
+      "example": "On Wednesday."
+    },
+    {
+      "english": "week",
+      "ipa": "/wiːk/",
+      "vietnamese": "tuần, tuần lễ",
+      "example": "Next week."
+    },
+    {
+      "english": "weekend",
+      "ipa": "/ˌwiːkˈend/",
+      "vietnamese": "cuối tuần",
+      "example": "Have a nice weekend."
+    },
+    {
+      "english": "weigh",
+      "ipa": "/weɪ/",
+      "vietnamese": "cân, cân nặng",
+      "example": "Weigh the fruit."
+    },
+    {
+      "english": "weight",
+      "ipa": "/weɪt/",
+      "vietnamese": "trọng lượng, cân nặng",
+      "example": "Lose weight."
+    },
+    {
+      "english": "welcome",
+      "ipa": "/ˈwelkəm/",
+      "vietnamese": "chào mừng, hoan nghênh",
+      "example": "Welcome home."
+    },
+    {
+      "english": "well",
+      "ipa": "/wel/",
+      "vietnamese": "tốt, khỏe; cái giếng",
+      "example": "Well done."
+    },
+    {
+      "english": "west",
+      "ipa": "/west/",
+      "vietnamese": "phía tây, hướng tây",
+      "example": "Go west."
+    },
+    {
+      "english": "western",
+      "ipa": "/ˈwestərn/",
+      "vietnamese": "thuộc phía tây",
+      "example": "Western culture."
+    },
+    {
+      "english": "wet",
+      "ipa": "/wet/",
+      "vietnamese": "ướt, ẩm ướt",
+      "example": "Wet floor."
+    },
+    {
+      "english": "what",
+      "ipa": "/wɒt/",
+      "vietnamese": "gì, thế nào",
+      "example": "What is this?"
+    },
+    {
+      "english": "whatever",
+      "ipa": "/wɒtˈevər/",
+      "vietnamese": "bất cứ thứ gì, sao cũng được",
+      "example": "Do whatever you like."
+    },
+    {
+      "english": "wheel",
+      "ipa": "/wiːl/",
+      "vietnamese": "bánh xe",
+      "example": "Steering wheel."
+    },
+    {
+      "english": "when",
+      "ipa": "/wen/",
+      "vietnamese": "khi nào",
+      "example": "When will you arrive?"
+    },
+    {
+      "english": "whenever",
+      "ipa": "/wenˈevər/",
+      "vietnamese": "bất cứ khi nào",
+      "example": "Call me whenever you want."
+    },
+    {
+      "english": "where",
+      "ipa": "/weər/",
+      "vietnamese": "ở đâu",
+      "example": "Where are you?"
+    },
+    {
+      "english": "whereas",
+      "ipa": "/ˌweərˈæz/",
+      "vietnamese": "nhưng ngược lại, trong khi",
+      "example": "He loves dogs, whereas she hates them."
+    },
+    {
+      "english": "wherever",
+      "ipa": "/weərˈevər/",
+      "vietnamese": "bất cứ nơi đâu",
+      "example": "Go wherever you like."
+    },
+    {
+      "english": "whether",
+      "ipa": "/ˈweðər/",
+      "vietnamese": "liệu có... không",
+      "example": "I don't know whether to go or stay."
+    },
+    {
+      "english": "which",
+      "ipa": "/wɪtʃ/",
+      "vietnamese": "nào, cái nào",
+      "example": "Which one do you prefer?"
+    },
+    {
+      "english": "while",
+      "ipa": "/waɪl/",
+      "vietnamese": "trong khi, lúc, chốc lát",
+      "example": "Wait a while."
+    },
+    {
+      "english": "whisper",
+      "ipa": "/ˈwɪspər/",
+      "vietnamese": "nói thầm, thì thầm",
+      "example": "Whisper in my ear."
+    },
+    {
+      "english": "whistle",
+      "ipa": "/ˈwɪsl/",
+      "vietnamese": "huýt sáo; cái còi",
+      "example": "Blow the whistle."
+    },
+    {
+      "english": "white",
+      "ipa": "/waɪt/",
+      "vietnamese": "trắng; màu trắng",
+      "example": "White snow."
+    },
+    {
+      "english": "who",
+      "ipa": "/huː/",
+      "vietnamese": "ai, người nào",
+      "example": "Who are you?"
+    },
+    {
+      "english": "whoever",
+      "ipa": "/huːˈevər/",
+      "vietnamese": "bất cứ ai",
+      "example": "Whoever did this is in trouble."
+    },
+    {
+      "english": "whole",
+      "ipa": "/həʊl/",
+      "vietnamese": "toàn bộ, tất cả",
+      "example": "The whole world."
+    },
+    {
+      "english": "whom",
+      "ipa": "/huːm/",
+      "vietnamese": "ai, người nào (tân ngữ)",
+      "example": "To whom it may concern."
+    },
+    {
+      "english": "whose",
+      "ipa": "/huːz/",
+      "vietnamese": "của ai",
+      "example": "Whose bag is this?"
+    },
+    {
+      "english": "why",
+      "ipa": "/waɪ/",
+      "vietnamese": "tại sao",
+      "example": "Why are you late?"
+    },
+    {
+      "english": "wide",
+      "ipa": "/waɪd/",
+      "vietnamese": "rộng",
+      "example": "Wide street."
+    },
+    {
+      "english": "widely",
+      "ipa": "/ˈwaɪdli/",
+      "vietnamese": "rộng rãi",
+      "example": "Widely known."
+    },
+    {
+      "english": "width",
+      "ipa": "/wɪdθ/",
+      "vietnamese": "chiều rộng, bề rộng",
+      "example": "Width and height."
+    },
+    {
+      "english": "wife",
+      "ipa": "/waɪf/",
+      "vietnamese": "vợ",
+      "example": "Husband and wife."
+    },
+    {
+      "english": "wild",
+      "ipa": "/waɪld/",
+      "vietnamese": "hoang dã",
+      "example": "Wild animals."
+    },
+    {
+      "english": "will",
+      "ipa": "/wɪl/",
+      "vietnamese": "sẽ; ý chí",
+      "example": "I will go."
+    },
+    {
+      "english": "willing",
+      "ipa": "/ˈwɪlɪŋ/",
+      "vietnamese": "sẵn lòng",
+      "example": "Willing to help."
+    },
+    {
+      "english": "willingly",
+      "ipa": "/ˈwɪlɪŋli/",
+      "vietnamese": "một cách sẵn lòng",
+      "example": "He went willingly."
+    },
+    {
+      "english": "willingness",
+      "ipa": "/ˈwɪlɪŋnəs/",
+      "vietnamese": "sự sẵn lòng",
+      "example": "Show willingness."
+    },
+    {
+      "english": "win",
+      "ipa": "/wɪn/",
+      "vietnamese": "chiến thắng",
+      "example": "Win the game."
+    },
+    {
+      "english": "wind",
+      "ipa": "/wɪnd/",
+      "vietnamese": "gió",
+      "example": "Strong wind."
+    },
+    {
+      "english": "window",
+      "ipa": "/ˈwɪndəʊ/",
+      "vietnamese": "cửa sổ",
+      "example": "Open the window."
+    },
+    {
+      "english": "wine",
+      "ipa": "/waɪn/",
+      "vietnamese": "rượu vang",
+      "example": "Red wine."
+    },
+    {
+      "english": "wing",
+      "ipa": "/wɪŋ/",
+      "vietnamese": "cánh",
+      "example": "Bird's wing."
+    },
+    {
+      "english": "winner",
+      "ipa": "/ˈwɪnər/",
+      "vietnamese": "người chiến thắng",
+      "example": "The winner of the race."
+    },
+    {
+      "english": "winning",
+      "ipa": "/ˈwɪnɪŋ/",
+      "vietnamese": "đang thắng, thắng cuộc",
+      "example": "Winning team."
+    },
+    {
+      "english": "winter",
+      "ipa": "/ˈwɪntər/",
+      "vietnamese": "mùa đông",
+      "example": "Cold winter."
+    },
+    {
+      "english": "wire",
+      "ipa": "/waɪər/",
+      "vietnamese": "dây (kim loại, cước)",
+      "example": "Copper wire."
+    },
+    {
+      "english": "wise",
+      "ipa": "/waɪz/",
+      "vietnamese": "khôn ngoan, sáng suốt",
+      "example": "A wise decision."
+    },
+    {
+      "english": "wish",
+      "ipa": "/wɪʃ/",
+      "vietnamese": "ước, mong muốn",
+      "example": "Make a wish."
+    },
+    {
+      "english": "with",
+      "ipa": "/wɪð/",
+      "vietnamese": "với, cùng",
+      "example": "Come with me."
+    },
+    {
+      "english": "within",
+      "ipa": "/wɪˈðɪn/",
+      "vietnamese": "trong vòng, trong phạm vi",
+      "example": "Within a week."
+    },
+    {
+      "english": "without",
+      "ipa": "/wɪˈðaʊt/",
+      "vietnamese": "không có",
+      "example": "Coffee without sugar."
+    },
+    {
+      "english": "witness",
+      "ipa": "/ˈwɪtnəs/",
+      "vietnamese": "nhân chứng; làm chứng",
+      "example": "Witness a crime."
+    },
+    {
+      "english": "woman",
+      "ipa": "/ˈwʊmən/",
+      "vietnamese": "phụ nữ, đàn bà",
+      "example": "A beautiful woman."
+    },
+    {
+      "english": "wonder",
+      "ipa": "/ˈwʌndər/",
+      "vietnamese": "tự hỏi, ngạc nhiên; điều kỳ diệu",
+      "example": "I wonder why."
+    },
+    {
+      "english": "wonderful",
+      "ipa": "/ˈwʌndərfʊl/",
+      "vietnamese": "tuyệt vời, kỳ diệu",
+      "example": "Wonderful news."
+    },
+    {
+      "english": "wood",
+      "ipa": "/wʊd/",
+      "vietnamese": "gỗ; rừng",
+      "example": "Made of wood."
+    },
+    {
+      "english": "wooden",
+      "ipa": "/ˈwʊdn/",
+      "vietnamese": "làm bằng gỗ",
+      "example": "Wooden spoon."
+    },
+    {
+      "english": "wool",
+      "ipa": "/wʊl/",
+      "vietnamese": "len",
+      "example": "Wool sweater."
+    },
+    {
+      "english": "word",
+      "ipa": "/wɜːrd/",
+      "vietnamese": "từ, lời nói",
+      "example": "Look up a word."
+    },
+    {
+      "english": "work",
+      "ipa": "/wɜːrk/",
+      "vietnamese": "làm việc; công việc",
+      "example": "Hard work."
+    },
+    {
+      "english": "worker",
+      "ipa": "/ˈwɜːrkər/",
+      "vietnamese": "công nhân, người lao động",
+      "example": "Factory worker."
+    },
+    {
+      "english": "working",
+      "ipa": "/ˈwɜːrkɪŋ/",
+      "vietnamese": "đang làm việc",
+      "example": "Working hours."
+    },
+    {
+      "english": "world",
+      "ipa": "/wɜːrld/",
+      "vietnamese": "thế giới",
+      "example": "Around the world."
+    },
+    {
+      "english": "worried",
+      "ipa": "/ˈwʌrid/",
+      "vietnamese": "lo lắng",
+      "example": "I am worried about you."
+    },
+    {
+      "english": "worry",
+      "ipa": "/ˈwʌri/",
+      "vietnamese": "lo lắng; sự lo lắng",
+      "example": "Don't worry."
+    },
+    {
+      "english": "worrying",
+      "ipa": "/ˈwʌriɪŋ/",
+      "vietnamese": "gây lo lắng",
+      "example": "Worrying news."
+    },
+    {
+      "english": "worse",
+      "ipa": "/wɜːrs/",
+      "vietnamese": "tệ hơn",
+      "example": "Getting worse."
+    },
+    {
+      "english": "worship",
+      "ipa": "/ˈwɜːrʃɪp/",
+      "vietnamese": "thờ cúng, tôn sùng",
+      "example": "Worship God."
+    },
+    {
+      "english": "worst",
+      "ipa": "/wɜːrst/",
+      "vietnamese": "tệ nhất",
+      "example": "The worst day."
+    },
+    {
+      "english": "worth",
+      "ipa": "/wɜːrθ/",
+      "vietnamese": "đáng giá",
+      "example": "It is worth reading."
+    },
+    {
+      "english": "would",
+      "ipa": "/wʊd/",
+      "vietnamese": "sẽ (quá khứ của will)",
+      "example": "He said he would come."
+    },
+    {
+      "english": "wound",
+      "ipa": "/wuːnd/",
+      "vietnamese": "vết thương; làm bị thương",
+      "example": "A gunshot wound."
+    },
+    {
+      "english": "wounded",
+      "ipa": "/ˈwuːndɪd/",
+      "vietnamese": "bị thương",
+      "example": "Wounded soldiers."
+    },
+    {
+      "english": "wrap",
+      "ipa": "/ræp/",
+      "vietnamese": "gói, bọc",
+      "example": "Wrap a gift."
+    },
+    {
+      "english": "wrapping",
+      "ipa": "/ˈræpɪŋ/",
+      "vietnamese": "vật bao bọc, giấy gói",
+      "example": "Wrapping paper."
+    },
+    {
+      "english": "wrist",
+      "ipa": "/rɪst/",
+      "vietnamese": "cổ tay",
+      "example": "Wrist watch."
+    },
+    {
+      "english": "write",
+      "ipa": "/raɪt/",
+      "vietnamese": "viết",
+      "example": "Write a letter."
+    },
+    {
+      "english": "writer",
+      "ipa": "/ˈraɪtər/",
+      "vietnamese": "nhà văn, người viết",
+      "example": "Famous writer."
+    },
+    {
+      "english": "writing",
+      "ipa": "/ˈraɪtɪŋ/",
+      "vietnamese": "sự viết, bài viết",
+      "example": "Creative writing."
+    },
+    {
+      "english": "written",
+      "ipa": "/ˈrɪtn/",
+      "vietnamese": "được viết (v3 của write)",
+      "example": "Written exam."
+    },
+    {
+      "english": "wrong",
+      "ipa": "/rɒŋ/",
+      "vietnamese": "sai",
+      "example": "You are wrong."
+    },
+    {
+      "english": "wrongly",
+      "ipa": "/ˈrɒŋli/",
+      "vietnamese": "một cách sai trái",
+      "example": "Wrongly accused."
+    }
+  ]
+}
