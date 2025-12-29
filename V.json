@@ -1,0 +1,701 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: U & V (English Vocabulary)",
+  "words": [
+    {
+      "english": "ugly",
+      "ipa": "/ˈʌɡli/",
+      "vietnamese": "xấu xí, xấu xa",
+      "example": "An ugly duckling."
+    },
+    {
+      "english": "ultimate",
+      "ipa": "/ˈʌltəmɪt/",
+      "vietnamese": "cuối cùng, sau cùng",
+      "example": "The ultimate goal."
+    },
+    {
+      "english": "ultimately",
+      "ipa": "/ˈʌltɪmətli/",
+      "vietnamese": "cuối cùng, sau cùng",
+      "example": "Ultimately, he agreed."
+    },
+    {
+      "english": "umbrella",
+      "ipa": "/ʌmˈbrelə/",
+      "vietnamese": "ô, dù",
+      "example": "Take an umbrella."
+    },
+    {
+      "english": "unable",
+      "ipa": "/ʌnˈeɪbl/",
+      "vietnamese": "không thể, không có khả năng",
+      "example": "Unable to attend."
+    },
+    {
+      "english": "unacceptable",
+      "ipa": "/ˌʌnəkˈseptəbl/",
+      "vietnamese": "không chấp nhận được",
+      "example": "Unacceptable behavior."
+    },
+    {
+      "english": "uncertain",
+      "ipa": "/ʌnˈsɜːrtn/",
+      "vietnamese": "thiếu chính xác, không chắc chắn",
+      "example": "The future is uncertain."
+    },
+    {
+      "english": "uncle",
+      "ipa": "/ˈʌŋkl/",
+      "vietnamese": "chú, bác",
+      "example": "My uncle lives in London."
+    },
+    {
+      "english": "uncomfortable",
+      "ipa": "/ʌnˈkʌmftəbl/",
+      "vietnamese": "bất tiện, khó chịu",
+      "example": "An uncomfortable chair."
+    },
+    {
+      "english": "unconscious",
+      "ipa": "/ʌnˈkɒnʃəs/",
+      "vietnamese": "bất tỉnh, không có ý thức",
+      "example": "He fell unconscious."
+    },
+    {
+      "english": "uncontrolled",
+      "ipa": "/ˌʌnkənˈtrəʊld/",
+      "vietnamese": "không bị kiềm chế, không bị kiểm soát",
+      "example": "Uncontrolled anger."
+    },
+    {
+      "english": "under",
+      "ipa": "/ˈʌndər/",
+      "vietnamese": "dưới, ở dưới",
+      "example": "Under the table."
+    },
+    {
+      "english": "underground",
+      "ipa": "/ˌʌndərˈɡraʊnd/",
+      "vietnamese": "dưới mặt đất, ngầm",
+      "example": "Underground railway."
+    },
+    {
+      "english": "underneath",
+      "ipa": "/ˌʌndərˈniːθ/",
+      "vietnamese": "dưới, bên dưới",
+      "example": "Underneath the bed."
+    },
+    {
+      "english": "understand",
+      "ipa": "/ˌʌndərˈstænd/",
+      "vietnamese": "hiểu, nhận thức",
+      "example": "I understand the question."
+    },
+    {
+      "english": "understanding",
+      "ipa": "/ˌʌndərˈstændɪŋ/",
+      "vietnamese": "trí tuệ, sự hiểu biết",
+      "example": "Show understanding."
+    },
+    {
+      "english": "underwater",
+      "ipa": "/ˌʌndərˈwɔːtər/",
+      "vietnamese": "ở dưới mặt nước",
+      "example": "Underwater camera."
+    },
+    {
+      "english": "underwear",
+      "ipa": "/ˈʌndəweər/",
+      "vietnamese": "đồ lót",
+      "example": "Men's underwear."
+    },
+    {
+      "english": "undo",
+      "ipa": "/ʌnˈduː/",
+      "vietnamese": "tháo, gỡ; xóa bỏ",
+      "example": "Undo the knot."
+    },
+    {
+      "english": "unemployed",
+      "ipa": "/ˌʌnɪmˈplɔɪd/",
+      "vietnamese": "thất nghiệp",
+      "example": "Unemployed workers."
+    },
+    {
+      "english": "unemployment",
+      "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+      "vietnamese": "sự thất nghiệp",
+      "example": "High unemployment."
+    },
+    {
+      "english": "unexpected",
+      "ipa": "/ˌʌnɪkˈspektɪd/",
+      "vietnamese": "bất ngờ",
+      "example": "An unexpected guest."
+    },
+    {
+      "english": "unexpectedly",
+      "ipa": "/ˌʌnɪkˈspektɪdli/",
+      "vietnamese": "bất ngờ, thình lình",
+      "example": "He arrived unexpectedly."
+    },
+    {
+      "english": "unfair",
+      "ipa": "/ˌʌnˈfeər/",
+      "vietnamese": "không công bằng, gian lận",
+      "example": "It's unfair."
+    },
+    {
+      "english": "unfairly",
+      "ipa": "/ˌʌnˈfeəli/",
+      "vietnamese": "một cách không công bằng",
+      "example": "Treated unfairly."
+    },
+    {
+      "english": "unfortunate",
+      "ipa": "/ʌnˈfɔːrtʃənət/",
+      "vietnamese": "không may, bất hạnh",
+      "example": "An unfortunate accident."
+    },
+    {
+      "english": "unfortunately",
+      "ipa": "/ʌnˈfɔːrtʃənətli/",
+      "vietnamese": "một cách đáng tiếc",
+      "example": "Unfortunately, I can't go."
+    },
+    {
+      "english": "unfriendly",
+      "ipa": "/ʌnˈfrendli/",
+      "vietnamese": "không thân thiện",
+      "example": "Unfriendly attitude."
+    },
+    {
+      "english": "unhappiness",
+      "ipa": "/ʌnˈhæpinəs/",
+      "vietnamese": "nỗi buồn, sự bất hạnh",
+      "example": "Deep unhappiness."
+    },
+    {
+      "english": "unhappy",
+      "ipa": "/ʌnˈhæpi/",
+      "vietnamese": "buồn rầu, khốn khổ",
+      "example": "An unhappy childhood."
+    },
+    {
+      "english": "uniform",
+      "ipa": "/ˈjuːnɪfɔːrm/",
+      "vietnamese": "đồng phục; đều, giống nhau",
+      "example": "School uniform."
+    },
+    {
+      "english": "unimportant",
+      "ipa": "/ˌʌnɪmˈpɔːrtnt/",
+      "vietnamese": "không quan trọng",
+      "example": "Unimportant details."
+    },
+    {
+      "english": "union",
+      "ipa": "/ˈjuːniən/",
+      "vietnamese": "liên hiệp, sự đoàn kết",
+      "example": "Trade union."
+    },
+    {
+      "english": "unique",
+      "ipa": "/juˈniːk/",
+      "vietnamese": "độc nhất vô nhị",
+      "example": "A unique opportunity."
+    },
+    {
+      "english": "unit",
+      "ipa": "/ˈjuːnɪt/",
+      "vietnamese": "đơn vị",
+      "example": "Unit of measurement."
+    },
+    {
+      "english": "unite",
+      "ipa": "/juˈnaɪt/",
+      "vietnamese": "liên kết, hợp nhất",
+      "example": "Workers unite."
+    },
+    {
+      "english": "united",
+      "ipa": "/juˈnaɪtɪd/",
+      "vietnamese": "liên minh, đoàn kết",
+      "example": "The United States."
+    },
+    {
+      "english": "universe",
+      "ipa": "/ˈjuːnɪvɜːrs/",
+      "vietnamese": "vũ trụ",
+      "example": "The origin of the universe."
+    },
+    {
+      "english": "university",
+      "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+      "vietnamese": "trường đại học",
+      "example": "Go to university."
+    },
+    {
+      "english": "unkind",
+      "ipa": "/ˌʌnˈkaɪnd/",
+      "vietnamese": "độc ác, tàn nhẫn",
+      "example": "It was unkind of you."
+    },
+    {
+      "english": "unknown",
+      "ipa": "/ˌʌnˈnəʊn/",
+      "vietnamese": "không biết, vô danh",
+      "example": "Unknown artist."
+    },
+    {
+      "english": "unless",
+      "ipa": "/ənˈles/",
+      "vietnamese": "trừ phi, nếu không",
+      "example": "Unless you work hard."
+    },
+    {
+      "english": "unlike",
+      "ipa": "/ˌʌnˈlaɪk/",
+      "vietnamese": "khác, không giống",
+      "example": "Unlike his brother."
+    },
+    {
+      "english": "unlikely",
+      "ipa": "/ʌnˈlaɪkli/",
+      "vietnamese": "không thể xảy ra, không chắc",
+      "example": "It is unlikely to rain."
+    },
+    {
+      "english": "unload",
+      "ipa": "/ˌʌnˈləʊd/",
+      "vietnamese": "dỡ hàng",
+      "example": "Unload the truck."
+    },
+    {
+      "english": "unlucky",
+      "ipa": "/ʌnˈlʌki/",
+      "vietnamese": "không may, bất hạnh",
+      "example": "Unlucky day."
+    },
+    {
+      "english": "unnecessary",
+      "ipa": "/ʌnˈnesəsəri/",
+      "vietnamese": "không cần thiết",
+      "example": "Unnecessary expense."
+    },
+    {
+      "english": "unpleasant",
+      "ipa": "/ʌnˈpleznt/",
+      "vietnamese": "không dễ chịu, khó chịu",
+      "example": "Unpleasant smell."
+    },
+    {
+      "english": "unreasonable",
+      "ipa": "/ʌnˈriːznəbl/",
+      "vietnamese": "vô lý",
+      "example": "Unreasonable demand."
+    },
+    {
+      "english": "unsteady",
+      "ipa": "/ʌnˈstedi/",
+      "vietnamese": "không chắc, không ổn định",
+      "example": "Unsteady hand."
+    },
+    {
+      "english": "unsuccessful",
+      "ipa": "/ˌʌnsəkˈsesfl/",
+      "vietnamese": "không thành công, thất bại",
+      "example": "Unsuccessful attempt."
+    },
+    {
+      "english": "untidy",
+      "ipa": "/ʌnˈtaɪdi/",
+      "vietnamese": "không gọn gàng, lộn xộn",
+      "example": "Untidy room."
+    },
+    {
+      "english": "until",
+      "ipa": "/ənˈtɪl/",
+      "vietnamese": "trước khi, cho đến khi",
+      "example": "Wait until tomorrow."
+    },
+    {
+      "english": "unusual",
+      "ipa": "/ʌnˈjuːʒuəl/",
+      "vietnamese": "hiếm, khác thường",
+      "example": "An unusual name."
+    },
+    {
+      "english": "unusually",
+      "ipa": "/ʌnˈjuːʒuəli/",
+      "vietnamese": "cực kỳ, khác thường",
+      "example": "Unusually hot."
+    },
+    {
+      "english": "unwilling",
+      "ipa": "/ʌnˈwɪlɪŋ/",
+      "vietnamese": "không muốn, không có ý định",
+      "example": "Unwilling to help."
+    },
+    {
+      "english": "unwillingly",
+      "ipa": "/ʌnˈwɪlɪŋli/",
+      "vietnamese": "không sẵn lòng, miễn cưỡng",
+      "example": "He agreed unwillingly."
+    },
+    {
+      "english": "up",
+      "ipa": "/ʌp/",
+      "vietnamese": "ở trên, lên trên",
+      "example": "Stand up."
+    },
+    {
+      "english": "upon",
+      "ipa": "/əˈpɒn/",
+      "vietnamese": "trên, ở trên",
+      "example": "Once upon a time."
+    },
+    {
+      "english": "upper",
+      "ipa": "/ˈʌpər/",
+      "vietnamese": "cao hơn",
+      "example": "Upper lip."
+    },
+    {
+      "english": "upset",
+      "ipa": "/ʌpˈset/",
+      "vietnamese": "làm đổ; buồn bã, lo lắng",
+      "example": "Don't get upset."
+    },
+    {
+      "english": "upsetting",
+      "ipa": "/ʌpˈsetɪŋ/",
+      "vietnamese": "gây lo lắng, đau buồn",
+      "example": "Upsetting news."
+    },
+    {
+      "english": "upside down",
+      "ipa": "/ˌʌpsaɪd ˈdaʊn/",
+      "vietnamese": "lộn ngược",
+      "example": "Turn it upside down."
+    },
+    {
+      "english": "upstairs",
+      "ipa": "/ˌʌpˈsteəz/",
+      "vietnamese": "ở tầng trên, gác",
+      "example": "Go upstairs."
+    },
+    {
+      "english": "upward",
+      "ipa": "/ˈʌpwəd/",
+      "vietnamese": "hướng lên",
+      "example": "Upward movement."
+    },
+    {
+      "english": "upwards",
+      "ipa": "/ˈʌpwədz/",
+      "vietnamese": "hướng lên, về phía trên",
+      "example": "Look upwards."
+    },
+    {
+      "english": "urban",
+      "ipa": "/ˈɜːrbən/",
+      "vietnamese": "(thuộc) thành phố",
+      "example": "Urban area."
+    },
+    {
+      "english": "urge",
+      "ipa": "/ɜːrdʒ/",
+      "vietnamese": "thúc giục; sự thúc đẩy",
+      "example": "Urge someone to do something."
+    },
+    {
+      "english": "urgent",
+      "ipa": "/ˈɜːrdʒənt/",
+      "vietnamese": "khẩn cấp",
+      "example": "Urgent message."
+    },
+    {
+      "english": "us",
+      "ipa": "/ʌs/",
+      "vietnamese": "chúng tôi, chúng ta (tân ngữ)",
+      "example": "Come with us."
+    },
+    {
+      "english": "use",
+      "ipa": "/juːz/",
+      "vietnamese": "sử dụng; sự sử dụng",
+      "example": "Use a computer."
+    },
+    {
+      "english": "used",
+      "ipa": "/juːzd/",
+      "vietnamese": "đã dùng, đã sử dụng",
+      "example": "Used car."
+    },
+    {
+      "english": "used to",
+      "ipa": "/ˈjuːst tuː/",
+      "vietnamese": "đã từng; quen với",
+      "example": "I used to live there."
+    },
+    {
+      "english": "useful",
+      "ipa": "/ˈjuːsfl/",
+      "vietnamese": "hữu ích",
+      "example": "Useful advice."
+    },
+    {
+      "english": "useless",
+      "ipa": "/ˈjuːsləs/",
+      "vietnamese": "vô ích",
+      "example": "It is useless to try."
+    },
+    {
+      "english": "user",
+      "ipa": "/ˈjuːzər/",
+      "vietnamese": "người dùng",
+      "example": "Internet user."
+    },
+    {
+      "english": "usual",
+      "ipa": "/ˈjuːʒuəl/",
+      "vietnamese": "thông thường",
+      "example": "As usual."
+    },
+    {
+      "english": "usually",
+      "ipa": "/ˈjuːʒuəli/",
+      "vietnamese": "thường thường",
+      "example": "I usually get up at 7."
+    },
+    {
+      "english": "vacation",
+      "ipa": "/vəˈkeɪʃn/",
+      "vietnamese": "kỳ nghỉ",
+      "example": "On vacation."
+    },
+    {
+      "english": "valid",
+      "ipa": "/ˈvælɪd/",
+      "vietnamese": "có hiệu lực, hợp lệ",
+      "example": "Valid passport."
+    },
+    {
+      "english": "valley",
+      "ipa": "/ˈvæli/",
+      "vietnamese": "thung lũng",
+      "example": "Green valley."
+    },
+    {
+      "english": "valuable",
+      "ipa": "/ˈvæljuəbl/",
+      "vietnamese": "có giá trị",
+      "example": "Valuable advice."
+    },
+    {
+      "english": "value",
+      "ipa": "/ˈvæljuː/",
+      "vietnamese": "giá trị; định giá",
+      "example": "Good value for money."
+    },
+    {
+      "english": "van",
+      "ipa": "/væn/",
+      "vietnamese": "xe tải nhỏ",
+      "example": "Delivery van."
+    },
+    {
+      "english": "variation",
+      "ipa": "/ˌveəriˈeiʃn/",
+      "vietnamese": "sự biến đổi, sự thay đổi",
+      "example": "Price variation."
+    },
+    {
+      "english": "varied",
+      "ipa": "/ˈveərid/",
+      "vietnamese": "đa dạng",
+      "example": "Varied diet."
+    },
+    {
+      "english": "variety",
+      "ipa": "/vəˈraɪəti/",
+      "vietnamese": "sự đa dạng",
+      "example": "A variety of colors."
+    },
+    {
+      "english": "various",
+      "ipa": "/ˈveəriəs/",
+      "vietnamese": "khác nhau",
+      "example": "Various reasons."
+    },
+    {
+      "english": "vary",
+      "ipa": "/ˈveəri/",
+      "vietnamese": "thay đổi, biến đổi",
+      "example": "Prices vary."
+    },
+    {
+      "english": "vast",
+      "ipa": "/vɑːst/",
+      "vietnamese": "rộng lớn, mênh mông",
+      "example": "Vast area."
+    },
+    {
+      "english": "vegetable",
+      "ipa": "/ˈvedʒtəbl/",
+      "vietnamese": "rau",
+      "example": "Fresh vegetables."
+    },
+    {
+      "english": "vehicle",
+      "ipa": "/ˈviːəkl/",
+      "vietnamese": "xe cộ, phương tiện",
+      "example": "Motor vehicle."
+    },
+    {
+      "english": "venture",
+      "ipa": "/ˈventʃər/",
+      "vietnamese": "dự án kinh doanh; liều",
+      "example": "Business venture."
+    },
+    {
+      "english": "version",
+      "ipa": "/ˈvɜːrʒn/",
+      "vietnamese": "phiên bản",
+      "example": "New version."
+    },
+    {
+      "english": "vertical",
+      "ipa": "/ˈvɜːrtɪkl/",
+      "vietnamese": "thẳng đứng",
+      "example": "Vertical line."
+    },
+    {
+      "english": "very",
+      "ipa": "/ˈveri/",
+      "vietnamese": "rất",
+      "example": "Very good."
+    },
+    {
+      "english": "via",
+      "ipa": "/ˈvaɪə/",
+      "vietnamese": "qua, theo đường",
+      "example": "Fly to London via Paris."
+    },
+    {
+      "english": "victim",
+      "ipa": "/ˈvɪktɪm/",
+      "vietnamese": "nạn nhân",
+      "example": "Victim of crime."
+    },
+    {
+      "english": "victory",
+      "ipa": "/ˈvɪktəri/",
+      "vietnamese": "chiến thắng",
+      "example": "Victory celebration."
+    },
+    {
+      "english": "video",
+      "ipa": "/ˈvɪdiəʊ/",
+      "vietnamese": "video",
+      "example": "Watch a video."
+    },
+    {
+      "english": "view",
+      "ipa": "/vjuː/",
+      "vietnamese": "tầm nhìn, quan điểm; xem",
+      "example": "Beautiful view."
+    },
+    {
+      "english": "village",
+      "ipa": "/ˈvɪlɪdʒ/",
+      "vietnamese": "làng",
+      "example": "Live in a village."
+    },
+    {
+      "english": "violence",
+      "ipa": "/ˈvaɪələns/",
+      "vietnamese": "bạo lực",
+      "example": "Domestic violence."
+    },
+    {
+      "english": "violent",
+      "ipa": "/ˈvaɪələnt/",
+      "vietnamese": "bạo lực, dữ dội",
+      "example": "Violent storm."
+    },
+    {
+      "english": "violently",
+      "ipa": "/ˈvaɪələntli/",
+      "vietnamese": "mãnh liệt, dữ dội",
+      "example": "Shook violently."
+    },
+    {
+      "english": "virtually",
+      "ipa": "/ˈvɜːrtʃuəli/",
+      "vietnamese": "hầu như, thực sự",
+      "example": "Virtually impossible."
+    },
+    {
+      "english": "virus",
+      "ipa": "/ˈvaɪrəs/",
+      "vietnamese": "vi rút",
+      "example": "Computer virus."
+    },
+    {
+      "english": "visible",
+      "ipa": "/ˈvɪzəbl/",
+      "vietnamese": "có thể nhìn thấy",
+      "example": "Visible to the naked eye."
+    },
+    {
+      "english": "vision",
+      "ipa": "/ˈvɪʒn/",
+      "vietnamese": "tầm nhìn, thị lực",
+      "example": "Good vision."
+    },
+    {
+      "english": "visit",
+      "ipa": "/ˈvɪzɪt/",
+      "vietnamese": "thăm, viếng thăm",
+      "example": "Visit a friend."
+    },
+    {
+      "english": "visitor",
+      "ipa": "/ˈvɪzɪtər/",
+      "vietnamese": "khách tham quan",
+      "example": "Foreign visitor."
+    },
+    {
+      "english": "vital",
+      "ipa": "/ˈvaɪtl/",
+      "vietnamese": "thiết yếu, quan trọng",
+      "example": "Vital organs."
+    },
+    {
+      "english": "vocabulary",
+      "ipa": "/vəˈkæbjələri/",
+      "vietnamese": "từ vựng",
+      "example": "English vocabulary."
+    },
+    {
+      "english": "voice",
+      "ipa": "/vɔɪs/",
+      "vietnamese": "giọng nói",
+      "example": "Loud voice."
+    },
+    {
+      "english": "volume",
+      "ipa": "/ˈvɒljuːm/",
+      "vietnamese": "thể tích; âm lượng; tập sách",
+      "example": "Turn up the volume."
+    },
+    {
+      "english": "vote",
+      "ipa": "/vəʊt/",
+      "vietnamese": "bỏ phiếu; sự bỏ phiếu",
+      "example": "Vote for the president."
+    }
+  ]
+}
