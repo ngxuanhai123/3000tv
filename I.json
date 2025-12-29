@@ -1,0 +1,827 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: I (English Vocabulary)",
+  "words": [
+    {
+      "english": "I",
+      "ipa": "/aɪ/",
+      "vietnamese": "tôi, tao, tớ, mình",
+      "example": "I am a student."
+    },
+    {
+      "english": "ice",
+      "ipa": "/aɪs/",
+      "vietnamese": "nước đá, băng",
+      "example": "Put some ice in my drink."
+    },
+    {
+      "english": "ice cream",
+      "ipa": "/ˌaɪs ˈkriːm/",
+      "vietnamese": "kem",
+      "example": "I like strawberry ice cream."
+    },
+    {
+      "english": "idea",
+      "ipa": "/aɪˈdɪə/",
+      "vietnamese": "ý tưởng, ý kiến",
+      "example": "That's a good idea."
+    },
+    {
+      "english": "ideal",
+      "ipa": "/aɪˈdiːəl/",
+      "vietnamese": "lý tưởng",
+      "example": "The ideal place for a holiday."
+    },
+    {
+      "english": "identify",
+      "ipa": "/aɪˈdentɪfaɪ/",
+      "vietnamese": "nhận diện, nhận ra",
+      "example": "Can you identify the thief?"
+    },
+    {
+      "english": "identity",
+      "ipa": "/aɪˈdentəti/",
+      "vietnamese": "danh tính, cá tính",
+      "example": "Proof of identity."
+    },
+    {
+      "english": "if",
+      "ipa": "/ɪf/",
+      "vietnamese": "nếu, giả sử",
+      "example": "If it rains, we stay home."
+    },
+    {
+      "english": "ignore",
+      "ipa": "/ɪɡˈnɔːr/",
+      "vietnamese": "phớt lờ, lờ đi",
+      "example": "Don't ignore me."
+    },
+    {
+      "english": "ill",
+      "ipa": "/ɪl/",
+      "vietnamese": "ốm, bệnh",
+      "example": "He is seriously ill."
+    },
+    {
+      "english": "illegal",
+      "ipa": "/ɪˈliːɡl/",
+      "vietnamese": "bất hợp pháp, trái luật",
+      "example": "It is illegal to park here."
+    },
+    {
+      "english": "illegally",
+      "ipa": "/ɪˈliːɡəli/",
+      "vietnamese": "trái luật, bất hợp pháp",
+      "example": "He entered the country illegally."
+    },
+    {
+      "english": "illness",
+      "ipa": "/ˈɪlnəs/",
+      "vietnamese": "căn bệnh, sự đau ốm",
+      "example": "She is recovering from an illness."
+    },
+    {
+      "english": "illustrate",
+      "ipa": "/ˈɪləstreɪt/",
+      "vietnamese": "minh họa",
+      "example": "This diagram illustrates the point."
+    },
+    {
+      "english": "image",
+      "ipa": "/ˈɪmɪdʒ/",
+      "vietnamese": "hình ảnh",
+      "example": "A clear image."
+    },
+    {
+      "english": "imaginary",
+      "ipa": "/ɪˈmædʒɪnəri/",
+      "vietnamese": "tưởng tượng, không có thực",
+      "example": "An imaginary friend."
+    },
+    {
+      "english": "imagination",
+      "ipa": "/ɪˌmædʒɪˈneɪʃn/",
+      "vietnamese": "trí tưởng tượng",
+      "example": "Use your imagination."
+    },
+    {
+      "english": "imagine",
+      "ipa": "/ɪˈmædʒɪn/",
+      "vietnamese": "tưởng tượng, hình dung",
+      "example": "Imagine living on the moon."
+    },
+    {
+      "english": "immediate",
+      "ipa": "/ɪˈmiːdiət/",
+      "vietnamese": "lập tức, tức thì",
+      "example": "An immediate response."
+    },
+    {
+      "english": "immediately",
+      "ipa": "/ɪˈmiːdiətli/",
+      "vietnamese": "ngay lập tức",
+      "example": "Come here immediately."
+    },
+    {
+      "english": "immoral",
+      "ipa": "/ɪˈmɒrəl/",
+      "vietnamese": "vô đạo đức, trái đạo đức",
+      "example": "It is immoral to steal."
+    },
+    {
+      "english": "impact",
+      "ipa": "/ˈɪmpækt/",
+      "vietnamese": "tác động, ảnh hưởng",
+      "example": "The impact of the crash."
+    },
+    {
+      "english": "impatient",
+      "ipa": "/ɪmˈpeɪʃnt/",
+      "vietnamese": "thiếu kiên nhẫn, nóng vội",
+      "example": "Don't be so impatient."
+    },
+    {
+      "english": "implication",
+      "ipa": "/ˌɪmplɪˈkeɪʃn/",
+      "vietnamese": "sự ngụ ý, hàm ý",
+      "example": "The implications of this decision."
+    },
+    {
+      "english": "imply",
+      "ipa": "/ɪmˈplaɪ/",
+      "vietnamese": "ngụ ý, ám chỉ",
+      "example": "Are you implying that I am lazy?"
+    },
+    {
+      "english": "import",
+      "ipa": "/ˈɪmpɔːrt/",
+      "vietnamese": "nhập khẩu; hàng nhập khẩu",
+      "example": "We import cars from Japan."
+    },
+    {
+      "english": "importance",
+      "ipa": "/ɪmˈpɔːrtns/",
+      "vietnamese": "tầm quan trọng",
+      "example": "The importance of education."
+    },
+    {
+      "english": "important",
+      "ipa": "/ɪmˈpɔːrtnt/",
+      "vietnamese": "quan trọng",
+      "example": "It is important to be on time."
+    },
+    {
+      "english": "importantly",
+      "ipa": "/ɪmˈpɔːrtntli/",
+      "vietnamese": "một cách quan trọng",
+      "example": "More importantly, he is safe."
+    },
+    {
+      "english": "impose",
+      "ipa": "/ɪmˈpəʊz/",
+      "vietnamese": "áp đặt",
+      "example": "Impose a tax."
+    },
+    {
+      "english": "impossible",
+      "ipa": "/ɪmˈpɒsəbl/",
+      "vietnamese": "không thể",
+      "example": "It is impossible to fly."
+    },
+    {
+      "english": "impress",
+      "ipa": "/ɪmˈpres/",
+      "vietnamese": "gây ấn tượng",
+      "example": "He tried to impress her."
+    },
+    {
+      "english": "impressed",
+      "ipa": "/ɪmˈprest/",
+      "vietnamese": "bị ấn tượng",
+      "example": "I was impressed by his skills."
+    },
+    {
+      "english": "impression",
+      "ipa": "/ɪmˈpreʃn/",
+      "vietnamese": "ấn tượng",
+      "example": "Make a good impression."
+    },
+    {
+      "english": "impressive",
+      "ipa": "/ɪmˈpresɪv/",
+      "vietnamese": "gây ấn tượng sâu sắc, hùng vĩ",
+      "example": "An impressive building."
+    },
+    {
+      "english": "improve",
+      "ipa": "/ɪmˈpruːv/",
+      "vietnamese": "cải thiện, tiến bộ",
+      "example": "I want to improve my English."
+    },
+    {
+      "english": "improvement",
+      "ipa": "/ɪmˈpruːvmənt/",
+      "vietnamese": "sự cải thiện",
+      "example": "There is room for improvement."
+    },
+    {
+      "english": "in",
+      "ipa": "/ɪn/",
+      "vietnamese": "trong, ở trong",
+      "example": "In the room."
+    },
+    {
+      "english": "inability",
+      "ipa": "/ˌɪnəˈbɪləti/",
+      "vietnamese": "sự bất lực, không có khả năng",
+      "example": "Inability to pay."
+    },
+    {
+      "english": "inch",
+      "ipa": "/ɪntʃ/",
+      "vietnamese": "inch (đơn vị đo độ dài)",
+      "example": "Two inches long."
+    },
+    {
+      "english": "incident",
+      "ipa": "/ˈɪnsɪdənt/",
+      "vietnamese": "sự cố, việc xảy ra",
+      "example": "A serious incident."
+    },
+    {
+      "english": "include",
+      "ipa": "/ɪnˈkluːd/",
+      "vietnamese": "bao gồm",
+      "example": "The price includes breakfast."
+    },
+    {
+      "english": "including",
+      "ipa": "/ɪnˈkluːdɪŋ/",
+      "vietnamese": "bao gồm, kể cả",
+      "example": "Everyone, including me."
+    },
+    {
+      "english": "income",
+      "ipa": "/ˈɪnkʌm/",
+      "vietnamese": "thu nhập",
+      "example": "Low income."
+    },
+    {
+      "english": "increase",
+      "ipa": "/ɪnˈkriːs/",
+      "vietnamese": "tăng lên; sự tăng thêm",
+      "example": "Increase the price."
+    },
+    {
+      "english": "increasingly",
+      "ipa": "/ɪnˈkriːsɪŋli/",
+      "vietnamese": "ngày càng tăng",
+      "example": "It is becoming increasingly difficult."
+    },
+    {
+      "english": "indeed",
+      "ipa": "/ɪnˈdiːd/",
+      "vietnamese": "thực sự, quả thực",
+      "example": "Yes, indeed."
+    },
+    {
+      "english": "independence",
+      "ipa": "/ˌɪndɪˈpendəns/",
+      "vietnamese": "sự độc lập",
+      "example": "Independence Day."
+    },
+    {
+      "english": "independent",
+      "ipa": "/ˌɪndɪˈpendənt/",
+      "vietnamese": "độc lập",
+      "example": "An independent country."
+    },
+    {
+      "english": "independently",
+      "ipa": "/ˌɪndɪˈpendəntli/",
+      "vietnamese": "một cách độc lập",
+      "example": "Work independently."
+    },
+    {
+      "english": "index",
+      "ipa": "/ˈɪndeks/",
+      "vietnamese": "chỉ số, mục lục",
+      "example": "The consumer price index."
+    },
+    {
+      "english": "indicate",
+      "ipa": "/ˈɪndɪkeɪt/",
+      "vietnamese": "chỉ ra, biểu thị",
+      "example": "The sign indicates the way."
+    },
+    {
+      "english": "indication",
+      "ipa": "/ˌɪndɪˈkeɪʃn/",
+      "vietnamese": "sự biểu thị, dấu hiệu",
+      "example": "There is no indication of fraud."
+    },
+    {
+      "english": "indirect",
+      "ipa": "/ˌɪndaɪˈrekt/",
+      "vietnamese": "gián tiếp",
+      "example": "An indirect question."
+    },
+    {
+      "english": "indirectly",
+      "ipa": "/ˌɪndaɪˈrektli/",
+      "vietnamese": "một cách gián tiếp",
+      "example": "He was indirectly involved."
+    },
+    {
+      "english": "individual",
+      "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+      "vietnamese": "cá nhân, riêng lẻ",
+      "example": "Each individual has rights."
+    },
+    {
+      "english": "indoor",
+      "ipa": "/ˈɪndɔːr/",
+      "vietnamese": "trong nhà",
+      "example": "Indoor sports."
+    },
+    {
+      "english": "indoors",
+      "ipa": "/ˌɪnˈdɔːrz/",
+      "vietnamese": "ở trong nhà",
+      "example": "Stay indoors."
+    },
+    {
+      "english": "industrial",
+      "ipa": "/ɪnˈdʌstriəl/",
+      "vietnamese": "thuộc công nghiệp",
+      "example": "Industrial zone."
+    },
+    {
+      "english": "industry",
+      "ipa": "/ˈɪndəstri/",
+      "vietnamese": "công nghiệp, ngành kinh doanh",
+      "example": "The car industry."
+    },
+    {
+      "english": "inevitable",
+      "ipa": "/ɪnˈevɪtəbl/",
+      "vietnamese": "không thể tránh khỏi",
+      "example": "An inevitable consequence."
+    },
+    {
+      "english": "inevitably",
+      "ipa": "/ɪnˈevɪtəbli/",
+      "vietnamese": "chắc chắn, không tránh khỏi",
+      "example": "Inevitably, he failed."
+    },
+    {
+      "english": "infect",
+      "ipa": "/ɪnˈfekt/",
+      "vietnamese": "lây nhiễm",
+      "example": "The virus infected many people."
+    },
+    {
+      "english": "infected",
+      "ipa": "/ɪnˈfektɪd/",
+      "vietnamese": "bị nhiễm, bị lây",
+      "example": "An infected wound."
+    },
+    {
+      "english": "infection",
+      "ipa": "/ɪnˈfekʃn/",
+      "vietnamese": "sự lây nhiễm, bệnh lây nhiễm",
+      "example": "Prevent infection."
+    },
+    {
+      "english": "infectious",
+      "ipa": "/ɪnˈfekʃəs/",
+      "vietnamese": "lây nhiễm, lan truyền",
+      "example": "An infectious disease."
+    },
+    {
+      "english": "influence",
+      "ipa": "/ˈɪnfluəns/",
+      "vietnamese": "ảnh hưởng, tác dụng",
+      "example": "Under the influence of alcohol."
+    },
+    {
+      "english": "inform",
+      "ipa": "/ɪnˈfɔːrm/",
+      "vietnamese": "thông báo",
+      "example": "Please inform me of any changes."
+    },
+    {
+      "english": "informal",
+      "ipa": "/ɪnˈfɔːrml/",
+      "vietnamese": "thân mật, không trang trọng",
+      "example": "An informal meeting."
+    },
+    {
+      "english": "information",
+      "ipa": "/ˌɪnfəˈmeɪʃn/",
+      "vietnamese": "thông tin",
+      "example": "More information."
+    },
+    {
+      "english": "ingredient",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "vietnamese": "thành phần, nguyên liệu",
+      "example": "Mix the ingredients."
+    },
+    {
+      "english": "initial",
+      "ipa": "/ɪˈnɪʃl/",
+      "vietnamese": "ban đầu",
+      "example": "My initial reaction."
+    },
+    {
+      "english": "initially",
+      "ipa": "/ɪˈnɪʃəli/",
+      "vietnamese": "vào lúc đầu, ban đầu",
+      "example": "Initially, I was worried."
+    },
+    {
+      "english": "initiative",
+      "ipa": "/ɪˈnɪʃətɪv/",
+      "vietnamese": "sáng kiến, thế chủ động",
+      "example": "Take the initiative."
+    },
+    {
+      "english": "injure",
+      "ipa": "/ˈɪndʒər/",
+      "vietnamese": "làm bị thương",
+      "example": "He injured his leg."
+    },
+    {
+      "english": "injured",
+      "ipa": "/ˈɪndʒərd/",
+      "vietnamese": "bị thương",
+      "example": "Injured soldiers."
+    },
+    {
+      "english": "injury",
+      "ipa": "/ˈɪndʒəri/",
+      "vietnamese": "chấn thương, vết thương",
+      "example": "A serious injury."
+    },
+    {
+      "english": "ink",
+      "ipa": "/ɪŋk/",
+      "vietnamese": "mực",
+      "example": "Write in ink."
+    },
+    {
+      "english": "inner",
+      "ipa": "/ˈɪnər/",
+      "vietnamese": "bên trong, nội bộ",
+      "example": "Inner city."
+    },
+    {
+      "english": "innocent",
+      "ipa": "/ˈɪnəsnt/",
+      "vietnamese": "vô tội, ngây thơ",
+      "example": "An innocent child."
+    },
+    {
+      "english": "inquiry",
+      "ipa": "/ɪnˈkwaɪəri/",
+      "vietnamese": "cuộc điều tra, sự thẩm vấn",
+      "example": "A murder inquiry."
+    },
+    {
+      "english": "insect",
+      "ipa": "/ˈɪnsekt/",
+      "vietnamese": "côn trùng",
+      "example": "Insects are small."
+    },
+    {
+      "english": "insert",
+      "ipa": "/ɪnˈsɜːrt/",
+      "vietnamese": "chèn vào, lồng vào",
+      "example": "Insert the coin."
+    },
+    {
+      "english": "inside",
+      "ipa": "/ˌɪnˈsaɪd/",
+      "vietnamese": "bên trong",
+      "example": "Look inside the box."
+    },
+    {
+      "english": "insist",
+      "ipa": "/ɪnˈsɪst/",
+      "vietnamese": "khăng khăng, nài nỉ",
+      "example": "I insist on paying."
+    },
+    {
+      "english": "install",
+      "ipa": "/ɪnˈstɔːl/",
+      "vietnamese": "cài đặt, lắp đặt",
+      "example": "Install software."
+    },
+    {
+      "english": "instance",
+      "ipa": "/ˈɪnstəns/",
+      "vietnamese": "ví dụ, trường hợp",
+      "example": "For instance."
+    },
+    {
+      "english": "instead",
+      "ipa": "/ɪnˈsted/",
+      "vietnamese": "thay vì",
+      "example": "Go there instead."
+    },
+    {
+      "english": "instead of",
+      "ipa": "/ɪnˈsted əv/",
+      "vietnamese": "thay vì",
+      "example": "Tea instead of coffee."
+    },
+    {
+      "english": "institute",
+      "ipa": "/ˈɪnstɪtuːt/",
+      "vietnamese": "học viện, viện",
+      "example": "Research institute."
+    },
+    {
+      "english": "institution",
+      "ipa": "/ˌɪnstɪˈtuːʃn/",
+      "vietnamese": "tổ chức, cơ quan",
+      "example": "Financial institution."
+    },
+    {
+      "english": "instruction",
+      "ipa": "/ɪnˈstrʌkʃn/",
+      "vietnamese": "sự hướng dẫn, chỉ dẫn",
+      "example": "Follow the instructions."
+    },
+    {
+      "english": "instrument",
+      "ipa": "/ˈɪnstrəmənt/",
+      "vietnamese": "dụng cụ, nhạc cụ",
+      "example": "Musical instrument."
+    },
+    {
+      "english": "insult",
+      "ipa": "/ɪnˈsʌlt/",
+      "vietnamese": "xúc phạm, lăng mạ",
+      "example": "Don't insult me."
+    },
+    {
+      "english": "insulting",
+      "ipa": "/ɪnˈsʌltɪŋ/",
+      "vietnamese": "lăng mạ, xấc xược",
+      "example": "Insulting remarks."
+    },
+    {
+      "english": "insurance",
+      "ipa": "/ɪnˈʃʊərəns/",
+      "vietnamese": "bảo hiểm",
+      "example": "Car insurance."
+    },
+    {
+      "english": "intelligence",
+      "ipa": "/ɪnˈtelɪdʒəns/",
+      "vietnamese": "trí thông minh",
+      "example": "Artificial intelligence."
+    },
+    {
+      "english": "intelligent",
+      "ipa": "/ɪnˈtelɪdʒənt/",
+      "vietnamese": "thông minh",
+      "example": "He is very intelligent."
+    },
+    {
+      "english": "intend",
+      "ipa": "/ɪnˈtend/",
+      "vietnamese": "dự định",
+      "example": "I intend to go."
+    },
+    {
+      "english": "intended",
+      "ipa": "/ɪnˈtendɪd/",
+      "vietnamese": "có ý định, được dành cho",
+      "example": "The intended meaning."
+    },
+    {
+      "english": "intention",
+      "ipa": "/ɪnˈtenʃn/",
+      "vietnamese": "ý định, mục đích",
+      "example": "Good intentions."
+    },
+    {
+      "english": "interest",
+      "ipa": "/ˈɪntrəst/",
+      "vietnamese": "sự quan tâm, thích thú; lãi suất",
+      "example": "I have no interest in politics."
+    },
+    {
+      "english": "interested",
+      "ipa": "/ˈɪntrəstɪd/",
+      "vietnamese": "quan tâm, thích thú",
+      "example": "I am interested in art."
+    },
+    {
+      "english": "interesting",
+      "ipa": "/ˈɪntrəstɪŋ/",
+      "vietnamese": "thú vị",
+      "example": "An interesting book."
+    },
+    {
+      "english": "internal",
+      "ipa": "/ɪnˈtɜːrnl/",
+      "vietnamese": "bên trong, nội bộ",
+      "example": "Internal affairs."
+    },
+    {
+      "english": "international",
+      "ipa": "/ˌɪntərˈnæʃnəl/",
+      "vietnamese": "quốc tế",
+      "example": "International trade."
+    },
+    {
+      "english": "internet",
+      "ipa": "/ˈɪntənet/",
+      "vietnamese": "mạng internet",
+      "example": "Surf the internet."
+    },
+    {
+      "english": "interpret",
+      "ipa": "/ɪnˈtɜːrprət/",
+      "vietnamese": "giải thích, phiên dịch",
+      "example": "Interpret a dream."
+    },
+    {
+      "english": "interpretation",
+      "ipa": "/ɪnˌtɜːrprəˈteɪʃn/",
+      "vietnamese": "sự giải thích, sự phiên dịch",
+      "example": "Different interpretations."
+    },
+    {
+      "english": "interrupt",
+      "ipa": "/ˌɪntəˈrʌpt/",
+      "vietnamese": "làm gián đoạn, ngắt lời",
+      "example": "Don't interrupt me."
+    },
+    {
+      "english": "interruption",
+      "ipa": "/ˌɪntəˈrʌpʃn/",
+      "vietnamese": "sự gián đoạn",
+      "example": "Work without interruption."
+    },
+    {
+      "english": "interval",
+      "ipa": "/ˈɪntərvl/",
+      "vietnamese": "khoảng thời gian, khoảng cách",
+      "example": "At regular intervals."
+    },
+    {
+      "english": "interview",
+      "ipa": "/ˈɪntərvjuː/",
+      "vietnamese": "phỏng vấn; cuộc phỏng vấn",
+      "example": "Job interview."
+    },
+    {
+      "english": "into",
+      "ipa": "/ˈɪntuː/",
+      "vietnamese": "vào, vào trong",
+      "example": "Go into the house."
+    },
+    {
+      "english": "introduce",
+      "ipa": "/ˌɪntrəˈduːs/",
+      "vietnamese": "giới thiệu",
+      "example": "Let me introduce myself."
+    },
+    {
+      "english": "introduction",
+      "ipa": "/ˌɪntrəˈdʌkʃn/",
+      "vietnamese": "sự giới thiệu, lời mở đầu",
+      "example": "An introduction to the book."
+    },
+    {
+      "english": "invent",
+      "ipa": "/ɪnˈvent/",
+      "vietnamese": "phát minh, sáng chế",
+      "example": "Who invented the telephone?"
+    },
+    {
+      "english": "invention",
+      "ipa": "/ɪnˈvenʃn/",
+      "vietnamese": "sự phát minh",
+      "example": "A great invention."
+    },
+    {
+      "english": "invest",
+      "ipa": "/ɪnˈvest/",
+      "vietnamese": "đầu tư",
+      "example": "Invest in stocks."
+    },
+    {
+      "english": "investigate",
+      "ipa": "/ɪnˈvestɪɡeɪt/",
+      "vietnamese": "điều tra",
+      "example": "Investigate a crime."
+    },
+    {
+      "english": "investigation",
+      "ipa": "/ɪnˌvestɪˈɡeɪʃn/",
+      "vietnamese": "cuộc điều tra",
+      "example": "Under investigation."
+    },
+    {
+      "english": "investment",
+      "ipa": "/ɪnˈvestmənt/",
+      "vietnamese": "sự đầu tư, vốn đầu tư",
+      "example": "A wise investment."
+    },
+    {
+      "english": "invitation",
+      "ipa": "/ˌɪnvɪˈteɪʃn/",
+      "vietnamese": "lời mời",
+      "example": "Invitation card."
+    },
+    {
+      "english": "invite",
+      "ipa": "/ɪnˈvaɪt/",
+      "vietnamese": "mời",
+      "example": "Invite friends to dinner."
+    },
+    {
+      "english": "involve",
+      "ipa": "/ɪnˈvɒlv/",
+      "vietnamese": "liên quan, bao gồm",
+      "example": "The job involves travel."
+    },
+    {
+      "english": "involved",
+      "ipa": "/ɪnˈvɒlvd/",
+      "vietnamese": "có liên quan, dính líu",
+      "example": "Get involved in politics."
+    },
+    {
+      "english": "involvement",
+      "ipa": "/ɪnˈvɒlvmənt/",
+      "vietnamese": "sự tham gia, sự liên quan",
+      "example": "His involvement in the project."
+    },
+    {
+      "english": "iron",
+      "ipa": "/ˈaɪərn/",
+      "vietnamese": "sắt; bàn là; là (quần áo)",
+      "example": "Iron the shirt."
+    },
+    {
+      "english": "irritate",
+      "ipa": "/ˈɪrɪteɪt/",
+      "vietnamese": "làm phát cáu, chọc tức",
+      "example": "It irritates me."
+    },
+    {
+      "english": "irritated",
+      "ipa": "/ˈɪrɪteɪtɪd/",
+      "vietnamese": "tức giận, khó chịu",
+      "example": "He looked irritated."
+    },
+    {
+      "english": "irritating",
+      "ipa": "/ˈɪrɪteɪtɪŋ/",
+      "vietnamese": "làm bực mình",
+      "example": "An irritating habit."
+    },
+    {
+      "english": "island",
+      "ipa": "/ˈaɪlənd/",
+      "vietnamese": "hòn đảo",
+      "example": "A desert island."
+    },
+    {
+      "english": "issue",
+      "ipa": "/ˈɪʃuː/",
+      "vietnamese": "vấn đề; phát hành",
+      "example": "A sensitive issue."
+    },
+    {
+      "english": "it",
+      "ipa": "/ɪt/",
+      "vietnamese": "nó",
+      "example": "It is raining."
+    },
+    {
+      "english": "item",
+      "ipa": "/ˈaɪtəm/",
+      "vietnamese": "món, mục, mặt hàng",
+      "example": "News item."
+    },
+    {
+      "english": "its",
+      "ipa": "/ɪts/",
+      "vietnamese": "của nó",
+      "example": "The dog wagged its tail."
+    },
+    {
+      "english": "itself",
+      "ipa": "/ɪtˈself/",
+      "vietnamese": "chính nó, tự nó",
+      "example": "The cat washes itself."
+    }
+  ]
+}
