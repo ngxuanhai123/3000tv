@@ -1,0 +1,521 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: O (English Vocabulary)",
+  "words": [
+    {
+      "english": "obey",
+      "ipa": "/əˈbeɪ/",
+      "vietnamese": "vâng lời, tuân theo, tuân lệnh",
+      "example": "Soldiers must obey orders."
+    },
+    {
+      "english": "object",
+      "ipa": "/ˈɒbdʒɪkt/",
+      "vietnamese": "đồ vật, vật thể; mục tiêu",
+      "example": "A strange object in the sky."
+    },
+    {
+      "english": "objective",
+      "ipa": "/əbˈdʒektɪv/",
+      "vietnamese": "khách quan; mục tiêu",
+      "example": "Be objective."
+    },
+    {
+      "english": "observation",
+      "ipa": "/ˌɒbzəˈveɪʃn/",
+      "vietnamese": "sự quan sát, sự theo dõi",
+      "example": "Under observation."
+    },
+    {
+      "english": "observe",
+      "ipa": "/əbˈzɜːrv/",
+      "vietnamese": "quan sát, theo dõi",
+      "example": "Observe the rules."
+    },
+    {
+      "english": "obtain",
+      "ipa": "/əbˈteɪn/",
+      "vietnamese": "đạt được, giành được",
+      "example": "Obtain permission."
+    },
+    {
+      "english": "obvious",
+      "ipa": "/ˈɒbviəs/",
+      "vietnamese": "rõ ràng, hiển nhiên",
+      "example": "It is obvious that he is lying."
+    },
+    {
+      "english": "obviously",
+      "ipa": "/ˈɒbviəsli/",
+      "vietnamese": "một cách rõ ràng",
+      "example": "Obviously, I was wrong."
+    },
+    {
+      "english": "occasion",
+      "ipa": "/əˈkeɪʒn/",
+      "vietnamese": "dịp, cơ hội",
+      "example": "A special occasion."
+    },
+    {
+      "english": "occasionally",
+      "ipa": "/əˈkeɪʒnəli/",
+      "vietnamese": "thỉnh thoảng",
+      "example": "I see him occasionally."
+    },
+    {
+      "english": "occupation",
+      "ipa": "/ˌɒkjuˈpeɪʃn/",
+      "vietnamese": "nghề nghiệp",
+      "example": "What is your occupation?"
+    },
+    {
+      "english": "occupy",
+      "ipa": "/ˈɒkjupaɪ/",
+      "vietnamese": "chiếm đóng, chiếm giữ",
+      "example": "The army occupied the city."
+    },
+    {
+      "english": "occur",
+      "ipa": "/əˈkɜːr/",
+      "vietnamese": "xảy ra, xuất hiện",
+      "example": "When did the accident occur?"
+    },
+    {
+      "english": "ocean",
+      "ipa": "/ˈəʊʃn/",
+      "vietnamese": "đại dương",
+      "example": "The Pacific Ocean."
+    },
+    {
+      "english": "o'clock",
+      "ipa": "/əˈklɒk/",
+      "vietnamese": "giờ (dùng với giờ đúng)",
+      "example": "It's five o'clock."
+    },
+    {
+      "english": "October",
+      "ipa": "/ɒkˈtəʊbər/",
+      "vietnamese": "tháng Mười",
+      "example": "Halloween is in October."
+    },
+    {
+      "english": "odd",
+      "ipa": "/ɒd/",
+      "vietnamese": "kỳ quặc, lẻ (số)",
+      "example": "An odd number."
+    },
+    {
+      "english": "oddly",
+      "ipa": "/ˈɒdli/",
+      "vietnamese": "kỳ quặc, kỳ lạ",
+      "example": "He behaved oddly."
+    },
+    {
+      "english": "of",
+      "ipa": "/əv/",
+      "vietnamese": "của",
+      "example": "A cup of tea."
+    },
+    {
+      "english": "off",
+      "ipa": "/ɒf/",
+      "vietnamese": "tắt; khỏi, cách, rời",
+      "example": "Turn off the light."
+    },
+    {
+      "english": "offence",
+      "ipa": "/əˈfens/",
+      "vietnamese": "sự vi phạm, sự phạm tội",
+      "example": "A criminal offence."
+    },
+    {
+      "english": "offend",
+      "ipa": "/əˈfend/",
+      "vietnamese": "xúc phạm, làm bực mình",
+      "example": "I didn't mean to offend you."
+    },
+    {
+      "english": "offensive",
+      "ipa": "/əˈfensɪv/",
+      "vietnamese": "xúc phạm, chướng tai gai mắt",
+      "example": "Offensive language."
+    },
+    {
+      "english": "offer",
+      "ipa": "/ˈɒfər/",
+      "vietnamese": "đề nghị; mời",
+      "example": "He offered to help me."
+    },
+    {
+      "english": "office",
+      "ipa": "/ˈɒfɪs/",
+      "vietnamese": "văn phòng",
+      "example": "Work in an office."
+    },
+    {
+      "english": "officer",
+      "ipa": "/ˈɒfɪsər/",
+      "vietnamese": "sĩ quan, viên chức",
+      "example": "Police officer."
+    },
+    {
+      "english": "official",
+      "ipa": "/əˈfɪʃl/",
+      "vietnamese": "chính thức",
+      "example": "An official document."
+    },
+    {
+      "english": "officially",
+      "ipa": "/əˈfɪʃəli/",
+      "vietnamese": "một cách chính thức",
+      "example": "Officially announced."
+    },
+    {
+      "english": "often",
+      "ipa": "/ˈɒfn/",
+      "vietnamese": "thường",
+      "example": "I often go there."
+    },
+    {
+      "english": "oh",
+      "ipa": "/əʊ/",
+      "vietnamese": "ồ, chao ôi",
+      "example": "Oh, I see."
+    },
+    {
+      "english": "oil",
+      "ipa": "/ɔɪl/",
+      "vietnamese": "dầu",
+      "example": "Cooking oil."
+    },
+    {
+      "english": "OK",
+      "ipa": "/ˌəʊ ˈkeɪ/",
+      "vietnamese": "đồng ý, được, tốt",
+      "example": "Are you OK?"
+    },
+    {
+      "english": "old",
+      "ipa": "/əʊld/",
+      "vietnamese": "già, cũ",
+      "example": "An old man."
+    },
+    {
+      "english": "old-fashioned",
+      "ipa": "/ˌəʊld ˈfæʃnd/",
+      "vietnamese": "lỗi thời, cổ hủ",
+      "example": "Old-fashioned clothes."
+    },
+    {
+      "english": "on",
+      "ipa": "/ɒn/",
+      "vietnamese": "trên, ở trên; tiếp tục",
+      "example": "On the table."
+    },
+    {
+      "english": "once",
+      "ipa": "/wʌns/",
+      "vietnamese": "một lần, khi mà",
+      "example": "Once upon a time."
+    },
+    {
+      "english": "one",
+      "ipa": "/wʌn/",
+      "vietnamese": "một, con số 1",
+      "example": "One apple."
+    },
+    {
+      "english": "one another",
+      "ipa": "/ˌwʌn əˈnʌðər/",
+      "vietnamese": "nhau, lẫn nhau",
+      "example": "They help one another."
+    },
+    {
+      "english": "onion",
+      "ipa": "/ˈʌnjən/",
+      "vietnamese": "củ hành tây",
+      "example": "Chop the onion."
+    },
+    {
+      "english": "only",
+      "ipa": "/ˈəʊnli/",
+      "vietnamese": "chỉ, duy nhất",
+      "example": "Only you."
+    },
+    {
+      "english": "onto",
+      "ipa": "/ˈɒntu/",
+      "vietnamese": "lên trên",
+      "example": "Jump onto the box."
+    },
+    {
+      "english": "open",
+      "ipa": "/ˈəʊpən/",
+      "vietnamese": "mở; cởi mở",
+      "example": "Open the door."
+    },
+    {
+      "english": "opening",
+      "ipa": "/ˈəʊpənɪŋ/",
+      "vietnamese": "khe hở, lỗ; sự bắt đầu",
+      "example": "The opening of the shop."
+    },
+    {
+      "english": "openly",
+      "ipa": "/ˈəʊpənli/",
+      "vietnamese": "công khai",
+      "example": "Speak openly."
+    },
+    {
+      "english": "operate",
+      "ipa": "/ˈɒpəreɪt/",
+      "vietnamese": "hoạt động, vận hành; phẫu thuật",
+      "example": "Operate a machine."
+    },
+    {
+      "english": "operation",
+      "ipa": "/ˌɒpəˈreɪʃn/",
+      "vietnamese": "sự hoạt động; ca phẫu thuật",
+      "example": "A major operation."
+    },
+    {
+      "english": "opinion",
+      "ipa": "/əˈpɪnjən/",
+      "vietnamese": "ý kiến, quan điểm",
+      "example": "In my opinion."
+    },
+    {
+      "english": "opponent",
+      "ipa": "/əˈpəʊnənt/",
+      "vietnamese": "địch thủ, đối thủ",
+      "example": "Defeat an opponent."
+    },
+    {
+      "english": "opportunity",
+      "ipa": "/ˌɒpəˈtjuːnəti/",
+      "vietnamese": "cơ hội",
+      "example": "A golden opportunity."
+    },
+    {
+      "english": "oppose",
+      "ipa": "/əˈpəʊz/",
+      "vietnamese": "đối kháng, đối chọi",
+      "example": "Oppose a plan."
+    },
+    {
+      "english": "opposing",
+      "ipa": "/əˈpəʊzɪŋ/",
+      "vietnamese": "đối nhau, đối lập",
+      "example": "Opposing views."
+    },
+    {
+      "english": "opposite",
+      "ipa": "/ˈɒpəzɪt/",
+      "vietnamese": "đối diện; ngược lại",
+      "example": "Opposite the bank."
+    },
+    {
+      "english": "opposition",
+      "ipa": "/ˌɒpəˈzɪʃn/",
+      "vietnamese": "sự đối lập, phe đối lập",
+      "example": "Political opposition."
+    },
+    {
+      "english": "option",
+      "ipa": "/ˈɒpʃn/",
+      "vietnamese": "sự lựa chọn",
+      "example": "You have no option."
+    },
+    {
+      "english": "or",
+      "ipa": "/ɔːr/",
+      "vietnamese": "hoặc",
+      "example": "Tea or coffee?"
+    },
+    {
+      "english": "orange",
+      "ipa": "/ˈɒrɪndʒ/",
+      "vietnamese": "quả cam; màu cam",
+      "example": "Orange juice."
+    },
+    {
+      "english": "order",
+      "ipa": "/ˈɔːrdər/",
+      "vietnamese": "ra lệnh; gọi món; trật tự",
+      "example": "Order a pizza."
+    },
+    {
+      "english": "ordinary",
+      "ipa": "/ˈɔːrdnri/",
+      "vietnamese": "thường, bình thường",
+      "example": "An ordinary day."
+    },
+    {
+      "english": "organ",
+      "ipa": "/ˈɔːrɡən/",
+      "vietnamese": "cơ quan (trong cơ thể); đàn ống",
+      "example": "Internal organs."
+    },
+    {
+      "english": "organization",
+      "ipa": "/ˌɔːrɡənnaɪˈzeɪʃn/",
+      "vietnamese": "tổ chức, cơ quan",
+      "example": "A charity organization."
+    },
+    {
+      "english": "organize",
+      "ipa": "/ˈɔːrɡənaɪz/",
+      "vietnamese": "tổ chức, sắp xếp",
+      "example": "Organize a meeting."
+    },
+    {
+      "english": "organized",
+      "ipa": "/ˈɔːrɡənaɪzd/",
+      "vietnamese": "có trật tự, ngăn nắp",
+      "example": "A well-organized event."
+    },
+    {
+      "english": "origin",
+      "ipa": "/ˈɒrɪdʒɪn/",
+      "vietnamese": "nguồn gốc, lai lịch",
+      "example": "The origin of the species."
+    },
+    {
+      "english": "original",
+      "ipa": "/əˈrɪdʒənl/",
+      "vietnamese": "gốc, nguyên bản",
+      "example": "The original idea."
+    },
+    {
+      "english": "originally",
+      "ipa": "/əˈrɪdʒənəli/",
+      "vietnamese": "một cách sáng tạo, mới mẻ",
+      "example": "It was originally a book."
+    },
+    {
+      "english": "other",
+      "ipa": "/ˈʌðər/",
+      "vietnamese": "khác",
+      "example": "Other people."
+    },
+    {
+      "english": "otherwise",
+      "ipa": "/ˈʌðəwaɪz/",
+      "vietnamese": "nếu không thì",
+      "example": "Do it now, otherwise it will be too late."
+    },
+    {
+      "english": "ought to",
+      "ipa": "/ˈɔːt tuː/",
+      "vietnamese": "phải, nên, hẳn là",
+      "example": "You ought to say sorry."
+    },
+    {
+      "english": "our",
+      "ipa": "/ɑːr/",
+      "vietnamese": "của chúng tôi, của chúng ta",
+      "example": "Our house."
+    },
+    {
+      "english": "ours",
+      "ipa": "/ɑːrz/",
+      "vietnamese": "của chúng tôi (đại từ)",
+      "example": "This car is ours."
+    },
+    {
+      "english": "ourselves",
+      "ipa": "/ɑːrˈselvz/",
+      "vietnamese": "chính chúng tôi",
+      "example": "We did it ourselves."
+    },
+    {
+      "english": "out",
+      "ipa": "/aʊt/",
+      "vietnamese": "ngoài, ra ngoài",
+      "example": "Go out."
+    },
+    {
+      "english": "outdoor",
+      "ipa": "/ˈaʊtdɔːr/",
+      "vietnamese": "ngoài trời",
+      "example": "Outdoor activities."
+    },
+    {
+      "english": "outdoors",
+      "ipa": "/ˌaʊtˈdɔːrz/",
+      "vietnamese": "ở ngoài trời",
+      "example": "Play outdoors."
+    },
+    {
+      "english": "outer",
+      "ipa": "/ˈaʊtər/",
+      "vietnamese": "bên ngoài",
+      "example": "Outer space."
+    },
+    {
+      "english": "outline",
+      "ipa": "/ˈaʊtlaɪn/",
+      "vietnamese": "vẽ phác thảo; đường nét, hình dáng",
+      "example": "Outline the plan."
+    },
+    {
+      "english": "output",
+      "ipa": "/ˈaʊtpʊt/",
+      "vietnamese": "sản lượng; đầu ra",
+      "example": "Increase output."
+    },
+    {
+      "english": "outside",
+      "ipa": "/ˌaʊtˈsaɪd/",
+      "vietnamese": "bên ngoài",
+      "example": "Wait outside."
+    },
+    {
+      "english": "outstanding",
+      "ipa": "/aʊtˈstændɪŋ/",
+      "vietnamese": "nổi bật, xuất sắc",
+      "example": "An outstanding performance."
+    },
+    {
+      "english": "oven",
+      "ipa": "/ˈʌvn/",
+      "vietnamese": "lò (nướng)",
+      "example": "Bake in the oven."
+    },
+    {
+      "english": "over",
+      "ipa": "/ˈəʊvər/",
+      "vietnamese": "trên, ở trên; quá",
+      "example": "Fly over the city."
+    },
+    {
+      "english": "overall",
+      "ipa": "/ˌəʊvərˈɔːl/",
+      "vietnamese": "toàn bộ, tổng thể",
+      "example": "Overall impression."
+    },
+    {
+      "english": "overcome",
+      "ipa": "/ˌəʊvəˈkʌm/",
+      "vietnamese": "thắng, chiến thắng, khắc phục",
+      "example": "Overcome difficulties."
+    },
+    {
+      "english": "owe",
+      "ipa": "/əʊ/",
+      "vietnamese": "nợ",
+      "example": "I owe you 10 dollars."
+    },
+    {
+      "english": "own",
+      "ipa": "/əʊn/",
+      "vietnamese": "của chính mình, tự mình",
+      "example": "My own car."
+    },
+    {
+      "english": "owner",
+      "ipa": "/ˈəʊnər/",
+      "vietnamese": "người chủ",
+      "example": "The owner of the shop."
+    }
+  ]
+}
