@@ -1,0 +1,863 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: M (English Vocabulary)",
+  "words": [
+    {
+      "english": "machine",
+      "ipa": "/məˈʃiːn/",
+      "vietnamese": "máy, máy móc",
+      "example": "A washing machine."
+    },
+    {
+      "english": "machinery",
+      "ipa": "/məˈʃiːnəri/",
+      "vietnamese": "máy móc, thiết bị",
+      "example": "Industrial machinery."
+    },
+    {
+      "english": "mad",
+      "ipa": "/mæd/",
+      "vietnamese": "điên, mất trí; bực điên người",
+      "example": "He went mad."
+    },
+    {
+      "english": "magazine",
+      "ipa": "/ˌmæɡəˈziːn/",
+      "vietnamese": "tạp chí",
+      "example": "A fashion magazine."
+    },
+    {
+      "english": "magic",
+      "ipa": "/ˈmædʒɪk/",
+      "vietnamese": "ma thuật, ảo thuật",
+      "example": "Do you believe in magic?"
+    },
+    {
+      "english": "mail",
+      "ipa": "/meɪl/",
+      "vietnamese": "thư từ, bưu kiện; gửi thư",
+      "example": "Check your mail."
+    },
+    {
+      "english": "main",
+      "ipa": "/meɪn/",
+      "vietnamese": "chính, chủ yếu",
+      "example": "The main reason."
+    },
+    {
+      "english": "mainly",
+      "ipa": "/ˈmeɪnli/",
+      "vietnamese": "chính, chủ yếu, phần lớn",
+      "example": "It is mainly for children."
+    },
+    {
+      "english": "maintain",
+      "ipa": "/meɪnˈteɪn/",
+      "vietnamese": "giữ gìn, duy trì, bảo vệ",
+      "example": "Maintain good health."
+    },
+    {
+      "english": "major",
+      "ipa": "/ˈmeɪdʒər/",
+      "vietnamese": "lớn, trọng đại, chủ yếu",
+      "example": "A major problem."
+    },
+    {
+      "english": "majority",
+      "ipa": "/məˈdʒɒrəti/",
+      "vietnamese": "phần lớn, đa số",
+      "example": "The majority of people."
+    },
+    {
+      "english": "make",
+      "ipa": "/meɪk/",
+      "vietnamese": "làm, chế tạo",
+      "example": "Make a cake."
+    },
+    {
+      "english": "make friends with",
+      "ipa": "/meɪk frendz wɪð/",
+      "vietnamese": "kết bạn với",
+      "example": "He finds it easy to make friends."
+    },
+    {
+      "english": "make-up",
+      "ipa": "/ˈmeɪk ʌp/",
+      "vietnamese": "đồ hóa trang, son phấn",
+      "example": "She wears a lot of make-up."
+    },
+    {
+      "english": "male",
+      "ipa": "/meɪl/",
+      "vietnamese": "trai, đàn ông; giống đực",
+      "example": "Male and female."
+    },
+    {
+      "english": "mall",
+      "ipa": "/mɔːl/",
+      "vietnamese": "trung tâm mua sắm",
+      "example": "Shopping mall."
+    },
+    {
+      "english": "man",
+      "ipa": "/mæn/",
+      "vietnamese": "con người; đàn ông",
+      "example": "A tall man."
+    },
+    {
+      "english": "manage",
+      "ipa": "/ˈmænɪdʒ/",
+      "vietnamese": "quản lý, trông nom, xoay xở",
+      "example": "How do you manage?"
+    },
+    {
+      "english": "management",
+      "ipa": "/ˈmænɪdʒmənt/",
+      "vietnamese": "sự quản lý, ban quản lý",
+      "example": "Time management."
+    },
+    {
+      "english": "manager",
+      "ipa": "/ˈmænɪdʒər/",
+      "vietnamese": "người quản lý, giám đốc",
+      "example": "The bank manager."
+    },
+    {
+      "english": "manner",
+      "ipa": "/ˈmænər/",
+      "vietnamese": "cách, lối, kiểu; thái độ",
+      "example": "In a polite manner."
+    },
+    {
+      "english": "manufacture",
+      "ipa": "/ˌmænjuˈfæktʃər/",
+      "vietnamese": "sản xuất, chế tạo",
+      "example": "Manufacture cars."
+    },
+    {
+      "english": "manufacturer",
+      "ipa": "/ˌmænjuˈfæktʃərə/",
+      "vietnamese": "nhà sản xuất",
+      "example": "A leading car manufacturer."
+    },
+    {
+      "english": "manufacturing",
+      "ipa": "/ˌmænjuˈfæktʃərɪŋ/",
+      "vietnamese": "sự sản xuất, ngành sản xuất",
+      "example": "Manufacturing industry."
+    },
+    {
+      "english": "many",
+      "ipa": "/ˈmeni/",
+      "vietnamese": "nhiều",
+      "example": "Many people."
+    },
+    {
+      "english": "map",
+      "ipa": "/mæp/",
+      "vietnamese": "bản đồ",
+      "example": "Look at the map."
+    },
+    {
+      "english": "March",
+      "ipa": "/mɑːrtʃ/",
+      "vietnamese": "tháng Ba",
+      "example": "Born in March."
+    },
+    {
+      "english": "mark",
+      "ipa": "/mɑːrk/",
+      "vietnamese": "dấu, nhãn; đánh dấu",
+      "example": "Mark the date."
+    },
+    {
+      "english": "market",
+      "ipa": "/ˈmɑːrkɪt/",
+      "vietnamese": "chợ, thị trường",
+      "example": "Go to the market."
+    },
+    {
+      "english": "marketing",
+      "ipa": "/ˈmɑːrkɪtɪŋ/",
+      "vietnamese": "tiếp thị",
+      "example": "Marketing strategy."
+    },
+    {
+      "english": "marriage",
+      "ipa": "/ˈmærɪdʒ/",
+      "vietnamese": "hôn nhân, lễ cưới",
+      "example": "A happy marriage."
+    },
+    {
+      "english": "married",
+      "ipa": "/ˈmærid/",
+      "vietnamese": "đã kết hôn",
+      "example": "Are you married?"
+    },
+    {
+      "english": "marry",
+      "ipa": "/ˈmæri/",
+      "vietnamese": "cưới, kết hôn",
+      "example": "Will you marry me?"
+    },
+    {
+      "english": "mass",
+      "ipa": "/mæs/",
+      "vietnamese": "khối, đống; quần chúng",
+      "example": "Mass media."
+    },
+    {
+      "english": "massive",
+      "ipa": "/ˈmæsɪv/",
+      "vietnamese": "to lớn, đồ sộ",
+      "example": "A massive building."
+    },
+    {
+      "english": "master",
+      "ipa": "/ˈmɑːstər/",
+      "vietnamese": "chủ, thầy; tinh thông",
+      "example": "Master of ceremonies."
+    },
+    {
+      "english": "match",
+      "ipa": "/mætʃ/",
+      "vietnamese": "trận đấu; que diêm; xứng nhau",
+      "example": "Football match."
+    },
+    {
+      "english": "matching",
+      "ipa": "/ˈmætʃɪŋ/",
+      "vietnamese": "tương xứng, phù hợp",
+      "example": "Matching shoes and bag."
+    },
+    {
+      "english": "mate",
+      "ipa": "/meɪt/",
+      "vietnamese": "bạn, bạn nghề",
+      "example": "Classmate."
+    },
+    {
+      "english": "material",
+      "ipa": "/məˈtɪəriəl/",
+      "vietnamese": "nguyên liệu, vật liệu",
+      "example": "Building materials."
+    },
+    {
+      "english": "mathematics",
+      "ipa": "/ˌmæθəˈmætɪks/",
+      "vietnamese": "toán học (maths)",
+      "example": "I am good at mathematics."
+    },
+    {
+      "english": "matter",
+      "ipa": "/ˈmætər/",
+      "vietnamese": "vấn đề, việc; quan trọng",
+      "example": "What's the matter?"
+    },
+    {
+      "english": "maximum",
+      "ipa": "/ˈmæksɪməm/",
+      "vietnamese": "tối đa, cực đại",
+      "example": "Maximum speed."
+    },
+    {
+      "english": "may",
+      "ipa": "/meɪ/",
+      "vietnamese": "có thể, có lẽ",
+      "example": "I may go."
+    },
+    {
+      "english": "May",
+      "ipa": "/meɪ/",
+      "vietnamese": "tháng Năm",
+      "example": "In May."
+    },
+    {
+      "english": "maybe",
+      "ipa": "/ˈmeɪbi/",
+      "vietnamese": "có lẽ",
+      "example": "Maybe later."
+    },
+    {
+      "english": "mayor",
+      "ipa": "/meər/",
+      "vietnamese": "thị trưởng",
+      "example": "The mayor of the city."
+    },
+    {
+      "english": "me",
+      "ipa": "/miː/",
+      "vietnamese": "tôi, tao (tân ngữ)",
+      "example": "Give it to me."
+    },
+    {
+      "english": "meal",
+      "ipa": "/miːl/",
+      "vietnamese": "bữa ăn",
+      "example": "Enjoy your meal."
+    },
+    {
+      "english": "mean",
+      "ipa": "/miːn/",
+      "vietnamese": "có nghĩa là; keo kiệt",
+      "example": "What do you mean?"
+    },
+    {
+      "english": "meaning",
+      "ipa": "/ˈmiːnɪŋ/",
+      "vietnamese": "ý nghĩa",
+      "example": "The meaning of life."
+    },
+    {
+      "english": "means",
+      "ipa": "/miːnz/",
+      "vietnamese": "phương tiện, cách thức",
+      "example": "By means of..."
+    },
+    {
+      "english": "meanwhile",
+      "ipa": "/ˈmiːnwaɪl/",
+      "vietnamese": "trong lúc đó",
+      "example": "Meanwhile, back at home..."
+    },
+    {
+      "english": "measure",
+      "ipa": "/ˈmeʒər/",
+      "vietnamese": "đo lường; biện pháp",
+      "example": "Measure the length."
+    },
+    {
+      "english": "measurement",
+      "ipa": "/ˈmeʒərmənt/",
+      "vietnamese": "sự đo lường, kích thước",
+      "example": "Take measurements."
+    },
+    {
+      "english": "meat",
+      "ipa": "/miːt/",
+      "vietnamese": "thịt",
+      "example": "I don't eat meat."
+    },
+    {
+      "english": "media",
+      "ipa": "/ˈmiːdiə/",
+      "vietnamese": "phương tiện truyền thông",
+      "example": "The mass media."
+    },
+    {
+      "english": "medical",
+      "ipa": "/ˈmedɪkl/",
+      "vietnamese": "(thuộc) y học",
+      "example": "Medical care."
+    },
+    {
+      "english": "medicine",
+      "ipa": "/ˈmedisn/",
+      "vietnamese": "thuốc; y học",
+      "example": "Take medicine."
+    },
+    {
+      "english": "medium",
+      "ipa": "/ˈmiːdiəm/",
+      "vietnamese": "trung bình, vừa",
+      "example": "Medium size."
+    },
+    {
+      "english": "meet",
+      "ipa": "/miːt/",
+      "vietnamese": "gặp, gặp gỡ",
+      "example": "Nice to meet you."
+    },
+    {
+      "english": "meeting",
+      "ipa": "/ˈmiːtɪŋ/",
+      "vietnamese": "cuộc họp, cuộc gặp",
+      "example": "Attend a meeting."
+    },
+    {
+      "english": "melt",
+      "ipa": "/melt/",
+      "vietnamese": "tan chảy",
+      "example": "The ice is melting."
+    },
+    {
+      "english": "member",
+      "ipa": "/ˈmembər/",
+      "vietnamese": "thành viên",
+      "example": "A family member."
+    },
+    {
+      "english": "membership",
+      "ipa": "/ˈmembəʃɪp/",
+      "vietnamese": "tư cách hội viên",
+      "example": "Apply for membership."
+    },
+    {
+      "english": "memory",
+      "ipa": "/ˈmeməri/",
+      "vietnamese": "trí nhớ, kỷ niệm",
+      "example": "I have a good memory."
+    },
+    {
+      "english": "mental",
+      "ipa": "/ˈmentl/",
+      "vietnamese": "thuộc tinh thần, trí tuệ",
+      "example": "Mental health."
+    },
+    {
+      "english": "mentally",
+      "ipa": "/ˈmentəli/",
+      "vietnamese": "về mặt tinh thần",
+      "example": "Mentally ill."
+    },
+    {
+      "english": "mention",
+      "ipa": "/ˈmenʃn/",
+      "vietnamese": "đề cập đến; sự đề cập",
+      "example": "Don't mention it."
+    },
+    {
+      "english": "menu",
+      "ipa": "/ˈmenjuː/",
+      "vietnamese": "thực đơn",
+      "example": "Look at the menu."
+    },
+    {
+      "english": "mere",
+      "ipa": "/mɪər/",
+      "vietnamese": "chỉ là",
+      "example": "A mere child."
+    },
+    {
+      "english": "merely",
+      "ipa": "/ˈmɪəli/",
+      "vietnamese": "chỉ, đơn thuần",
+      "example": "I merely asked."
+    },
+    {
+      "english": "mess",
+      "ipa": "/mes/",
+      "vietnamese": "tình trạng bừa bộn",
+      "example": "What a mess!"
+    },
+    {
+      "english": "message",
+      "ipa": "/ˈmesɪdʒ/",
+      "vietnamese": "tin nhắn, thông điệp",
+      "example": "Leave a message."
+    },
+    {
+      "english": "metal",
+      "ipa": "/ˈmetl/",
+      "vietnamese": "kim loại",
+      "example": "Made of metal."
+    },
+    {
+      "english": "method",
+      "ipa": "/ˈmeθəd/",
+      "vietnamese": "phương pháp",
+      "example": "A new method."
+    },
+    {
+      "english": "metre",
+      "ipa": "/ˈmiːtər/",
+      "vietnamese": "mét",
+      "example": "Five metres long."
+    },
+    {
+      "english": "midday",
+      "ipa": "/ˌmɪdˈdeɪ/",
+      "vietnamese": "trưa, buổi trưa",
+      "example": "At midday."
+    },
+    {
+      "english": "middle",
+      "ipa": "/ˈmɪdl/",
+      "vietnamese": "giữa",
+      "example": "In the middle of the night."
+    },
+    {
+      "english": "midnight",
+      "ipa": "/ˈmɪdnaɪt/",
+      "vietnamese": "nửa đêm",
+      "example": "At midnight."
+    },
+    {
+      "english": "might",
+      "ipa": "/maɪt/",
+      "vietnamese": "có thể (quá khứ của may)",
+      "example": "It might rain."
+    },
+    {
+      "english": "mild",
+      "ipa": "/maɪld/",
+      "vietnamese": "nhẹ, êm dịu, ôn hòa",
+      "example": "Mild weather."
+    },
+    {
+      "english": "mile",
+      "ipa": "/maɪl/",
+      "vietnamese": "dặm",
+      "example": "Miles away."
+    },
+    {
+      "english": "military",
+      "ipa": "/ˈmɪlətri/",
+      "vietnamese": "quân đội, quân sự",
+      "example": "Military service."
+    },
+    {
+      "english": "milk",
+      "ipa": "/mɪlk/",
+      "vietnamese": "sữa",
+      "example": "Drink milk."
+    },
+    {
+      "english": "mind",
+      "ipa": "/maɪnd/",
+      "vietnamese": "tâm trí; phiền, quan tâm",
+      "example": "Never mind."
+    },
+    {
+      "english": "mine",
+      "ipa": "/maɪn/",
+      "vietnamese": "của tôi; mỏ",
+      "example": "It's mine."
+    },
+    {
+      "english": "mineral",
+      "ipa": "/ˈmɪnərəl/",
+      "vietnamese": "khoáng chất",
+      "example": "Mineral water."
+    },
+    {
+      "english": "minimum",
+      "ipa": "/ˈmɪnɪməm/",
+      "vietnamese": "tối thiểu",
+      "example": "Minimum wage."
+    },
+    {
+      "english": "minister",
+      "ipa": "/ˈmɪnɪstər/",
+      "vietnamese": "bộ trưởng",
+      "example": "Prime Minister."
+    },
+    {
+      "english": "ministry",
+      "ipa": "/ˈmɪnɪstri/",
+      "vietnamese": "bộ (trong chính phủ)",
+      "example": "Ministry of Education."
+    },
+    {
+      "english": "minor",
+      "ipa": "/ˈmaɪnər/",
+      "vietnamese": "nhỏ, không quan trọng",
+      "example": "Minor injuries."
+    },
+    {
+      "english": "minority",
+      "ipa": "/maɪˈnɒrəti/",
+      "vietnamese": "thiểu số",
+      "example": "Ethnic minority."
+    },
+    {
+      "english": "minute",
+      "ipa": "/ˈmɪnɪt/",
+      "vietnamese": "phút",
+      "example": "Wait a minute."
+    },
+    {
+      "english": "mirror",
+      "ipa": "/ˈmɪrər/",
+      "vietnamese": "cái gương",
+      "example": "Look in the mirror."
+    },
+    {
+      "english": "miss",
+      "ipa": "/mɪs/",
+      "vietnamese": "lỡ, trượt; nhớ; cô (Miss)",
+      "example": "I miss you."
+    },
+    {
+      "english": "missing",
+      "ipa": "/ˈmɪsɪŋ/",
+      "vietnamese": "vắng, thiếu, thất lạc",
+      "example": "A missing person."
+    },
+    {
+      "english": "mistake",
+      "ipa": "/mɪˈsteɪk/",
+      "vietnamese": "lỗi, sai lầm",
+      "example": "Make a mistake."
+    },
+    {
+      "english": "mix",
+      "ipa": "/mɪks/",
+      "vietnamese": "trộn, pha",
+      "example": "Mix well."
+    },
+    {
+      "english": "mixed",
+      "ipa": "/mɪkst/",
+      "vietnamese": "lẫn lộn, pha trộn",
+      "example": "Mixed feelings."
+    },
+    {
+      "english": "mixture",
+      "ipa": "/ˈmɪkstʃər/",
+      "vietnamese": "hỗn hợp",
+      "example": "A mixture of oil and water."
+    },
+    {
+      "english": "mobile",
+      "ipa": "/ˈməʊbaɪl/",
+      "vietnamese": "di động",
+      "example": "Mobile phone."
+    },
+    {
+      "english": "model",
+      "ipa": "/ˈmɒdl/",
+      "vietnamese": "mẫu, kiểu mẫu, người mẫu",
+      "example": "A fashion model."
+    },
+    {
+      "english": "modern",
+      "ipa": "/ˈmɒdn/",
+      "vietnamese": "hiện đại",
+      "example": "Modern art."
+    },
+    {
+      "english": "moment",
+      "ipa": "/ˈməʊmənt/",
+      "vietnamese": "khoảnh khắc, chốc lát",
+      "example": "Wait a moment."
+    },
+    {
+      "english": "Monday",
+      "ipa": "/ˈmʌndeɪ/",
+      "vietnamese": "thứ Hai",
+      "example": "See you on Monday."
+    },
+    {
+      "english": "money",
+      "ipa": "/ˈmʌni/",
+      "vietnamese": "tiền",
+      "example": "Time is money."
+    },
+    {
+      "english": "monitor",
+      "ipa": "/ˈmɒnɪtər/",
+      "vietnamese": "màn hình; giám sát",
+      "example": "Computer monitor."
+    },
+    {
+      "english": "month",
+      "ipa": "/mʌnθ/",
+      "vietnamese": "tháng",
+      "example": "Next month."
+    },
+    {
+      "english": "mood",
+      "ipa": "/muːd/",
+      "vietnamese": "tâm trạng",
+      "example": "In a good mood."
+    },
+    {
+      "english": "moon",
+      "ipa": "/muːn/",
+      "vietnamese": "mặt trăng",
+      "example": "Full moon."
+    },
+    {
+      "english": "moral",
+      "ipa": "/ˈmɒrəl/",
+      "vietnamese": "đạo đức",
+      "example": "Moral values."
+    },
+    {
+      "english": "more",
+      "ipa": "/mɔːr/",
+      "vietnamese": "hơn, nhiều hơn",
+      "example": "More tea?"
+    },
+    {
+      "english": "moreover",
+      "ipa": "/mɔːrˈəʊvər/",
+      "vietnamese": "hơn nữa",
+      "example": "It is cheap; moreover, it is good."
+    },
+    {
+      "english": "morning",
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "vietnamese": "buổi sáng",
+      "example": "Good morning."
+    },
+    {
+      "english": "most",
+      "ipa": "/məʊst/",
+      "vietnamese": "nhất, hầu hết",
+      "example": "Most people."
+    },
+    {
+      "english": "mostly",
+      "ipa": "/ˈməʊstli/",
+      "vietnamese": "chủ yếu là",
+      "example": "It is mostly green."
+    },
+    {
+      "english": "mother",
+      "ipa": "/ˈmʌðər/",
+      "vietnamese": "mẹ",
+      "example": "My mother is kind."
+    },
+    {
+      "english": "motion",
+      "ipa": "/ˈməʊʃn/",
+      "vietnamese": "sự chuyển động",
+      "example": "Slow motion."
+    },
+    {
+      "english": "motor",
+      "ipa": "/ˈməʊtər/",
+      "vietnamese": "động cơ",
+      "example": "Electric motor."
+    },
+    {
+      "english": "motorcycle",
+      "ipa": "/ˈməʊtəsaɪkl/",
+      "vietnamese": "xe máy",
+      "example": "Ride a motorcycle."
+    },
+    {
+      "english": "mount",
+      "ipa": "/maʊnt/",
+      "vietnamese": "leo, trèo; núi (Mount Everest)",
+      "example": "Mount a horse."
+    },
+    {
+      "english": "mountain",
+      "ipa": "/ˈmaʊntən/",
+      "vietnamese": "núi",
+      "example": "Climb a mountain."
+    },
+    {
+      "english": "mouse",
+      "ipa": "/maʊs/",
+      "vietnamese": "con chuột",
+      "example": "Computer mouse."
+    },
+    {
+      "english": "mouth",
+      "ipa": "/maʊθ/",
+      "vietnamese": "miệng",
+      "example": "Open your mouth."
+    },
+    {
+      "english": "move",
+      "ipa": "/muːv/",
+      "vietnamese": "di chuyển",
+      "example": "Don't move."
+    },
+    {
+      "english": "movement",
+      "ipa": "/ˈmuːvmənt/",
+      "vietnamese": "sự chuyển động, phong trào",
+      "example": "Freedom of movement."
+    },
+    {
+      "english": "movie",
+      "ipa": "/ˈmuːvi/",
+      "vietnamese": "phim",
+      "example": "Watch a movie."
+    },
+    {
+      "english": "moving",
+      "ipa": "/ˈmuːvɪŋ/",
+      "vietnamese": "động, cảm động",
+      "example": "A moving story."
+    },
+    {
+      "english": "much",
+      "ipa": "/mʌtʃ/",
+      "vietnamese": "nhiều",
+      "example": "Thank you very much."
+    },
+    {
+      "english": "mud",
+      "ipa": "/mʌd/",
+      "vietnamese": "bùn",
+      "example": "Stuck in the mud."
+    },
+    {
+      "english": "multiply",
+      "ipa": "/ˈmʌltɪplaɪ/",
+      "vietnamese": "nhân",
+      "example": "2 multiplied by 3 is 6."
+    },
+    {
+      "english": "murder",
+      "ipa": "/ˈmɜːrdər/",
+      "vietnamese": "tội giết người; giết",
+      "example": "Commit a murder."
+    },
+    {
+      "english": "muscle",
+      "ipa": "/ˈmʌsl/",
+      "vietnamese": "cơ bắp",
+      "example": "Strong muscles."
+    },
+    {
+      "english": "museum",
+      "ipa": "/mjuˈziːəm/",
+      "vietnamese": "bảo tàng",
+      "example": "Visit a museum."
+    },
+    {
+      "english": "music",
+      "ipa": "/ˈmjuːzɪk/",
+      "vietnamese": "âm nhạc",
+      "example": "Listen to music."
+    },
+    {
+      "english": "musical",
+      "ipa": "/ˈmjuːzɪkl/",
+      "vietnamese": "thuộc âm nhạc",
+      "example": "Musical instrument."
+    },
+    {
+      "english": "musician",
+      "ipa": "/mjuˈzɪʃn/",
+      "vietnamese": "nhạc sĩ",
+      "example": "A talented musician."
+    },
+    {
+      "english": "must",
+      "ipa": "/mʌst/",
+      "vietnamese": "phải",
+      "example": "You must go."
+    },
+    {
+      "english": "my",
+      "ipa": "/maɪ/",
+      "vietnamese": "của tôi",
+      "example": "My name is..."
+    },
+    {
+      "english": "myself",
+      "ipa": "/maɪˈself/",
+      "vietnamese": "chính tôi",
+      "example": "I did it myself."
+    },
+    {
+      "english": "mysterious",
+      "ipa": "/mɪˈstɪəriəs/",
+      "vietnamese": "huyền bí",
+      "example": "A mysterious stranger."
+    },
+    {
+      "english": "mystery",
+      "ipa": "/ˈmɪstri/",
+      "vietnamese": "điều huyền bí",
+      "example": "Solve a mystery."
+    }
+  ]
+}
