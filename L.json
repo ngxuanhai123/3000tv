@@ -1,0 +1,659 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: L (English Vocabulary)",
+  "words": [
+    {
+      "english": "label",
+      "ipa": "/ˈleɪbl/",
+      "vietnamese": "nhãn, mác; dán nhãn, ghi mác",
+      "example": "Read the instructions on the label."
+    },
+    {
+      "english": "laboratory",
+      "ipa": "/ləˈbɒrətri/",
+      "vietnamese": "phòng thí nghiệm",
+      "example": "Send the sample to the laboratory."
+    },
+    {
+      "english": "labour",
+      "ipa": "/ˈleɪbər/",
+      "vietnamese": "lao động; công việc",
+      "example": "Manual labour."
+    },
+    {
+      "english": "lack",
+      "ipa": "/læk/",
+      "vietnamese": "sự thiếu; thiếu",
+      "example": "Lack of money."
+    },
+    {
+      "english": "lacking",
+      "ipa": "/ˈlækɪŋ/",
+      "vietnamese": "thiếu, không có",
+      "example": "He is lacking in confidence."
+    },
+    {
+      "english": "lady",
+      "ipa": "/ˈleɪdi/",
+      "vietnamese": "quý bà, tiểu thư",
+      "example": "Ladies and gentlemen."
+    },
+    {
+      "english": "lake",
+      "ipa": "/leɪk/",
+      "vietnamese": "hồ",
+      "example": "We swam in the lake."
+    },
+    {
+      "english": "lamp",
+      "ipa": "/læmp/",
+      "vietnamese": "đèn",
+      "example": "Turn on the lamp."
+    },
+    {
+      "english": "land",
+      "ipa": "/lænd/",
+      "vietnamese": "đất, đất đai; hạ cánh",
+      "example": "The plane landed safely."
+    },
+    {
+      "english": "landscape",
+      "ipa": "/ˈlændskeɪp/",
+      "vietnamese": "phong cảnh",
+      "example": "A beautiful landscape."
+    },
+    {
+      "english": "lane",
+      "ipa": "/leɪn/",
+      "vietnamese": "đường nhỏ, làn đường",
+      "example": "The bicycle lane."
+    },
+    {
+      "english": "language",
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "vietnamese": "ngôn ngữ",
+      "example": "Foreign language."
+    },
+    {
+      "english": "large",
+      "ipa": "/lɑːrdʒ/",
+      "vietnamese": "rộng, lớn, to",
+      "example": "A large house."
+    },
+    {
+      "english": "largely",
+      "ipa": "/ˈlɑːrdʒli/",
+      "vietnamese": "phần lớn, chủ yếu",
+      "example": "It is largely due to luck."
+    },
+    {
+      "english": "last",
+      "ipa": "/lɑːst/",
+      "vietnamese": "lần cuối, sau cùng; kéo dài",
+      "example": "The meeting lasted two hours."
+    },
+    {
+      "english": "late",
+      "ipa": "/leɪt/",
+      "vietnamese": "trễ, muộn",
+      "example": "Sorry I'm late."
+    },
+    {
+      "english": "later",
+      "ipa": "/ˈleɪtər/",
+      "vietnamese": "chậm hơn, sau này",
+      "example": "See you later."
+    },
+    {
+      "english": "latest",
+      "ipa": "/ˈleɪtɪst/",
+      "vietnamese": "muộn nhất, mới nhất",
+      "example": "The latest news."
+    },
+    {
+      "english": "latter",
+      "ipa": "/ˈlætər/",
+      "vietnamese": "cái sau, người sau (trong 2 cái/người)",
+      "example": "The latter point is more important."
+    },
+    {
+      "english": "laugh",
+      "ipa": "/lɑːf/",
+      "vietnamese": "cười; tiếng cười",
+      "example": "Don't laugh at me."
+    },
+    {
+      "english": "launch",
+      "ipa": "/lɔːntʃ/",
+      "vietnamese": "hạ thủy, khai trương; sự khởi đầu",
+      "example": "Launch a new product."
+    },
+    {
+      "english": "law",
+      "ipa": "/lɔː/",
+      "vietnamese": "luật, pháp luật",
+      "example": "Against the law."
+    },
+    {
+      "english": "lawyer",
+      "ipa": "/ˈlɔːjər/",
+      "vietnamese": "luật sư",
+      "example": "I need a lawyer."
+    },
+    {
+      "english": "lay",
+      "ipa": "/leɪ/",
+      "vietnamese": "xếp, đặt, bố trí",
+      "example": "Lay the table for dinner."
+    },
+    {
+      "english": "layer",
+      "ipa": "/ˈleɪər/",
+      "vietnamese": "lớp",
+      "example": "A layer of dust."
+    },
+    {
+      "english": "lazy",
+      "ipa": "/ˈleɪzi/",
+      "vietnamese": "lười biếng",
+      "example": "He is too lazy to work."
+    },
+    {
+      "english": "lead",
+      "ipa": "/liːd/",
+      "vietnamese": "lãnh đạo, dẫn dắt",
+      "example": "Lead the way."
+    },
+    {
+      "english": "leader",
+      "ipa": "/ˈliːdər/",
+      "vietnamese": "người lãnh đạo",
+      "example": "A born leader."
+    },
+    {
+      "english": "leading",
+      "ipa": "/ˈliːdɪŋ/",
+      "vietnamese": "lãnh đạo, dẫn đầu, hàng đầu",
+      "example": "A leading company."
+    },
+    {
+      "english": "leaf",
+      "ipa": "/liːf/",
+      "vietnamese": "lá cây",
+      "example": "A green leaf."
+    },
+    {
+      "english": "league",
+      "ipa": "/liːɡ/",
+      "vietnamese": "liên minh, giải đấu",
+      "example": "The Premier League."
+    },
+    {
+      "english": "lean",
+      "ipa": "/liːn/",
+      "vietnamese": "nghiêng, dựa",
+      "example": "Don't lean against the wall."
+    },
+    {
+      "english": "learn",
+      "ipa": "/lɜːrn/",
+      "vietnamese": "học, nghiên cứu",
+      "example": "Learn English."
+    },
+    {
+      "english": "least",
+      "ipa": "/liːst/",
+      "vietnamese": "tối thiểu, ít nhất",
+      "example": "At least 10 people."
+    },
+    {
+      "english": "leather",
+      "ipa": "/ˈleðər/",
+      "vietnamese": "da thuộc",
+      "example": "Leather shoes."
+    },
+    {
+      "english": "leave",
+      "ipa": "/liːv/",
+      "vietnamese": "bỏ đi, rời đi, để lại",
+      "example": "Leave me alone."
+    },
+    {
+      "english": "lecture",
+      "ipa": "/ˈlektʃər/",
+      "vietnamese": "bài diễn thuyết, bài giảng",
+      "example": "Attend a lecture."
+    },
+    {
+      "english": "left",
+      "ipa": "/left/",
+      "vietnamese": "bên trái; về phía trái",
+      "example": "Turn left."
+    },
+    {
+      "english": "leg",
+      "ipa": "/leɡ/",
+      "vietnamese": "chân",
+      "example": "He broke his leg."
+    },
+    {
+      "english": "legal",
+      "ipa": "/ˈliːɡl/",
+      "vietnamese": "hợp pháp, thuộc về luật",
+      "example": "Legal advice."
+    },
+    {
+      "english": "legally",
+      "ipa": "/ˈliːɡəli/",
+      "vietnamese": "một cách hợp pháp",
+      "example": "Legally binding."
+    },
+    {
+      "english": "lemon",
+      "ipa": "/ˈlemən/",
+      "vietnamese": "quả chanh tây (vàng)",
+      "example": "A slice of lemon."
+    },
+    {
+      "english": "lend",
+      "ipa": "/lend/",
+      "vietnamese": "cho vay, cho mượn",
+      "example": "Can you lend me some money?"
+    },
+    {
+      "english": "length",
+      "ipa": "/leŋθ/",
+      "vietnamese": "chiều dài, độ dài",
+      "example": "Measure the length."
+    },
+    {
+      "english": "less",
+      "ipa": "/les/",
+      "vietnamese": "ít hơn",
+      "example": "Less than a minute."
+    },
+    {
+      "english": "lesson",
+      "ipa": "/ˈlesn/",
+      "vietnamese": "bài học",
+      "example": "English lesson."
+    },
+    {
+      "english": "let",
+      "ipa": "/let/",
+      "vietnamese": "cho phép, để cho",
+      "example": "Let me go."
+    },
+    {
+      "english": "letter",
+      "ipa": "/ˈletər/",
+      "vietnamese": "thư; chữ cái",
+      "example": "Write a letter."
+    },
+    {
+      "english": "level",
+      "ipa": "/ˈlevl/",
+      "vietnamese": "trình độ, cấp, mức",
+      "example": "High level."
+    },
+    {
+      "english": "library",
+      "ipa": "/ˈlaɪbrəri/",
+      "vietnamese": "thư viện",
+      "example": "Go to the library."
+    },
+    {
+      "english": "licence",
+      "ipa": "/ˈlaɪsns/",
+      "vietnamese": "giấy phép, bằng",
+      "example": "Driving licence."
+    },
+    {
+      "english": "license",
+      "ipa": "/ˈlaɪsns/",
+      "vietnamese": "cấp chứng chỉ, cho phép",
+      "example": "Licensed to sell alcohol."
+    },
+    {
+      "english": "lid",
+      "ipa": "/lɪd/",
+      "vietnamese": "nắp, vung",
+      "example": "Put the lid on."
+    },
+    {
+      "english": "lie",
+      "ipa": "/laɪ/",
+      "vietnamese": "nói dối; nằm",
+      "example": "Don't lie to me."
+    },
+    {
+      "english": "life",
+      "ipa": "/laɪf/",
+      "vietnamese": "cuộc sống, đời sống",
+      "example": "Life is beautiful."
+    },
+    {
+      "english": "lift",
+      "ipa": "/lɪft/",
+      "vietnamese": "nâng lên; thang máy",
+      "example": "Lift the box."
+    },
+    {
+      "english": "light",
+      "ipa": "/laɪt/",
+      "vietnamese": "ánh sáng; nhẹ; thắp sáng",
+      "example": "Turn on the light."
+    },
+    {
+      "english": "lightly",
+      "ipa": "/ˈlaɪtli/",
+      "vietnamese": "nhẹ nhàng",
+      "example": "Touch it lightly."
+    },
+    {
+      "english": "like",
+      "ipa": "/laɪk/",
+      "vietnamese": "thích; giống như",
+      "example": "I like you."
+    },
+    {
+      "english": "likely",
+      "ipa": "/ˈlaɪkli/",
+      "vietnamese": "có thể, có khả năng",
+      "example": "It is likely to rain."
+    },
+    {
+      "english": "limit",
+      "ipa": "/ˈlɪmɪt/",
+      "vietnamese": "giới hạn, hạn chế",
+      "example": "Speed limit."
+    },
+    {
+      "english": "limited",
+      "ipa": "/ˈlɪmɪtɪd/",
+      "vietnamese": "có giới hạn",
+      "example": "Limited edition."
+    },
+    {
+      "english": "line",
+      "ipa": "/laɪn/",
+      "vietnamese": "dây, đường, tuyến",
+      "example": "Stand in line."
+    },
+    {
+      "english": "link",
+      "ipa": "/lɪŋk/",
+      "vietnamese": "mối liên hệ; liên kết",
+      "example": "Click the link."
+    },
+    {
+      "english": "lip",
+      "ipa": "/lɪp/",
+      "vietnamese": "môi",
+      "example": "Bite your lip."
+    },
+    {
+      "english": "liquid",
+      "ipa": "/ˈlɪkwɪd/",
+      "vietnamese": "chất lỏng",
+      "example": "Drink plenty of liquid."
+    },
+    {
+      "english": "list",
+      "ipa": "/lɪst/",
+      "vietnamese": "danh sách; ghi vào danh sách",
+      "example": "Make a list."
+    },
+    {
+      "english": "listen",
+      "ipa": "/ˈlɪsn/",
+      "vietnamese": "nghe, lắng nghe",
+      "example": "Listen to music."
+    },
+    {
+      "english": "literature",
+      "ipa": "/ˈlɪtrətʃər/",
+      "vietnamese": "văn học",
+      "example": "English literature."
+    },
+    {
+      "english": "litre",
+      "ipa": "/ˈliːtər/",
+      "vietnamese": "lít",
+      "example": "A litre of water."
+    },
+    {
+      "english": "little",
+      "ipa": "/ˈlɪtl/",
+      "vietnamese": "nhỏ, bé, chút ít",
+      "example": "A little boy."
+    },
+    {
+      "english": "live",
+      "ipa": "/lɪv/",
+      "vietnamese": "sống, ở",
+      "example": "Where do you live?"
+    },
+    {
+      "english": "lively",
+      "ipa": "/ˈlaɪvli/",
+      "vietnamese": "sống động, hoạt bát",
+      "example": "A lively discussion."
+    },
+    {
+      "english": "living",
+      "ipa": "/ˈlɪvɪŋ/",
+      "vietnamese": "đang sống; cuộc sống",
+      "example": "Living room."
+    },
+    {
+      "english": "load",
+      "ipa": "/ləʊd/",
+      "vietnamese": "gánh nặng; chất, chở",
+      "example": "A heavy load."
+    },
+    {
+      "english": "loan",
+      "ipa": "/ləʊn/",
+      "vietnamese": "khoản vay, sự vay mượn",
+      "example": "Bank loan."
+    },
+    {
+      "english": "local",
+      "ipa": "/ˈləʊkl/",
+      "vietnamese": "địa phương",
+      "example": "Local news."
+    },
+    {
+      "english": "locally",
+      "ipa": "/ˈləʊkəli/",
+      "vietnamese": "tại địa phương",
+      "example": "Produced locally."
+    },
+    {
+      "english": "locate",
+      "ipa": "/ləʊˈkeɪt/",
+      "vietnamese": "xác định vị trí, định vị",
+      "example": "Locate the enemy."
+    },
+    {
+      "english": "located",
+      "ipa": "/ləʊˈkeɪtɪd/",
+      "vietnamese": "nằm ở, được đặt tại",
+      "example": "The office is located in the city centre."
+    },
+    {
+      "english": "location",
+      "ipa": "/ləʊˈkeɪʃn/",
+      "vietnamese": "vị trí, địa điểm",
+      "example": "Current location."
+    },
+    {
+      "english": "lock",
+      "ipa": "/lɒk/",
+      "vietnamese": "khóa; cái khóa",
+      "example": "Lock the door."
+    },
+    {
+      "english": "logic",
+      "ipa": "/ˈlɒdʒɪk/",
+      "vietnamese": "lô gic, lý trí",
+      "example": "There is no logic in your argument."
+    },
+    {
+      "english": "logical",
+      "ipa": "/ˈlɒdʒɪkl/",
+      "vietnamese": "hợp lý, có lô gic",
+      "example": "A logical conclusion."
+    },
+    {
+      "english": "lonely",
+      "ipa": "/ˈləʊnli/",
+      "vietnamese": "cô đơn",
+      "example": "I feel lonely."
+    },
+    {
+      "english": "long",
+      "ipa": "/lɒŋ/",
+      "vietnamese": "dài, lâu",
+      "example": "A long time ago."
+    },
+    {
+      "english": "look",
+      "ipa": "/lʊk/",
+      "vietnamese": "nhìn; cái nhìn; vẻ ngoài",
+      "example": "Look at me."
+    },
+    {
+      "english": "look after",
+      "ipa": "/lʊk ˈɑːftər/",
+      "vietnamese": "trông nom, chăm sóc",
+      "example": "Look after the baby."
+    },
+    {
+      "english": "loose",
+      "ipa": "/luːs/",
+      "vietnamese": "lỏng, không chặt",
+      "example": "A loose tooth."
+    },
+    {
+      "english": "loosely",
+      "ipa": "/ˈluːsli/",
+      "vietnamese": "lỏng lẻo",
+      "example": "Tie it loosely."
+    },
+    {
+      "english": "lord",
+      "ipa": "/lɔːrd/",
+      "vietnamese": "Chúa, ngài",
+      "example": "Good Lord!"
+    },
+    {
+      "english": "lorry",
+      "ipa": "/ˈlɒri/",
+      "vietnamese": "xe tải",
+      "example": "A big lorry."
+    },
+    {
+      "english": "lose",
+      "ipa": "/luːz/",
+      "vietnamese": "mất, thua",
+      "example": "Don't lose your keys."
+    },
+    {
+      "english": "loss",
+      "ipa": "/lɒs/",
+      "vietnamese": "sự mất mát, thua lỗ",
+      "example": "A big loss."
+    },
+    {
+      "english": "lost",
+      "ipa": "/lɒst/",
+      "vietnamese": "bị mất, lạc đường",
+      "example": "I am lost."
+    },
+    {
+      "english": "lot",
+      "ipa": "/lɒt/",
+      "vietnamese": "nhiều (a lot)",
+      "example": "Thanks a lot."
+    },
+    {
+      "english": "loud",
+      "ipa": "/laʊd/",
+      "vietnamese": "to (âm thanh)",
+      "example": "Loud music."
+    },
+    {
+      "english": "loudly",
+      "ipa": "/ˈlaʊdli/",
+      "vietnamese": "ầm ĩ, inh ỏi",
+      "example": "Speak loudly."
+    },
+    {
+      "english": "love",
+      "ipa": "/lʌv/",
+      "vietnamese": "yêu, thích; tình yêu",
+      "example": "I love you."
+    },
+    {
+      "english": "lovely",
+      "ipa": "/ˈlʌvli/",
+      "vietnamese": "đáng yêu, dễ thương",
+      "example": "A lovely day."
+    },
+    {
+      "english": "lover",
+      "ipa": "/ˈlʌvər/",
+      "vietnamese": "người yêu",
+      "example": "Music lover."
+    },
+    {
+      "english": "low",
+      "ipa": "/ləʊ/",
+      "vietnamese": "thấp",
+      "example": "Low price."
+    },
+    {
+      "english": "loyal",
+      "ipa": "/ˈlɔɪəl/",
+      "vietnamese": "trung thành",
+      "example": "A loyal friend."
+    },
+    {
+      "english": "luck",
+      "ipa": "/lʌk/",
+      "vietnamese": "may mắn",
+      "example": "Good luck!"
+    },
+    {
+      "english": "lucky",
+      "ipa": "/ˈlʌki/",
+      "vietnamese": "gặp may, may mắn",
+      "example": "You are lucky."
+    },
+    {
+      "english": "luggage",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "vietnamese": "hành lý",
+      "example": "Check your luggage."
+    },
+    {
+      "english": "lump",
+      "ipa": "/lʌmp/",
+      "vietnamese": "cục, tảng, miếng",
+      "example": "A lump of sugar."
+    },
+    {
+      "english": "lunch",
+      "ipa": "/lʌntʃ/",
+      "vietnamese": "bữa trưa",
+      "example": "Have lunch."
+    },
+    {
+      "english": "lung",
+      "ipa": "/lʌŋ/",
+      "vietnamese": "phổi",
+      "example": "Lung cancer."
+    }
+  ]
+}
