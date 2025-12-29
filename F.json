@@ -1,0 +1,947 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: F (English Vocabulary)",
+  "words": [
+    {
+      "english": "face",
+      "ipa": "/feɪs/",
+      "vietnamese": "mặt, thể diện; đương đầu, đối phó",
+      "example": "Wash your face."
+    },
+    {
+      "english": "facility",
+      "ipa": "/fəˈsɪləti/",
+      "vietnamese": "điều kiện dễ dàng, sự dễ dàng, thuận lợi",
+      "example": "Sports facilities."
+    },
+    {
+      "english": "fact",
+      "ipa": "/fækt/",
+      "vietnamese": "việc, sự việc, sự kiện",
+      "example": "It is a fact that the earth is round."
+    },
+    {
+      "english": "factor",
+      "ipa": "/ˈfæktər/",
+      "vietnamese": "nhân tố",
+      "example": "Price is a key factor."
+    },
+    {
+      "english": "factory",
+      "ipa": "/ˈfæktri/",
+      "vietnamese": "nhà máy, xí nghiệp, xưởng",
+      "example": "She works in a shoe factory."
+    },
+    {
+      "english": "fail",
+      "ipa": "/feɪl/",
+      "vietnamese": "sai, thất bại",
+      "example": "He failed the exam."
+    },
+    {
+      "english": "failure",
+      "ipa": "/ˈfeɪljər/",
+      "vietnamese": "sự thất bại, người thất bại",
+      "example": "Failure is the mother of success."
+    },
+    {
+      "english": "faint",
+      "ipa": "/feɪnt/",
+      "vietnamese": "nhút nhát, yếu ớt; ngất xỉu",
+      "example": "She felt faint with hunger."
+    },
+    {
+      "english": "faintly",
+      "ipa": "/ˈfeɪntli/",
+      "vietnamese": "nhút nhát, yếu ớt",
+      "example": "He smiled faintly."
+    },
+    {
+      "english": "fair",
+      "ipa": "/feər/",
+      "vietnamese": "hợp lý, công bằng; thuận lợi",
+      "example": "It's not fair."
+    },
+    {
+      "english": "fairly",
+      "ipa": "/ˈfeəli/",
+      "vietnamese": "hợp lý, công bằng; khá",
+      "example": "It is fairly easy."
+    },
+    {
+      "english": "faith",
+      "ipa": "/feɪθ/",
+      "vietnamese": "sự tin tưởng, tin cậy, niềm tin",
+      "example": "Have faith in God."
+    },
+    {
+      "english": "faithful",
+      "ipa": "/ˈfeɪθfl/",
+      "vietnamese": "trung thành, chung thủy",
+      "example": "A faithful friend."
+    },
+    {
+      "english": "faithfully",
+      "ipa": "/ˈfeɪθfəli/",
+      "vietnamese": "trung thành, chung thủy",
+      "example": "Yours faithfully."
+    },
+    {
+      "english": "fall",
+      "ipa": "/fɔːl/",
+      "vietnamese": "rơi, ngã; sự rơi",
+      "example": "Leaves fall in autumn."
+    },
+    {
+      "english": "false",
+      "ipa": "/fɔːls/",
+      "vietnamese": "sai, nhầm, giả dối",
+      "example": "True or false?"
+    },
+    {
+      "english": "fame",
+      "ipa": "/feɪm/",
+      "vietnamese": "tên tuổi, danh tiếng",
+      "example": "He rose to fame quickly."
+    },
+    {
+      "english": "familiar",
+      "ipa": "/fəˈmɪliər/",
+      "vietnamese": "thân thiết, quen thuộc",
+      "example": "You look familiar."
+    },
+    {
+      "english": "family",
+      "ipa": "/ˈfæməli/",
+      "vietnamese": "gia đình",
+      "example": "I love my family."
+    },
+    {
+      "english": "famous",
+      "ipa": "/ˈfeɪməs/",
+      "vietnamese": "nổi tiếng",
+      "example": "A famous singer."
+    },
+    {
+      "english": "fan",
+      "ipa": "/fæn/",
+      "vietnamese": "người hâm mộ; cái quạt",
+      "example": "I am a football fan."
+    },
+    {
+      "english": "fancy",
+      "ipa": "/ˈfænsi/",
+      "vietnamese": "tưởng tượng, cho, nghĩ rằng; thích",
+      "example": "Fancy seeing you here!"
+    },
+    {
+      "english": "far",
+      "ipa": "/fɑːr/",
+      "vietnamese": "xa",
+      "example": "How far is it?"
+    },
+    {
+      "english": "farm",
+      "ipa": "/fɑːrm/",
+      "vietnamese": "trang trại",
+      "example": "He lives on a farm."
+    },
+    {
+      "english": "farmer",
+      "ipa": "/ˈfɑːrmər/",
+      "vietnamese": "nông dân",
+      "example": "The farmer works hard."
+    },
+    {
+      "english": "farming",
+      "ipa": "/ˈfɑːrmɪŋ/",
+      "vietnamese": "công việc trồng trọt, đồng áng",
+      "example": "Farming is a hard job."
+    },
+    {
+      "english": "fashion",
+      "ipa": "/ˈfæʃn/",
+      "vietnamese": "mốt, thời trang",
+      "example": "Follow the latest fashion."
+    },
+    {
+      "english": "fashionable",
+      "ipa": "/ˈfæʃnəbl/",
+      "vietnamese": "đúng mốt, hợp thời trang",
+      "example": "She wears fashionable clothes."
+    },
+    {
+      "english": "fast",
+      "ipa": "/fɑːst/",
+      "vietnamese": "nhanh",
+      "example": "Run fast."
+    },
+    {
+      "english": "fasten",
+      "ipa": "/ˈfɑːsn/",
+      "vietnamese": "buộc, trói",
+      "example": "Fasten your seatbelt."
+    },
+    {
+      "english": "fat",
+      "ipa": "/fæt/",
+      "vietnamese": "béo; mỡ",
+      "example": "You are getting fat."
+    },
+    {
+      "english": "father",
+      "ipa": "/ˈfɑːðər/",
+      "vietnamese": "cha (bố)",
+      "example": "Like father, like son."
+    },
+    {
+      "english": "faucet",
+      "ipa": "/ˈfɔːsɪt/",
+      "vietnamese": "vòi nước",
+      "example": "Turn off the faucet."
+    },
+    {
+      "english": "fault",
+      "ipa": "/fɔːlt/",
+      "vietnamese": "sự thiếu sót, sai sót, lỗi",
+      "example": "It's not my fault."
+    },
+    {
+      "english": "favour",
+      "ipa": "/ˈfeɪvər/",
+      "vietnamese": "thiện ý, sự quý mến; ân huệ",
+      "example": "Do me a favour."
+    },
+    {
+      "english": "favourite",
+      "ipa": "/ˈfeɪvərɪt/",
+      "vietnamese": "được ưa thích",
+      "example": "What is your favourite colour?"
+    },
+    {
+      "english": "fear",
+      "ipa": "/fɪər/",
+      "vietnamese": "sự sợ hãi; sợ",
+      "example": "He has a fear of heights."
+    },
+    {
+      "english": "feather",
+      "ipa": "/ˈfeðər/",
+      "vietnamese": "lông chim",
+      "example": "Light as a feather."
+    },
+    {
+      "english": "feature",
+      "ipa": "/ˈfiːtʃər/",
+      "vietnamese": "nét đặc biệt, điểm đặc trưng",
+      "example": "A key feature of the software."
+    },
+    {
+      "english": "February",
+      "ipa": "/ˈfebruəri/",
+      "vietnamese": "tháng 2",
+      "example": "My birthday is in February."
+    },
+    {
+      "english": "federal",
+      "ipa": "/ˈfedərəl/",
+      "vietnamese": "liên bang",
+      "example": "Federal law."
+    },
+    {
+      "english": "fee",
+      "ipa": "/fiː/",
+      "vietnamese": "tiền thù lao, học phí",
+      "example": "Pay the tuition fee."
+    },
+    {
+      "english": "feed",
+      "ipa": "/fiːd/",
+      "vietnamese": "cho ăn, nuôi",
+      "example": "Don't feed the animals."
+    },
+    {
+      "english": "feel",
+      "ipa": "/fiːl/",
+      "vietnamese": "cảm thấy",
+      "example": "I feel happy."
+    },
+    {
+      "english": "feel sick",
+      "ipa": "/fiːl sɪk/",
+      "vietnamese": "buồn nôn; thấy ốm",
+      "example": "I feel sick."
+    },
+    {
+      "english": "feeling",
+      "ipa": "/ˈfiːlɪŋ/",
+      "vietnamese": "cảm giác, cảm xúc",
+      "example": "I have a bad feeling about this."
+    },
+    {
+      "english": "fellow",
+      "ipa": "/ˈfeləʊ/",
+      "vietnamese": "anh chàng, đồng chí",
+      "example": "He is a nice fellow."
+    },
+    {
+      "english": "female",
+      "ipa": "/ˈfiːmeɪl/",
+      "vietnamese": "giống cái, nữ",
+      "example": "Female employees."
+    },
+    {
+      "english": "fence",
+      "ipa": "/fens/",
+      "vietnamese": "hàng rào",
+      "example": "Jump over the fence."
+    },
+    {
+      "english": "festival",
+      "ipa": "/ˈfestɪvl/",
+      "vietnamese": "lễ hội",
+      "example": "Music festival."
+    },
+    {
+      "english": "fetch",
+      "ipa": "/fetʃ/",
+      "vietnamese": "tìm về, đem về",
+      "example": "Fetch me a glass of water."
+    },
+    {
+      "english": "fever",
+      "ipa": "/ˈfiːvər/",
+      "vietnamese": "cơn sốt",
+      "example": "He has a high fever."
+    },
+    {
+      "english": "few",
+      "ipa": "/fjuː/",
+      "vietnamese": "ít, vài",
+      "example": "A few days ago."
+    },
+    {
+      "english": "field",
+      "ipa": "/fiːld/",
+      "vietnamese": "cánh đồng, lĩnh vực",
+      "example": "Football field."
+    },
+    {
+      "english": "fight",
+      "ipa": "/faɪt/",
+      "vietnamese": "chiến đấu; cuộc chiến",
+      "example": "Don't fight."
+    },
+    {
+      "english": "fighting",
+      "ipa": "/ˈfaɪtɪŋ/",
+      "vietnamese": "sự chiến đấu",
+      "example": "Stop the fighting."
+    },
+    {
+      "english": "figure",
+      "ipa": "/ˈfɪɡər/",
+      "vietnamese": "hình dáng, nhân vật; con số",
+      "example": "A public figure."
+    },
+    {
+      "english": "file",
+      "ipa": "/faɪl/",
+      "vietnamese": "hồ sơ, tài liệu; cái dũa",
+      "example": "Open the file."
+    },
+    {
+      "english": "fill",
+      "ipa": "/fɪl/",
+      "vietnamese": "làm đầy",
+      "example": "Fill the glass."
+    },
+    {
+      "english": "film",
+      "ipa": "/fɪlm/",
+      "vietnamese": "phim",
+      "example": "Watch a film."
+    },
+    {
+      "english": "final",
+      "ipa": "/ˈfaɪnl/",
+      "vietnamese": "cuối cùng",
+      "example": "Final exam."
+    },
+    {
+      "english": "finally",
+      "ipa": "/ˈfaɪnəli/",
+      "vietnamese": "cuối cùng",
+      "example": "Finally, we arrived."
+    },
+    {
+      "english": "finance",
+      "ipa": "/ˈfaɪnæns/",
+      "vietnamese": "tài chính",
+      "example": "Minister of Finance."
+    },
+    {
+      "english": "financial",
+      "ipa": "/faɪˈnænʃl/",
+      "vietnamese": "thuộc tài chính",
+      "example": "Financial crisis."
+    },
+    {
+      "english": "find",
+      "ipa": "/faɪnd/",
+      "vietnamese": "tìm thấy",
+      "example": "I can't find my keys."
+    },
+    {
+      "english": "fine",
+      "ipa": "/faɪn/",
+      "vietnamese": "tốt, giỏi; tiền phạt",
+      "example": "I'm fine, thanks."
+    },
+    {
+      "english": "finely",
+      "ipa": "/ˈfaɪnli/",
+      "vietnamese": "đẹp đẽ, tế nhị; nhỏ (thái nhỏ)",
+      "example": "Chop the onions finely."
+    },
+    {
+      "english": "finger",
+      "ipa": "/ˈfɪŋɡər/",
+      "vietnamese": "ngón tay",
+      "example": "He pointed his finger at me."
+    },
+    {
+      "english": "finish",
+      "ipa": "/ˈfɪnɪʃ/",
+      "vietnamese": "kết thúc",
+      "example": "Finish your work."
+    },
+    {
+      "english": "finished",
+      "ipa": "/ˈfɪnɪʃt/",
+      "vietnamese": "hoàn thành",
+      "example": "Are you finished?"
+    },
+    {
+      "english": "fire",
+      "ipa": "/ˈfaɪər/",
+      "vietnamese": "lửa; sa thải",
+      "example": "Light a fire."
+    },
+    {
+      "english": "firm",
+      "ipa": "/fɜːrm/",
+      "vietnamese": "hãng, công ty; chắc chắn",
+      "example": "A law firm."
+    },
+    {
+      "english": "firmly",
+      "ipa": "/ˈfɜːrmli/",
+      "vietnamese": "vững chắc",
+      "example": "Hold on firmly."
+    },
+    {
+      "english": "first",
+      "ipa": "/fɜːrst/",
+      "vietnamese": "đầu tiên, thứ nhất",
+      "example": "First impressions."
+    },
+    {
+      "english": "fish",
+      "ipa": "/fɪʃ/",
+      "vietnamese": "cá; câu cá",
+      "example": "I like to eat fish."
+    },
+    {
+      "english": "fishing",
+      "ipa": "/ˈfɪʃɪŋ/",
+      "vietnamese": "sự câu cá",
+      "example": "Go fishing."
+    },
+    {
+      "english": "fit",
+      "ipa": "/fɪt/",
+      "vietnamese": "vừa vặn, thích hợp; khỏe mạnh",
+      "example": "This shirt fits me well."
+    },
+    {
+      "english": "fix",
+      "ipa": "/fɪks/",
+      "vietnamese": "sửa chữa",
+      "example": "Can you fix my car?"
+    },
+    {
+      "english": "fixed",
+      "ipa": "/fɪkst/",
+      "vietnamese": "cố định",
+      "example": "Fixed price."
+    },
+    {
+      "english": "flag",
+      "ipa": "/flæɡ/",
+      "vietnamese": "cờ",
+      "example": "Raise the flag."
+    },
+    {
+      "english": "flame",
+      "ipa": "/fleɪm/",
+      "vietnamese": "ngọn lửa",
+      "example": "The candle flame."
+    },
+    {
+      "english": "flash",
+      "ipa": "/flæʃ/",
+      "vietnamese": "lóe sáng; đèn flash",
+      "example": "Camera flash."
+    },
+    {
+      "english": "flat",
+      "ipa": "/flæt/",
+      "vietnamese": "bằng phẳng; căn hộ",
+      "example": "A flat surface."
+    },
+    {
+      "english": "flavour",
+      "ipa": "/ˈfleɪvər/",
+      "vietnamese": "hương vị",
+      "example": "Strawberry flavour."
+    },
+    {
+      "english": "flesh",
+      "ipa": "/fleʃ/",
+      "vietnamese": "thịt (người, động vật)",
+      "example": "Flesh and blood."
+    },
+    {
+      "english": "flight",
+      "ipa": "/flaɪt/",
+      "vietnamese": "chuyến bay",
+      "example": "My flight was delayed."
+    },
+    {
+      "english": "float",
+      "ipa": "/fləʊt/",
+      "vietnamese": "nổi, trôi",
+      "example": "Wood floats on water."
+    },
+    {
+      "english": "flood",
+      "ipa": "/flʌd/",
+      "vietnamese": "lũ lụt",
+      "example": "The heavy rain caused a flood."
+    },
+    {
+      "english": "floor",
+      "ipa": "/flɔːr/",
+      "vietnamese": "sàn nhà, tầng",
+      "example": "Sit on the floor."
+    },
+    {
+      "english": "flour",
+      "ipa": "/ˈflaʊər/",
+      "vietnamese": "bột mì",
+      "example": "Bread is made from flour."
+    },
+    {
+      "english": "flow",
+      "ipa": "/fləʊ/",
+      "vietnamese": "chảy; dòng chảy",
+      "example": "The river flows to the sea."
+    },
+    {
+      "english": "flower",
+      "ipa": "/ˈflaʊər/",
+      "vietnamese": "bông hoa",
+      "example": "A beautiful flower."
+    },
+    {
+      "english": "flu",
+      "ipa": "/fluː/",
+      "vietnamese": "bệnh cúm",
+      "example": "Catch the flu."
+    },
+    {
+      "english": "fly",
+      "ipa": "/flaɪ/",
+      "vietnamese": "bay; con ruồi",
+      "example": "Birds can fly."
+    },
+    {
+      "english": "flying",
+      "ipa": "/ˈflaɪɪŋ/",
+      "vietnamese": "đang bay, biết bay",
+      "example": "A flying saucer."
+    },
+    {
+      "english": "focus",
+      "ipa": "/ˈfəʊkəs/",
+      "vietnamese": "tập trung; tiêu điểm",
+      "example": "Focus on your work."
+    },
+    {
+      "english": "fold",
+      "ipa": "/fəʊld/",
+      "vietnamese": "gấp",
+      "example": "Fold the paper."
+    },
+    {
+      "english": "folding",
+      "ipa": "/ˈfəʊldɪŋ/",
+      "vietnamese": "gấp lại được",
+      "example": "A folding chair."
+    },
+    {
+      "english": "follow",
+      "ipa": "/ˈfɒləʊ/",
+      "vietnamese": "theo sau, làm theo",
+      "example": "Follow me."
+    },
+    {
+      "english": "following",
+      "ipa": "/ˈfɒləʊɪŋ/",
+      "vietnamese": "tiếp theo, sau đây",
+      "example": "Read the following text."
+    },
+    {
+      "english": "food",
+      "ipa": "/fuːd/",
+      "vietnamese": "thức ăn",
+      "example": "I like Italian food."
+    },
+    {
+      "english": "foot",
+      "ipa": "/fʊt/",
+      "vietnamese": "bàn chân",
+      "example": "My foot hurts."
+    },
+    {
+      "english": "football",
+      "ipa": "/ˈfʊtbɔːl/",
+      "vietnamese": "bóng đá",
+      "example": "Play football."
+    },
+    {
+      "english": "for",
+      "ipa": "/fɔːr/",
+      "vietnamese": "cho, dành cho",
+      "example": "This gift is for you."
+    },
+    {
+      "english": "force",
+      "ipa": "/fɔːrs/",
+      "vietnamese": "lực lượng; ép buộc",
+      "example": "Use force if necessary."
+    },
+    {
+      "english": "forecast",
+      "ipa": "/ˈfɔːrkɑːst/",
+      "vietnamese": "dự báo",
+      "example": "Weather forecast."
+    },
+    {
+      "english": "foreign",
+      "ipa": "/ˈfɒrən/",
+      "vietnamese": "nước ngoài",
+      "example": "Foreign language."
+    },
+    {
+      "english": "forest",
+      "ipa": "/ˈfɒrɪst/",
+      "vietnamese": "rừng",
+      "example": "Lost in the forest."
+    },
+    {
+      "english": "forever",
+      "ipa": "/fəˈrevər/",
+      "vietnamese": "mãi mãi",
+      "example": "Love you forever."
+    },
+    {
+      "english": "forget",
+      "ipa": "/fəˈɡet/",
+      "vietnamese": "quên",
+      "example": "Don't forget to call me."
+    },
+    {
+      "english": "forgive",
+      "ipa": "/fəˈɡɪv/",
+      "vietnamese": "tha thứ",
+      "example": "Please forgive me."
+    },
+    {
+      "english": "fork",
+      "ipa": "/fɔːrk/",
+      "vietnamese": "cái nĩa",
+      "example": "Knife and fork."
+    },
+    {
+      "english": "form",
+      "ipa": "/fɔːrm/",
+      "vietnamese": "hình thức; mẫu đơn; hình thành",
+      "example": "Fill in the form."
+    },
+    {
+      "english": "formal",
+      "ipa": "/ˈfɔːrml/",
+      "vietnamese": "trang trọng, chính thức",
+      "example": "Formal dress."
+    },
+    {
+      "english": "formally",
+      "ipa": "/ˈfɔːrməli/",
+      "vietnamese": "chính thức",
+      "example": "He was formally charged."
+    },
+    {
+      "english": "former",
+      "ipa": "/ˈfɔːrmər/",
+      "vietnamese": "trước, cựu",
+      "example": "Former president."
+    },
+    {
+      "english": "formerly",
+      "ipa": "/ˈfɔːrməli/",
+      "vietnamese": "trước đây",
+      "example": "Ho Chi Minh City, formerly Saigon."
+    },
+    {
+      "english": "formula",
+      "ipa": "/ˈfɔːmjələ/",
+      "vietnamese": "công thức",
+      "example": "Math formula."
+    },
+    {
+      "english": "fortune",
+      "ipa": "/ˈfɔːrtʃuːn/",
+      "vietnamese": "vận may; gia tài",
+      "example": "Make a fortune."
+    },
+    {
+      "english": "forward",
+      "ipa": "/ˈfɔːrwəd/",
+      "vietnamese": "phía trước; chuyển tiếp",
+      "example": "Look forward."
+    },
+    {
+      "english": "found",
+      "ipa": "/faʊnd/",
+      "vietnamese": "thành lập; quá khứ của find",
+      "example": "He founded the company."
+    },
+    {
+      "english": "foundation",
+      "ipa": "/faʊnˈdeɪʃn/",
+      "vietnamese": "nền tảng, sự thành lập",
+      "example": "The foundation of the building."
+    },
+    {
+      "english": "frame",
+      "ipa": "/freɪm/",
+      "vietnamese": "khung",
+      "example": "Picture frame."
+    },
+    {
+      "english": "free",
+      "ipa": "/friː/",
+      "vietnamese": "miễn phí; tự do",
+      "example": "Are you free tonight?"
+    },
+    {
+      "english": "freedom",
+      "ipa": "/ˈfriːdəm/",
+      "vietnamese": "sự tự do",
+      "example": "Freedom of speech."
+    },
+    {
+      "english": "freely",
+      "ipa": "/ˈfriːli/",
+      "vietnamese": "tự do, thoải mái",
+      "example": "Speak freely."
+    },
+    {
+      "english": "freeze",
+      "ipa": "/friːz/",
+      "vietnamese": "đóng băng",
+      "example": "Water freezes at 0 degrees."
+    },
+    {
+      "english": "frequent",
+      "ipa": "/ˈfriːkwənt/",
+      "vietnamese": "thường xuyên",
+      "example": "A frequent visitor."
+    },
+    {
+      "english": "frequently",
+      "ipa": "/ˈfriːkwəntli/",
+      "vietnamese": "thường xuyên",
+      "example": "I travel frequently."
+    },
+    {
+      "english": "fresh",
+      "ipa": "/freʃ/",
+      "vietnamese": "tươi",
+      "example": "Fresh fruit."
+    },
+    {
+      "english": "freshly",
+      "ipa": "/ˈfreʃli/",
+      "vietnamese": "tươi mới",
+      "example": "Freshly baked bread."
+    },
+    {
+      "english": "Friday",
+      "ipa": "/ˈfraɪdeɪ/",
+      "vietnamese": "thứ Sáu",
+      "example": "See you on Friday."
+    },
+    {
+      "english": "fridge",
+      "ipa": "/frɪdʒ/",
+      "vietnamese": "tủ lạnh",
+      "example": "Put the milk in the fridge."
+    },
+    {
+      "english": "friend",
+      "ipa": "/frend/",
+      "vietnamese": "bạn bè",
+      "example": "He is my best friend."
+    },
+    {
+      "english": "friendly",
+      "ipa": "/ˈfrendli/",
+      "vietnamese": "thân thiện",
+      "example": "A friendly smile."
+    },
+    {
+      "english": "friendship",
+      "ipa": "/ˈfrendʃɪp/",
+      "vietnamese": "tình bạn",
+      "example": "True friendship."
+    },
+    {
+      "english": "frighten",
+      "ipa": "/ˈfraɪtn/",
+      "vietnamese": "làm hoảng sợ",
+      "example": "Don't frighten me."
+    },
+    {
+      "english": "frightened",
+      "ipa": "/ˈfraɪtnd/",
+      "vietnamese": "hoảng sợ",
+      "example": "I was frightened of the dark."
+    },
+    {
+      "english": "frightening",
+      "ipa": "/ˈfraɪtnɪŋ/",
+      "vietnamese": "đáng sợ",
+      "example": "A frightening experience."
+    },
+    {
+      "english": "from",
+      "ipa": "/frɒm/",
+      "vietnamese": "từ",
+      "example": "I am from Vietnam."
+    },
+    {
+      "english": "front",
+      "ipa": "/frʌnt/",
+      "vietnamese": "phía trước",
+      "example": "In front of the house."
+    },
+    {
+      "english": "frozen",
+      "ipa": "/ˈfrəʊzn/",
+      "vietnamese": "đông lạnh",
+      "example": "Frozen food."
+    },
+    {
+      "english": "fruit",
+      "ipa": "/fruːt/",
+      "vietnamese": "trái cây",
+      "example": "Eat plenty of fruit."
+    },
+    {
+      "english": "fry",
+      "ipa": "/fraɪ/",
+      "vietnamese": "chiên, rán",
+      "example": "Fry the egg."
+    },
+    {
+      "english": "fuel",
+      "ipa": "/ˈfjuːəl/",
+      "vietnamese": "nhiên liệu",
+      "example": "Save fuel."
+    },
+    {
+      "english": "full",
+      "ipa": "/fʊl/",
+      "vietnamese": "đầy",
+      "example": "I am full."
+    },
+    {
+      "english": "fully",
+      "ipa": "/ˈfʊli/",
+      "vietnamese": "hoàn toàn, đầy đủ",
+      "example": "I fully agree."
+    },
+    {
+      "english": "fun",
+      "ipa": "/fʌn/",
+      "vietnamese": "vui vẻ",
+      "example": "Have fun!"
+    },
+    {
+      "english": "function",
+      "ipa": "/ˈfʌŋkʃn/",
+      "vietnamese": "chức năng",
+      "example": "The function of the heart."
+    },
+    {
+      "english": "fund",
+      "ipa": "/fʌnd/",
+      "vietnamese": "quỹ",
+      "example": "Raise funds."
+    },
+    {
+      "english": "fundamental",
+      "ipa": "/ˌfʌndəˈmentl/",
+      "vietnamese": "cơ bản",
+      "example": "Fundamental rules."
+    },
+    {
+      "english": "funeral",
+      "ipa": "/ˈfjuːnərəl/",
+      "vietnamese": "đám tang",
+      "example": "Attend a funeral."
+    },
+    {
+      "english": "funny",
+      "ipa": "/ˈfʌni/",
+      "vietnamese": "buồn cười, khôi hài",
+      "example": "A funny story."
+    },
+    {
+      "english": "fur",
+      "ipa": "/fɜːr/",
+      "vietnamese": "lông thú",
+      "example": "Artificial fur."
+    },
+    {
+      "english": "furniture",
+      "ipa": "/ˈfɜːrnɪtʃər/",
+      "vietnamese": "đồ nội thất",
+      "example": "Wooden furniture."
+    },
+    {
+      "english": "further",
+      "ipa": "/ˈfɜːrðər/",
+      "vietnamese": "xa hơn; thêm nữa",
+      "example": "Any further questions?"
+    },
+    {
+      "english": "future",
+      "ipa": "/ˈfjuːtʃər/",
+      "vietnamese": "tương lai",
+      "example": "In the near future."
+    }
+  ]
+}
