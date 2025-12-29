@@ -1,0 +1,1799 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: C (English Vocabulary)",
+  "words": [
+    {
+      "english": "cabinet",
+      "ipa": "/ˈkæbɪnɪt/",
+      "vietnamese": "tủ có nhiều ngăn đựng đồ",
+      "example": "The files are in the filing cabinet."
+    },
+    {
+      "english": "cable",
+      "ipa": "/ˈkeɪbl/",
+      "vietnamese": "dây cáp",
+      "example": "They are laying a new underground cable."
+    },
+    {
+      "english": "cake",
+      "ipa": "/keɪk/",
+      "vietnamese": "bánh ngọt",
+      "example": "She baked a chocolate cake for his birthday."
+    },
+    {
+      "english": "calculate",
+      "ipa": "/ˈkælkjuleɪt/",
+      "vietnamese": "tính toán",
+      "example": "We need to calculate the total cost."
+    },
+    {
+      "english": "calculation",
+      "ipa": "/ˌkælkjuˈleɪʃn/",
+      "vietnamese": "sự tính toán",
+      "example": "His calculation was correct."
+    },
+    {
+      "english": "call",
+      "ipa": "/kɔːl/",
+      "vietnamese": "gọi; tiếng kêu, tiếng gọi",
+      "example": "Please call me later."
+    },
+    {
+      "english": "calm",
+      "ipa": "/kɑːm/",
+      "vietnamese": "yên lặng, làm dịu đi; sự yên lặng, sự êm ả",
+      "example": "Keep calm and carry on."
+    },
+    {
+      "english": "calmly",
+      "ipa": "/ˈkɑːmli/",
+      "vietnamese": "yên lặng, êm ả, bình tĩnh",
+      "example": "She spoke calmly to the angry customer."
+    },
+    {
+      "english": "camera",
+      "ipa": "/ˈkæmrə/",
+      "vietnamese": "máy ảnh",
+      "example": "He bought a new digital camera."
+    },
+    {
+      "english": "camp",
+      "ipa": "/kæmp/",
+      "vietnamese": "trại, chỗ cắm trại; cắm trại",
+      "example": "We pitched our camp near the river."
+    },
+    {
+      "english": "campaign",
+      "ipa": "/kæmˈpeɪn/",
+      "vietnamese": "chiến dịch, cuộc vận động",
+      "example": "The advertising campaign was successful."
+    },
+    {
+      "english": "camping",
+      "ipa": "/ˈkæmpɪŋ/",
+      "vietnamese": "sự cắm trại",
+      "example": "We go camping every summer."
+    },
+    {
+      "english": "can",
+      "ipa": "/kæn/",
+      "vietnamese": "có thể; cái hộp, bình, ca đựng",
+      "example": "I can swim very well."
+    },
+    {
+      "english": "cancel",
+      "ipa": "/ˈkænsl/",
+      "vietnamese": "hủy bỏ, xóa bỏ",
+      "example": "The flight was cancelled due to bad weather."
+    },
+    {
+      "english": "cancer",
+      "ipa": "/ˈkænsər/",
+      "vietnamese": "bệnh ung thư",
+      "example": "Smoking causes lung cancer."
+    },
+    {
+      "english": "candidate",
+      "ipa": "/ˈkændɪdət/",
+      "vietnamese": "người ứng cử, thí sinh",
+      "example": "He is a candidate for the job."
+    },
+    {
+      "english": "candy",
+      "ipa": "/ˈkændi/",
+      "vietnamese": "kẹo",
+      "example": "Children love eating candy."
+    },
+    {
+      "english": "cap",
+      "ipa": "/kæp/",
+      "vietnamese": "mũ lưỡi trai, mũ vải",
+      "example": "He was wearing a baseball cap."
+    },
+    {
+      "english": "capable",
+      "ipa": "/ˈkeɪpəbl/",
+      "vietnamese": "có tài, có năng lực; có khả năng",
+      "example": "She is capable of doing the job."
+    },
+    {
+      "english": "capacity",
+      "ipa": "/kəˈpæsəti/",
+      "vietnamese": "năng lực, sức chứa",
+      "example": "The stadium has a seating capacity of 50,000."
+    },
+    {
+      "english": "capital",
+      "ipa": "/ˈkæpɪtl/",
+      "vietnamese": "thủ đô; tiền vốn; chủ yếu",
+      "example": "Hanoi is the capital of Vietnam."
+    },
+    {
+      "english": "captain",
+      "ipa": "/ˈkæptɪn/",
+      "vietnamese": "người cầm đầu, đội trưởng, thuyền trưởng",
+      "example": "He is the captain of the football team."
+    },
+    {
+      "english": "capture",
+      "ipa": "/ˈkæptʃər/",
+      "vietnamese": "bắt giữ, bắt; sự bắt giữ",
+      "example": "The police captured the thief."
+    },
+    {
+      "english": "car",
+      "ipa": "/kɑːr/",
+      "vietnamese": "xe hơi",
+      "example": "I go to work by car."
+    },
+    {
+      "english": "card",
+      "ipa": "/kɑːrd/",
+      "vietnamese": "thẻ, thiếp",
+      "example": "Here is my business card."
+    },
+    {
+      "english": "cardboard",
+      "ipa": "/ˈkɑːrdbɔːrd/",
+      "vietnamese": "bìa cứng, các tông",
+      "example": "The box is made of cardboard."
+    },
+    {
+      "english": "care",
+      "ipa": "/keər/",
+      "vietnamese": "sự chăm sóc, chăm nom; chăm sóc",
+      "example": "Take care of yourself."
+    },
+    {
+      "english": "career",
+      "ipa": "/kəˈrɪər/",
+      "vietnamese": "nghề nghiệp, sự nghiệp",
+      "example": "He wants to pursue a career in medicine."
+    },
+    {
+      "english": "careful",
+      "ipa": "/ˈkeəfl/",
+      "vietnamese": "cẩn thận, cẩn trọng",
+      "example": "Be careful with that glass."
+    },
+    {
+      "english": "carefully",
+      "ipa": "/ˈkeəfəli/",
+      "vietnamese": "cẩn thận, chu đáo",
+      "example": "Drive carefully."
+    },
+    {
+      "english": "careless",
+      "ipa": "/ˈkeələs/",
+      "vietnamese": "sơ suất, cẩu thả",
+      "example": "It was careless of you to leave the door unlocked."
+    },
+    {
+      "english": "carelessly",
+      "ipa": "/ˈkeələsli/",
+      "vietnamese": "cẩu thả, bất cần",
+      "example": "He tossed the paper carelessly into the bin."
+    },
+    {
+      "english": "carpet",
+      "ipa": "/ˈkɑːrpɪt/",
+      "vietnamese": "tấm thảm",
+      "example": "We bought a new carpet for the living room."
+    },
+    {
+      "english": "carrot",
+      "ipa": "/ˈkærət/",
+      "vietnamese": "củ cà rốt",
+      "example": "Rabbits like to eat carrots."
+    },
+    {
+      "english": "carry",
+      "ipa": "/ˈkæri/",
+      "vietnamese": "mang, vác, khuân chở",
+      "example": "Can you help me carry this box?"
+    },
+    {
+      "english": "case",
+      "ipa": "/keɪs/",
+      "vietnamese": "vỏ, ngăn, túi; trường hợp, hoàn cảnh",
+      "example": "In case of fire, break the glass."
+    },
+    {
+      "english": "cash",
+      "ipa": "/kæʃ/",
+      "vietnamese": "tiền, tiền mặt",
+      "example": "I don't have enough cash."
+    },
+    {
+      "english": "cast",
+      "ipa": "/kɑːst/",
+      "vietnamese": "quăng, ném; sự quăng, sự ném",
+      "example": "The fisherman cast his net into the water."
+    },
+    {
+      "english": "castle",
+      "ipa": "/ˈkɑːsl/",
+      "vietnamese": "thành trì, lâu đài",
+      "example": "We visited an old castle in Scotland."
+    },
+    {
+      "english": "cat",
+      "ipa": "/kæt/",
+      "vietnamese": "con mèo",
+      "example": "The cat is sleeping on the sofa."
+    },
+    {
+      "english": "catch",
+      "ipa": "/kætʃ/",
+      "vietnamese": "bắt lấy, nắm lấy, tóm lấy",
+      "example": "Try to catch the ball."
+    },
+    {
+      "english": "category",
+      "ipa": "/ˈkætəɡəri/",
+      "vietnamese": "hạng, loại; phạm trù",
+      "example": "This book belongs to the fiction category."
+    },
+    {
+      "english": "cause",
+      "ipa": "/kɔːz/",
+      "vietnamese": "nguyên nhân; gây ra",
+      "example": "What was the cause of the accident?"
+    },
+    {
+      "english": "cease",
+      "ipa": "/siːs/",
+      "vietnamese": "dừng, ngưng, ngớt",
+      "example": "The rain has ceased."
+    },
+    {
+      "english": "ceiling",
+      "ipa": "/ˈsiːlɪŋ/",
+      "vietnamese": "trần nhà",
+      "example": "There is a fan on the ceiling."
+    },
+    {
+      "english": "celebrate",
+      "ipa": "/ˈselɪbreɪt/",
+      "vietnamese": "kỷ niệm, làm lễ kỷ niệm",
+      "example": "We celebrated her birthday with a party."
+    },
+    {
+      "english": "celebration",
+      "ipa": "/ˌselɪˈbreɪʃn/",
+      "vietnamese": "sự kỷ niệm, lễ kỷ niệm",
+      "example": "The celebration lasted all night."
+    },
+    {
+      "english": "cell",
+      "ipa": "/sel/",
+      "vietnamese": "ô, ngăn; tế bào",
+      "example": "The prisoner was locked in a cell."
+    },
+    {
+      "english": "cent",
+      "ipa": "/sent/",
+      "vietnamese": "đồng xu",
+      "example": "It costs 50 cents."
+    },
+    {
+      "english": "centre",
+      "ipa": "/ˈsentər/",
+      "vietnamese": "điểm giữa, trung tâm",
+      "example": "The hotel is in the city centre."
+    },
+    {
+      "english": "century",
+      "ipa": "/ˈsentʃəri/",
+      "vietnamese": "thế kỷ",
+      "example": "We live in the 21st century."
+    },
+    {
+      "english": "ceremony",
+      "ipa": "/ˈserəməni/",
+      "vietnamese": "nghi thức, nghi lễ",
+      "example": "The wedding ceremony was beautiful."
+    },
+    {
+      "english": "certain",
+      "ipa": "/ˈsɜːrtn/",
+      "vietnamese": "chắc chắn",
+      "example": "I am certain that he will come."
+    },
+    {
+      "english": "certainly",
+      "ipa": "/ˈsɜːrtnli/",
+      "vietnamese": "chắc chắn, nhất định",
+      "example": "I will certainly help you."
+    },
+    {
+      "english": "certificate",
+      "ipa": "/səˈtɪfɪkət/",
+      "vietnamese": "giấy chứng nhận, bằng",
+      "example": "She received a certificate of achievement."
+    },
+    {
+      "english": "chain",
+      "ipa": "/tʃeɪn/",
+      "vietnamese": "dây, xích; chuỗi",
+      "example": "He wore a gold chain around his neck."
+    },
+    {
+      "english": "chair",
+      "ipa": "/tʃeər/",
+      "vietnamese": "ghế",
+      "example": "Please sit on this chair."
+    },
+    {
+      "english": "chairman",
+      "ipa": "/ˈtʃeəmən/",
+      "vietnamese": "chủ tịch, chủ tọa",
+      "example": "The chairman opened the meeting."
+    },
+    {
+      "english": "challenge",
+      "ipa": "/ˈtʃælɪndʒ/",
+      "vietnamese": "sự thử thách, thách thức",
+      "example": "This job is a big challenge for me."
+    },
+    {
+      "english": "chamber",
+      "ipa": "/ˈtʃeɪmbər/",
+      "vietnamese": "buồng, phòng",
+      "example": "Harry Potter and the Chamber of Secrets."
+    },
+    {
+      "english": "chance",
+      "ipa": "/tʃɑːns/",
+      "vietnamese": "cơ hội; sự may rủi",
+      "example": "Give me a chance to explain."
+    },
+    {
+      "english": "change",
+      "ipa": "/tʃeɪndʒ/",
+      "vietnamese": "thay đổi; sự thay đổi",
+      "example": "You need to change your clothes."
+    },
+    {
+      "english": "channel",
+      "ipa": "/ˈtʃænl/",
+      "vietnamese": "kênh (TV, radio)",
+      "example": "Change the channel, please."
+    },
+    {
+      "english": "chapter",
+      "ipa": "/ˈtʃæptər/",
+      "vietnamese": "chương (sách)",
+      "example": "Read chapter one for homework."
+    },
+    {
+      "english": "character",
+      "ipa": "/ˈkærəktər/",
+      "vietnamese": "tính cách; nhân vật",
+      "example": "She is a strong character in the movie."
+    },
+    {
+      "english": "characteristic",
+      "ipa": "/ˌkærəktəˈrɪstɪk/",
+      "vietnamese": "đặc trưng, đặc điểm",
+      "example": "Honesty is his main characteristic."
+    },
+    {
+      "english": "charge",
+      "ipa": "/tʃɑːrdʒ/",
+      "vietnamese": "nhiệm vụ; tính giá; sạc (pin)",
+      "example": "Who is in charge here?"
+    },
+    {
+      "english": "charity",
+      "ipa": "/ˈtʃærəti/",
+      "vietnamese": "từ thiện",
+      "example": "They raised money for charity."
+    },
+    {
+      "english": "chart",
+      "ipa": "/tʃɑːrt/",
+      "vietnamese": "đồ thị, biểu đồ",
+      "example": "Look at the sales chart."
+    },
+    {
+      "english": "chase",
+      "ipa": "/tʃeɪs/",
+      "vietnamese": "săn bắt, đuổi theo",
+      "example": "The dog chased the cat."
+    },
+    {
+      "english": "chat",
+      "ipa": "/tʃæt/",
+      "vietnamese": "tán gẫu, nói chuyện",
+      "example": "We had a nice chat."
+    },
+    {
+      "english": "cheap",
+      "ipa": "/tʃiːp/",
+      "vietnamese": "rẻ",
+      "example": "Food is cheap in this market."
+    },
+    {
+      "english": "cheat",
+      "ipa": "/tʃiːt/",
+      "vietnamese": "lừa đảo, gian lận",
+      "example": "Do not cheat in the exam."
+    },
+    {
+      "english": "check",
+      "ipa": "/tʃek/",
+      "vietnamese": "kiểm tra",
+      "example": "Please check your answers."
+    },
+    {
+      "english": "cheek",
+      "ipa": "/tʃiːk/",
+      "vietnamese": "má",
+      "example": "She kissed him on the cheek."
+    },
+    {
+      "english": "cheerful",
+      "ipa": "/ˈtʃɪəfl/",
+      "vietnamese": "vui mừng, phấn khởi",
+      "example": "He is always cheerful."
+    },
+    {
+      "english": "cheese",
+      "ipa": "/tʃiːz/",
+      "vietnamese": "pho mát",
+      "example": "I like cheese on my pizza."
+    },
+    {
+      "english": "chemical",
+      "ipa": "/ˈkemɪkl/",
+      "vietnamese": "thuộc hóa học; chất hóa học",
+      "example": "Chemical reactions can be dangerous."
+    },
+    {
+      "english": "chemist",
+      "ipa": "/ˈkemɪst/",
+      "vietnamese": "nhà hóa học; dược sĩ",
+      "example": "Go to the chemist's to buy medicine."
+    },
+    {
+      "english": "chemistry",
+      "ipa": "/ˈkemɪstri/",
+      "vietnamese": "hóa học",
+      "example": "Chemistry is my favorite subject."
+    },
+    {
+      "english": "cheque",
+      "ipa": "/tʃek/",
+      "vietnamese": "séc (ngân hàng)",
+      "example": "He paid by cheque."
+    },
+    {
+      "english": "chest",
+      "ipa": "/tʃest/",
+      "vietnamese": "ngực; rương, hòm",
+      "example": "He has a pain in his chest."
+    },
+    {
+      "english": "chew",
+      "ipa": "/tʃuː/",
+      "vietnamese": "nhai",
+      "example": "Chew your food well."
+    },
+    {
+      "english": "chicken",
+      "ipa": "/ˈtʃɪkɪn/",
+      "vietnamese": "con gà, thịt gà",
+      "example": "We are having chicken for dinner."
+    },
+    {
+      "english": "chief",
+      "ipa": "/tʃiːf/",
+      "vietnamese": "trọng yếu, chính; thủ lĩnh",
+      "example": "The chief reason is money."
+    },
+    {
+      "english": "child",
+      "ipa": "/tʃaɪld/",
+      "vietnamese": "đứa bé, đứa trẻ",
+      "example": "She is an only child."
+    },
+    {
+      "english": "chin",
+      "ipa": "/tʃɪn/",
+      "vietnamese": "cằm",
+      "example": "Keep your chin up."
+    },
+    {
+      "english": "chip",
+      "ipa": "/tʃɪp/",
+      "vietnamese": "mảnh vỡ; khoai tây chiên",
+      "example": "Fish and chips."
+    },
+    {
+      "english": "chocolate",
+      "ipa": "/ˈtʃɒklət/",
+      "vietnamese": "sô cô la",
+      "example": "I love dark chocolate."
+    },
+    {
+      "english": "choice",
+      "ipa": "/tʃɔɪs/",
+      "vietnamese": "sự lựa chọn",
+      "example": "It's your choice."
+    },
+    {
+      "english": "choose",
+      "ipa": "/tʃuːz/",
+      "vietnamese": "chọn, lựa chọn",
+      "example": "Choose the correct answer."
+    },
+    {
+      "english": "chop",
+      "ipa": "/tʃɒp/",
+      "vietnamese": "chặt, đốn, chẻ",
+      "example": "Chop the onions finely."
+    },
+    {
+      "english": "church",
+      "ipa": "/tʃɜːrtʃ/",
+      "vietnamese": "nhà thờ",
+      "example": "They go to church on Sundays."
+    },
+    {
+      "english": "cigarette",
+      "ipa": "/ˌsɪɡəˈret/",
+      "vietnamese": "điếu thuốc lá",
+      "example": "He lit a cigarette."
+    },
+    {
+      "english": "cinema",
+      "ipa": "/ˈsɪnəmə/",
+      "vietnamese": "rạp chiếu phim",
+      "example": "Let's go to the cinema."
+    },
+    {
+      "english": "circle",
+      "ipa": "/ˈsɜːrkl/",
+      "vietnamese": "hình tròn, đường tròn",
+      "example": "Draw a circle."
+    },
+    {
+      "english": "circumstance",
+      "ipa": "/ˈsɜːrkəmstæns/",
+      "vietnamese": "hoàn cảnh, tình huống",
+      "example": "In normal circumstances, I would agree."
+    },
+    {
+      "english": "citizen",
+      "ipa": "/ˈsɪtɪzn/",
+      "vietnamese": "công dân",
+      "example": "He is a US citizen."
+    },
+    {
+      "english": "city",
+      "ipa": "/ˈsɪti/",
+      "vietnamese": "thành phố",
+      "example": "New York is a big city."
+    },
+    {
+      "english": "civil",
+      "ipa": "/ˈsɪvl/",
+      "vietnamese": "(thuộc) công dân; dân sự",
+      "example": "Civil rights."
+    },
+    {
+      "english": "claim",
+      "ipa": "/kleɪm/",
+      "vietnamese": "đòi hỏi, yêu sách; tuyên bố",
+      "example": "He claims to be innocent."
+    },
+    {
+      "english": "clap",
+      "ipa": "/klæp/",
+      "vietnamese": "vỗ tay",
+      "example": "The audience clapped loudly."
+    },
+    {
+      "english": "class",
+      "ipa": "/klɑːs/",
+      "vietnamese": "lớp học; tầng lớp",
+      "example": "I have a math class now."
+    },
+    {
+      "english": "classic",
+      "ipa": "/ˈklæsɪk/",
+      "vietnamese": "cổ điển, kinh điển",
+      "example": "This is a classic novel."
+    },
+    {
+      "english": "classroom",
+      "ipa": "/ˈklɑːsruːm/",
+      "vietnamese": "phòng học",
+      "example": "The students are in the classroom."
+    },
+    {
+      "english": "clean",
+      "ipa": "/kliːn/",
+      "vietnamese": "sạch sẽ; lau chùi",
+      "example": "Keep your room clean."
+    },
+    {
+      "english": "clear",
+      "ipa": "/klɪər/",
+      "vietnamese": "rõ ràng, sáng sủa",
+      "example": "The water is clear."
+    },
+    {
+      "english": "clearly",
+      "ipa": "/ˈklɪəli/",
+      "vietnamese": "rõ ràng",
+      "example": "Speak clearly, please."
+    },
+    {
+      "english": "clerk",
+      "ipa": "/klɑːrk/",
+      "vietnamese": "thư ký",
+      "example": "The bank clerk helped me."
+    },
+    {
+      "english": "clever",
+      "ipa": "/ˈklevər/",
+      "vietnamese": "thông minh, khéo léo",
+      "example": "She is a clever student."
+    },
+    {
+      "english": "click",
+      "ipa": "/klɪk/",
+      "vietnamese": "nhấp chuột; tiếng lách cách",
+      "example": "Click the button to continue."
+    },
+    {
+      "english": "client",
+      "ipa": "/ˈklaɪənt/",
+      "vietnamese": "khách hàng",
+      "example": "He is meeting a client."
+    },
+    {
+      "english": "climate",
+      "ipa": "/ˈklaɪmət/",
+      "vietnamese": "khí hậu",
+      "example": "The climate here is tropical."
+    },
+    {
+      "english": "climb",
+      "ipa": "/klaɪm/",
+      "vietnamese": "leo, trèo",
+      "example": "Monkeys can climb trees."
+    },
+    {
+      "english": "clock",
+      "ipa": "/klɒk/",
+      "vietnamese": "đồng hồ treo tường",
+      "example": "Look at the clock."
+    },
+    {
+      "english": "close",
+      "ipa": "/kləʊz/",
+      "vietnamese": "đóng; gần",
+      "example": "Close the door, please."
+    },
+    {
+      "english": "closed",
+      "ipa": "/kləʊzd/",
+      "vietnamese": "đã đóng, khép kín",
+      "example": "The shop is closed."
+    },
+    {
+      "english": "closet",
+      "ipa": "/ˈklɒzɪt/",
+      "vietnamese": "tủ quần áo, phòng để đồ",
+      "example": "Hang your coat in the closet."
+    },
+    {
+      "english": "cloth",
+      "ipa": "/klɒθ/",
+      "vietnamese": "vải",
+      "example": "Wipe the table with a cloth."
+    },
+    {
+      "english": "clothes",
+      "ipa": "/kləʊðz/",
+      "vietnamese": "quần áo",
+      "example": "She bought some new clothes."
+    },
+    {
+      "english": "clothing",
+      "ipa": "/ˈkləʊðɪŋ/",
+      "vietnamese": "y phục, quần áo",
+      "example": "Protective clothing."
+    },
+    {
+      "english": "cloud",
+      "ipa": "/klaʊd/",
+      "vietnamese": "mây",
+      "example": "There isn't a cloud in the sky."
+    },
+    {
+      "english": "club",
+      "ipa": "/klʌb/",
+      "vietnamese": "câu lạc bộ",
+      "example": "He joined a football club."
+    },
+    {
+      "english": "coach",
+      "ipa": "/kəʊtʃ/",
+      "vietnamese": "huấn luyện viên; xe khách",
+      "example": "The football coach is very strict."
+    },
+    {
+      "english": "coal",
+      "ipa": "/kəʊl/",
+      "vietnamese": "than đá",
+      "example": "They use coal for heating."
+    },
+    {
+      "english": "coast",
+      "ipa": "/kəʊst/",
+      "vietnamese": "bờ biển",
+      "example": "We live on the coast."
+    },
+    {
+      "english": "coat",
+      "ipa": "/kəʊt/",
+      "vietnamese": "áo choàng, áo khoác",
+      "example": "Put on your coat, it's cold."
+    },
+    {
+      "english": "code",
+      "ipa": "/kəʊd/",
+      "vietnamese": "mã, mật mã",
+      "example": "Enter the access code."
+    },
+    {
+      "english": "coffee",
+      "ipa": "/ˈkɒfi/",
+      "vietnamese": "cà phê",
+      "example": "A cup of coffee."
+    },
+    {
+      "english": "coin",
+      "ipa": "/kɔɪn/",
+      "vietnamese": "tiền xu",
+      "example": "He flipped a coin."
+    },
+    {
+      "english": "cold",
+      "ipa": "/kəʊld/",
+      "vietnamese": "lạnh; cảm lạnh",
+      "example": "It is cold today."
+    },
+    {
+      "english": "collapse",
+      "ipa": "/kəˈlæps/",
+      "vietnamese": "sụp đổ",
+      "example": "The building collapsed."
+    },
+    {
+      "english": "colleague",
+      "ipa": "/ˈkɒliːɡ/",
+      "vietnamese": "đồng nghiệp",
+      "example": "She is my colleague."
+    },
+    {
+      "english": "collect",
+      "ipa": "/kəˈlekt/",
+      "vietnamese": "sưu tầm, thu thập",
+      "example": "He collects stamps."
+    },
+    {
+      "english": "collection",
+      "ipa": "/kəˈlekʃn/",
+      "vietnamese": "bộ sưu tập",
+      "example": "A collection of rare books."
+    },
+    {
+      "english": "college",
+      "ipa": "/ˈkɒlɪdʒ/",
+      "vietnamese": "trường cao đẳng, đại học",
+      "example": "He goes to college."
+    },
+    {
+      "english": "colour",
+      "ipa": "/ˈkʌlər/",
+      "vietnamese": "màu sắc",
+      "example": "What is your favorite colour?"
+    },
+    {
+      "english": "column",
+      "ipa": "/ˈkɒləm/",
+      "vietnamese": "cột",
+      "example": "Read the first column."
+    },
+    {
+      "english": "combination",
+      "ipa": "/ˌkɒmbɪˈneɪʃn/",
+      "vietnamese": "sự kết hợp",
+      "example": "A combination of colors."
+    },
+    {
+      "english": "combine",
+      "ipa": "/kəmˈbaɪn/",
+      "vietnamese": "kết hợp",
+      "example": "Combine the ingredients."
+    },
+    {
+      "english": "come",
+      "ipa": "/kʌm/",
+      "vietnamese": "đến",
+      "example": "Come here."
+    },
+    {
+      "english": "comedy",
+      "ipa": "/ˈkɒmədi/",
+      "vietnamese": "hài kịch",
+      "example": "We watched a romantic comedy."
+    },
+    {
+      "english": "comfort",
+      "ipa": "/ˈkʌmfərt/",
+      "vietnamese": "sự an ủi, sự thoải mái",
+      "example": "She needs comfort."
+    },
+    {
+      "english": "comfortable",
+      "ipa": "/ˈkʌmfətəbl/",
+      "vietnamese": "thoải mái",
+      "example": "This chair is very comfortable."
+    },
+    {
+      "english": "command",
+      "ipa": "/kəˈmɑːnd/",
+      "vietnamese": "ra lệnh, chỉ huy",
+      "example": "He commanded his men to attack."
+    },
+    {
+      "english": "comment",
+      "ipa": "/ˈkɒment/",
+      "vietnamese": "bình luận",
+      "example": "Leave a comment below."
+    },
+    {
+      "english": "commercial",
+      "ipa": "/kəˈmɜːrʃl/",
+      "vietnamese": "thương mại; quảng cáo",
+      "example": "A TV commercial."
+    },
+    {
+      "english": "commission",
+      "ipa": "/kəˈmɪʃn/",
+      "vietnamese": "ủy ban; tiền hoa hồng",
+      "example": "The commission is investigating."
+    },
+    {
+      "english": "commit",
+      "ipa": "/kəˈmɪt/",
+      "vietnamese": "cam kết; phạm (tội)",
+      "example": "He committed a crime."
+    },
+    {
+      "english": "commitment",
+      "ipa": "/kəˈmɪtmənt/",
+      "vietnamese": "sự cam kết, tận tụy",
+      "example": "Her commitment to the job."
+    },
+    {
+      "english": "committee",
+      "ipa": "/kəˈmɪti/",
+      "vietnamese": "ủy ban",
+      "example": "The committee meets every week."
+    },
+    {
+      "english": "common",
+      "ipa": "/ˈkɒmən/",
+      "vietnamese": "phổ biến, chung",
+      "example": "It is a common mistake."
+    },
+    {
+      "english": "communicate",
+      "ipa": "/kəˈmjuːnɪkeɪt/",
+      "vietnamese": "giao tiếp, liên lạc",
+      "example": "We communicate by email."
+    },
+    {
+      "english": "communication",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+      "vietnamese": "sự giao tiếp",
+      "example": "Communication skills."
+    },
+    {
+      "english": "community",
+      "ipa": "/kəˈmjuːnəti/",
+      "vietnamese": "cộng đồng",
+      "example": "The local community."
+    },
+    {
+      "english": "company",
+      "ipa": "/ˈkʌmpəni/",
+      "vietnamese": "công ty; sự bầu bạn",
+      "example": "He works for a big company."
+    },
+    {
+      "english": "compare",
+      "ipa": "/kəmˈpeər/",
+      "vietnamese": "so sánh",
+      "example": "Compare this with that."
+    },
+    {
+      "english": "comparison",
+      "ipa": "/kəmˈpærɪsn/",
+      "vietnamese": "sự so sánh",
+      "example": "In comparison with..."
+    },
+    {
+      "english": "compete",
+      "ipa": "/kəmˈpiːt/",
+      "vietnamese": "cạnh tranh, thi đấu",
+      "example": "Athletes compete for medals."
+    },
+    {
+      "english": "competition",
+      "ipa": "/ˌkɒmpəˈtɪʃn/",
+      "vietnamese": "cuộc thi, sự cạnh tranh",
+      "example": "A swimming competition."
+    },
+    {
+      "english": "complain",
+      "ipa": "/kəmˈpleɪn/",
+      "vietnamese": "phàn nàn",
+      "example": "They complained about the noise."
+    },
+    {
+      "english": "complaint",
+      "ipa": "/kəmˈpleɪnt/",
+      "vietnamese": "lời phàn nàn",
+      "example": "I have a complaint."
+    },
+    {
+      "english": "complete",
+      "ipa": "/kəmˈpliːt/",
+      "vietnamese": "hoàn thành; đầy đủ",
+      "example": "Complete the sentence."
+    },
+    {
+      "english": "completely",
+      "ipa": "/kəmˈpliːtli/",
+      "vietnamese": "hoàn toàn",
+      "example": "I completely forgot."
+    },
+    {
+      "english": "complex",
+      "ipa": "/ˈkɒmpleks/",
+      "vietnamese": "phức tạp",
+      "example": "A complex problem."
+    },
+    {
+      "english": "computer",
+      "ipa": "/kəmˈpjuːtər/",
+      "vietnamese": "máy tính",
+      "example": "I use a computer for work."
+    },
+    {
+      "english": "concentrate",
+      "ipa": "/ˈkɒnsntreɪt/",
+      "vietnamese": "tập trung",
+      "example": "I can't concentrate on my work."
+    },
+    {
+      "english": "concentration",
+      "ipa": "/ˌkɒnsnˈtreɪʃn/",
+      "vietnamese": "sự tập trung",
+      "example": "It requires concentration."
+    },
+    {
+      "english": "concept",
+      "ipa": "/ˈkɒnsept/",
+      "vietnamese": "khái niệm",
+      "example": "The concept of freedom."
+    },
+    {
+      "english": "concern",
+      "ipa": "/kənˈsɜːrn/",
+      "vietnamese": "mối quan tâm, lo lắng; liên quan",
+      "example": "This concerns you."
+    },
+    {
+      "english": "concerned",
+      "ipa": "/kənˈsɜːrnd/",
+      "vietnamese": "lo lắng; có liên quan",
+      "example": "I am concerned about his health."
+    },
+    {
+      "english": "concert",
+      "ipa": "/ˈkɒnsət/",
+      "vietnamese": "buổi hòa nhạc",
+      "example": "We went to a rock concert."
+    },
+    {
+      "english": "conclude",
+      "ipa": "/kənˈkluːd/",
+      "vietnamese": "kết luận",
+      "example": "To conclude, I would like to say..."
+    },
+    {
+      "english": "conclusion",
+      "ipa": "/kənˈkluːʒn/",
+      "vietnamese": "phần kết luận",
+      "example": "In conclusion..."
+    },
+    {
+      "english": "concrete",
+      "ipa": "/ˈkɒŋkriːt/",
+      "vietnamese": "bê tông; cụ thể",
+      "example": "A concrete wall."
+    },
+    {
+      "english": "condition",
+      "ipa": "/kənˈdɪʃn/",
+      "vietnamese": "điều kiện; tình trạng",
+      "example": "In good condition."
+    },
+    {
+      "english": "conduct",
+      "ipa": "/kənˈdʌkt/",
+      "vietnamese": "tiến hành; cư xử",
+      "example": "Conduct an experiment."
+    },
+    {
+      "english": "conference",
+      "ipa": "/ˈkɒnfərəns/",
+      "vietnamese": "hội nghị",
+      "example": "A press conference."
+    },
+    {
+      "english": "confidence",
+      "ipa": "/ˈkɒnfɪdəns/",
+      "vietnamese": "sự tự tin",
+      "example": "He lacks confidence."
+    },
+    {
+      "english": "confident",
+      "ipa": "/ˈkɒnfɪdənt/",
+      "vietnamese": "tự tin",
+      "example": "Be confident in yourself."
+    },
+    {
+      "english": "confine",
+      "ipa": "/kənˈfaɪn/",
+      "vietnamese": "hạn chế, giam giữ",
+      "example": "Confine your answer to 100 words."
+    },
+    {
+      "english": "confirm",
+      "ipa": "/kənˈfɜːrm/",
+      "vietnamese": "xác nhận",
+      "example": "Please confirm your reservation."
+    },
+    {
+      "english": "conflict",
+      "ipa": "/ˈkɒnflɪkt/",
+      "vietnamese": "xung đột",
+      "example": "A conflict of interest."
+    },
+    {
+      "english": "confront",
+      "ipa": "/kənˈfrʌnt/",
+      "vietnamese": "đương đầu, đối mặt",
+      "example": "He confronted his enemy."
+    },
+    {
+      "english": "confuse",
+      "ipa": "/kənˈfjuːz/",
+      "vietnamese": "làm bối rối, nhầm lẫn",
+      "example": "Don't confuse me."
+    },
+    {
+      "english": "confused",
+      "ipa": "/kənˈfjuːzd/",
+      "vietnamese": "bối rối",
+      "example": "I am totally confused."
+    },
+    {
+      "english": "confusing",
+      "ipa": "/kənˈfjuːzɪŋ/",
+      "vietnamese": "gây bối rối, khó hiểu",
+      "example": "The instructions are confusing."
+    },
+    {
+      "english": "confusion",
+      "ipa": "/kənˈfjuːʒn/",
+      "vietnamese": "sự lộn xộn, hỗn loạn",
+      "example": "There was a lot of confusion."
+    },
+    {
+      "english": "congratulations",
+      "ipa": "/kənˌɡrætʃuˈleɪʃnz/",
+      "vietnamese": "chúc mừng",
+      "example": "Congratulations on your success!"
+    },
+    {
+      "english": "congress",
+      "ipa": "/ˈkɒŋɡres/",
+      "vietnamese": "đại hội, quốc hội",
+      "example": "A member of Congress."
+    },
+    {
+      "english": "connect",
+      "ipa": "/kəˈnekt/",
+      "vietnamese": "kết nối",
+      "example": "Connect the printer to the computer."
+    },
+    {
+      "english": "connection",
+      "ipa": "/kəˈnekʃn/",
+      "vietnamese": "sự kết nối, mối quan hệ",
+      "example": "Internet connection."
+    },
+    {
+      "english": "conscious",
+      "ipa": "/ˈkɒnʃəs/",
+      "vietnamese": "tỉnh táo, có ý thức",
+      "example": "She became conscious after the accident."
+    },
+    {
+      "english": "consequence",
+      "ipa": "/ˈkɒnsɪkwəns/",
+      "vietnamese": "hậu quả",
+      "example": "Face the consequences."
+    },
+    {
+      "english": "conservative",
+      "ipa": "/kənˈsɜːrvətɪv/",
+      "vietnamese": "bảo thủ",
+      "example": "He has conservative views."
+    },
+    {
+      "english": "consider",
+      "ipa": "/kənˈsɪdər/",
+      "vietnamese": "cân nhắc, xem xét",
+      "example": "Please consider my request."
+    },
+    {
+      "english": "considerable",
+      "ipa": "/kənˈsɪdərəbl/",
+      "vietnamese": "đáng kể, lớn lao",
+      "example": "A considerable amount of money."
+    },
+    {
+      "english": "considerably",
+      "ipa": "/kənˈsɪdərəbli/",
+      "vietnamese": "đáng kể",
+      "example": "Prices have risen considerably."
+    },
+    {
+      "english": "consideration",
+      "ipa": "/kənˌsɪdəˈreɪʃn/",
+      "vietnamese": "sự cân nhắc",
+      "example": "Take into consideration."
+    },
+    {
+      "english": "consist of",
+      "ipa": "/kənˈsɪst/",
+      "vietnamese": "bao gồm",
+      "example": "The team consists of five members."
+    },
+    {
+      "english": "constant",
+      "ipa": "/ˈkɒnstənt/",
+      "vietnamese": "liên tục, không đổi",
+      "example": "Constant rain."
+    },
+    {
+      "english": "constantly",
+      "ipa": "/ˈkɒnstəntli/",
+      "vietnamese": "liên tục",
+      "example": "He talks constantly."
+    },
+    {
+      "english": "construct",
+      "ipa": "/kənˈstrʌkt/",
+      "vietnamese": "xây dựng",
+      "example": "Construct a building."
+    },
+    {
+      "english": "construction",
+      "ipa": "/kənˈstrʌkʃn/",
+      "vietnamese": "công trình xây dựng",
+      "example": "Under construction."
+    },
+    {
+      "english": "consult",
+      "ipa": "/kənˈsʌlt/",
+      "vietnamese": "tham khảo ý kiến",
+      "example": "Consult a doctor."
+    },
+    {
+      "english": "consumer",
+      "ipa": "/kənˈsjuːmər/",
+      "vietnamese": "người tiêu dùng",
+      "example": "Consumer rights."
+    },
+    {
+      "english": "contact",
+      "ipa": "/ˈkɒntækt/",
+      "vietnamese": "liên lạc, tiếp xúc",
+      "example": "Keep in contact."
+    },
+    {
+      "english": "contain",
+      "ipa": "/kənˈteɪn/",
+      "vietnamese": "chứa đựng",
+      "example": "This box contains books."
+    },
+    {
+      "english": "container",
+      "ipa": "/kənˈteɪnər/",
+      "vietnamese": "công-te-nơ; vật chứa",
+      "example": "A plastic container."
+    },
+    {
+      "english": "contemporary",
+      "ipa": "/kənˈtempərəri/",
+      "vietnamese": "đương đại",
+      "example": "Contemporary art."
+    },
+    {
+      "english": "content",
+      "ipa": "/ˈkɒntent/",
+      "vietnamese": "nội dung; hài lòng",
+      "example": "Table of contents."
+    },
+    {
+      "english": "contest",
+      "ipa": "/ˈkɒntest/",
+      "vietnamese": "cuộc thi",
+      "example": "Beauty contest."
+    },
+    {
+      "english": "context",
+      "ipa": "/ˈkɒntekst/",
+      "vietnamese": "ngữ cảnh",
+      "example": "Guess the meaning from context."
+    },
+    {
+      "english": "continent",
+      "ipa": "/ˈkɒntɪnənt/",
+      "vietnamese": "lục địa",
+      "example": "Asia is the largest continent."
+    },
+    {
+      "english": "continue",
+      "ipa": "/kənˈtɪnjuː/",
+      "vietnamese": "tiếp tục",
+      "example": "Please continue reading."
+    },
+    {
+      "english": "continuous",
+      "ipa": "/kənˈtɪnjuəs/",
+      "vietnamese": "liên tục",
+      "example": "Continuous improvement."
+    },
+    {
+      "english": "contract",
+      "ipa": "/ˈkɒntrækt/",
+      "vietnamese": "hợp đồng",
+      "example": "Sign a contract."
+    },
+    {
+      "english": "contrast",
+      "ipa": "/ˈkɒntrɑːst/",
+      "vietnamese": "tương phản",
+      "example": "In contrast to..."
+    },
+    {
+      "english": "contribute",
+      "ipa": "/kənˈtrɪbjuːt/",
+      "vietnamese": "đóng góp",
+      "example": "Contribute money to charity."
+    },
+    {
+      "english": "contribution",
+      "ipa": "/ˌkɒntrɪˈbjuːʃn/",
+      "vietnamese": "sự đóng góp",
+      "example": "Make a contribution."
+    },
+    {
+      "english": "control",
+      "ipa": "/kənˈtrəʊl/",
+      "vietnamese": "điều khiển, kiểm soát",
+      "example": "Take control of the situation."
+    },
+    {
+      "english": "convenient",
+      "ipa": "/kənˈviːniənt/",
+      "vietnamese": "tiện lợi",
+      "example": "It is convenient for me."
+    },
+    {
+      "english": "convention",
+      "ipa": "/kənˈvenʃn/",
+      "vietnamese": "hội nghị; quy ước",
+      "example": "Geneva Convention."
+    },
+    {
+      "english": "conventional",
+      "ipa": "/kənˈvenʃənl/",
+      "vietnamese": "thông thường, theo quy ước",
+      "example": "Conventional medicine."
+    },
+    {
+      "english": "conversation",
+      "ipa": "/ˌkɒnvəˈseɪʃn/",
+      "vietnamese": "cuộc trò chuyện",
+      "example": "Have a conversation."
+    },
+    {
+      "english": "convert",
+      "ipa": "/kənˈvɜːrt/",
+      "vietnamese": "chuyển đổi",
+      "example": "Convert dollars to euros."
+    },
+    {
+      "english": "convince",
+      "ipa": "/kənˈvɪns/",
+      "vietnamese": "thuyết phục",
+      "example": "I am convinced that..."
+    },
+    {
+      "english": "cook",
+      "ipa": "/kʊk/",
+      "vietnamese": "nấu ăn; đầu bếp",
+      "example": "He cooks dinner every night."
+    },
+    {
+      "english": "cooker",
+      "ipa": "/ˈkʊkər/",
+      "vietnamese": "bếp nấu (lò)",
+      "example": "Gas cooker."
+    },
+    {
+      "english": "cookie",
+      "ipa": "/ˈkʊki/",
+      "vietnamese": "bánh quy",
+      "example": "Chocolate chip cookie."
+    },
+    {
+      "english": "cooking",
+      "ipa": "/ˈkʊkɪŋ/",
+      "vietnamese": "việc nấu nướng",
+      "example": "She loves cooking."
+    },
+    {
+      "english": "cool",
+      "ipa": "/kuːl/",
+      "vietnamese": "mát mẻ; tuyệt",
+      "example": "It's cool today."
+    },
+    {
+      "english": "cope",
+      "ipa": "/kəʊp/",
+      "vietnamese": "đương đầu, đối phó (with)",
+      "example": "Cope with stress."
+    },
+    {
+      "english": "copy",
+      "ipa": "/ˈkɒpi/",
+      "vietnamese": "bản sao; sao chép",
+      "example": "Make a copy."
+    },
+    {
+      "english": "core",
+      "ipa": "/kɔːr/",
+      "vietnamese": "lõi, hạt nhân",
+      "example": "The core of the problem."
+    },
+    {
+      "english": "corner",
+      "ipa": "/ˈkɔːrnər/",
+      "vietnamese": "góc",
+      "example": "On the corner of the street."
+    },
+    {
+      "english": "correct",
+      "ipa": "/kəˈrekt/",
+      "vietnamese": "đúng; sửa chữa",
+      "example": "That answer is correct."
+    },
+    {
+      "english": "cost",
+      "ipa": "/kɒst/",
+      "vietnamese": "giá, chi phí",
+      "example": "How much does it cost?"
+    },
+    {
+      "english": "cottage",
+      "ipa": "/ˈkɒtɪdʒ/",
+      "vietnamese": "nhà tranh",
+      "example": "A cottage in the countryside."
+    },
+    {
+      "english": "cotton",
+      "ipa": "/ˈkɒtn/",
+      "vietnamese": "bông, vải cotton",
+      "example": "A cotton shirt."
+    },
+    {
+      "english": "cough",
+      "ipa": "/kɒf/",
+      "vietnamese": "ho",
+      "example": "He has a bad cough."
+    },
+    {
+      "english": "could",
+      "ipa": "/kʊd/",
+      "vietnamese": "có thể (quá khứ của can)",
+      "example": "I could swim when I was 5."
+    },
+    {
+      "english": "council",
+      "ipa": "/ˈkhaʊnsl/",
+      "vietnamese": "hội đồng",
+      "example": "City council."
+    },
+    {
+      "english": "count",
+      "ipa": "/kaʊnt/",
+      "vietnamese": "đếm",
+      "example": "Count from 1 to 10."
+    },
+    {
+      "english": "counter",
+      "ipa": "/ˈkaʊntər/",
+      "vietnamese": "quầy (thu ngân, bar)",
+      "example": "Pay at the counter."
+    },
+    {
+      "english": "country",
+      "ipa": "/ˈkʌntri/",
+      "vietnamese": "đất nước; nông thôn",
+      "example": "Which country are you from?"
+    },
+    {
+      "english": "countryside",
+      "ipa": "/ˈkʌntrisaɪd/",
+      "vietnamese": "miền quê",
+      "example": "I love living in the countryside."
+    },
+    {
+      "english": "county",
+      "ipa": "/ˈkaʊnti/",
+      "vietnamese": "hạt, tỉnh",
+      "example": "Orange County."
+    },
+    {
+      "english": "couple",
+      "ipa": "/ˈkʌpl/",
+      "vietnamese": "cặp, đôi",
+      "example": "A married couple."
+    },
+    {
+      "english": "courage",
+      "ipa": "/ˈkʌrɪdʒ/",
+      "vietnamese": "lòng can đảm",
+      "example": "He showed great courage."
+    },
+    {
+      "english": "course",
+      "ipa": "/kɔːrs/",
+      "vietnamese": "khóa học; dĩ nhiên (of course)",
+      "example": "An English course."
+    },
+    {
+      "english": "court",
+      "ipa": "/kɔːrt/",
+      "vietnamese": "tòa án; sân (tennis)",
+      "example": "Take him to court."
+    },
+    {
+      "english": "cousin",
+      "ipa": "/ˈkʌzn/",
+      "vietnamese": "anh chị em họ",
+      "example": "My cousin lives in London."
+    },
+    {
+      "english": "cover",
+      "ipa": "/ˈkʌvər/",
+      "vietnamese": "che phủ, bao bọc; bìa sách",
+      "example": "Cover the pot."
+    },
+    {
+      "english": "cow",
+      "ipa": "/kaʊ/",
+      "vietnamese": "con bò cái",
+      "example": "Cows give milk."
+    },
+    {
+      "english": "crack",
+      "ipa": "/kræk/",
+      "vietnamese": "vết nứt; làm nứt",
+      "example": "A crack in the wall."
+    },
+    {
+      "english": "craft",
+      "ipa": "/krɑːft/",
+      "vietnamese": "nghề thủ công",
+      "example": "Arts and crafts."
+    },
+    {
+      "english": "crash",
+      "ipa": "/kræʃ/",
+      "vietnamese": "tai nạn, sự đâm sầm; đâm sầm",
+      "example": "Car crash."
+    },
+    {
+      "english": "crazy",
+      "ipa": "/ˈkreɪzi/",
+      "vietnamese": "điên, mất trí",
+      "example": "Are you crazy?"
+    },
+    {
+      "english": "cream",
+      "ipa": "/kriːm/",
+      "vietnamese": "kem",
+      "example": "Ice cream."
+    },
+    {
+      "english": "create",
+      "ipa": "/kriˈeɪt/",
+      "vietnamese": "tạo ra",
+      "example": "God created the world."
+    },
+    {
+      "english": "creature",
+      "ipa": "/ˈkriːtʃər/",
+      "vietnamese": "sinh vật",
+      "example": "Strange creatures."
+    },
+    {
+      "english": "credit",
+      "ipa": "/ˈkredɪt/",
+      "vietnamese": "tín dụng; sự tin cậy",
+      "example": "Credit card."
+    },
+    {
+      "english": "crime",
+      "ipa": "/kraɪm/",
+      "vietnamese": "tội ác, tội phạm",
+      "example": "Commit a crime."
+    },
+    {
+      "english": "criminal",
+      "ipa": "/ˈkrɪmɪnl/",
+      "vietnamese": "kẻ phạm tội; thuộc về tội phạm",
+      "example": "A dangerous criminal."
+    },
+    {
+      "english": "crisis",
+      "ipa": "/ˈkraɪsɪs/",
+      "vietnamese": "cuộc khủng hoảng",
+      "example": "Economic crisis."
+    },
+    {
+      "english": "crisp",
+      "ipa": "/krɪsp/",
+      "vietnamese": "giòn",
+      "example": "Crisp chips."
+    },
+    {
+      "english": "criterion",
+      "ipa": "/kraɪˈtɪəriən/",
+      "vietnamese": "tiêu chuẩn",
+      "example": "The main criterion."
+    },
+    {
+      "english": "critical",
+      "ipa": "/ˈkrɪtɪkl/",
+      "vietnamese": "phê bình; quan trọng, nguy kịch",
+      "example": "Critical thinking."
+    },
+    {
+      "english": "criticism",
+      "ipa": "/ˈkrɪtɪsɪzəm/",
+      "vietnamese": "sự phê bình",
+      "example": "Accept criticism."
+    },
+    {
+      "english": "criticize",
+      "ipa": "/ˈkrɪtɪsaɪz/",
+      "vietnamese": "phê bình, chỉ trích",
+      "example": "Don't criticize others."
+    },
+    {
+      "english": "crop",
+      "ipa": "/krɒp/",
+      "vietnamese": "vụ mùa",
+      "example": "A good crop of rice."
+    },
+    {
+      "english": "cross",
+      "ipa": "/krɒs/",
+      "vietnamese": "băng qua; cây thánh giá",
+      "example": "Cross the road carefully."
+    },
+    {
+      "english": "crowd",
+      "ipa": "/kraʊd/",
+      "vietnamese": "đám đông",
+      "example": "A large crowd."
+    },
+    {
+      "english": "crowded",
+      "ipa": "/ˈkraʊdɪd/",
+      "vietnamese": "đông đúc",
+      "example": "A crowded bus."
+    },
+    {
+      "english": "crown",
+      "ipa": "/kraʊn/",
+      "vietnamese": "vương miện",
+      "example": "The Queen wears a crown."
+    },
+    {
+      "english": "crucial",
+      "ipa": "/ˈkruːʃl/",
+      "vietnamese": "cốt yếu, quyết định",
+      "example": "It is crucial to be on time."
+    },
+    {
+      "english": "cruel",
+      "ipa": "/ˈkruːəl/",
+      "vietnamese": "độc ác",
+      "example": "Cruel to animals."
+    },
+    {
+      "english": "crush",
+      "ipa": "/krʌʃ/",
+      "vietnamese": "ép, nghiền nát",
+      "example": "Crush the garlic."
+    },
+    {
+      "english": "cry",
+      "ipa": "/kraɪ/",
+      "vietnamese": "khóc; kêu la",
+      "example": "Don't cry."
+    },
+    {
+      "english": "cultural",
+      "ipa": "/ˈkʌltʃərəl/",
+      "vietnamese": "thuộc văn hóa",
+      "example": "Cultural heritage."
+    },
+    {
+      "english": "culture",
+      "ipa": "/ˈkʌltʃər/",
+      "vietnamese": "văn hóa",
+      "example": "Vietnamese culture."
+    },
+    {
+      "english": "cup",
+      "ipa": "/kʌp/",
+      "vietnamese": "tách, chén",
+      "example": "A cup of tea."
+    },
+    {
+      "english": "cupboard",
+      "ipa": "/ˈkʌbərd/",
+      "vietnamese": "tủ chén, tủ đựng đồ",
+      "example": "Put the plates in the cupboard."
+    },
+    {
+      "english": "curb",
+      "ipa": "/kɜːrb/",
+      "vietnamese": "kiềm chế; lề đường",
+      "example": "Curb your anger."
+    },
+    {
+      "english": "cure",
+      "ipa": "/kjʊər/",
+      "vietnamese": "chữa trị; phương thuốc",
+      "example": "Prevention is better than cure."
+    },
+    {
+      "english": "curious",
+      "ipa": "/ˈkjʊəriəs/",
+      "vietnamese": "tò mò",
+      "example": "I am curious to know."
+    },
+    {
+      "english": "curl",
+      "ipa": "/kɜːrl/",
+      "vietnamese": "uốn quăn; lọn tóc",
+      "example": "Curl your hair."
+    },
+    {
+      "english": "curly",
+      "ipa": "/ˈkɜːrli/",
+      "vietnamese": "quăn, xoắn",
+      "example": "Curly hair."
+    },
+    {
+      "english": "current",
+      "ipa": "/ˈkʌrənt/",
+      "vietnamese": "hiện tại; dòng (nước, điện)",
+      "example": "Current events."
+    },
+    {
+      "english": "currently",
+      "ipa": "/ˈkʌrəntli/",
+      "vietnamese": "hiện nay",
+      "example": "He is currently working here."
+    },
+    {
+      "english": "curtain",
+      "ipa": "/ˈkɜːrtn/",
+      "vietnamese": "rèm cửa",
+      "example": "Close the curtains."
+    },
+    {
+      "english": "curve",
+      "ipa": "/kɜːrv/",
+      "vietnamese": "đường cong",
+      "example": "A sharp curve in the road."
+    },
+    {
+      "english": "custom",
+      "ipa": "/ˈkʌstəm/",
+      "vietnamese": "phong tục",
+      "example": "It is a local custom."
+    },
+    {
+      "english": "customer",
+      "ipa": "/ˈkʌstəmər/",
+      "vietnamese": "khách hàng",
+      "example": "The customer is always right."
+    },
+    {
+      "english": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "vietnamese": "hải quan",
+      "example": "Go through customs."
+    },
+    {
+      "english": "cut",
+      "ipa": "/kʌt/",
+      "vietnamese": "cắt",
+      "example": "Cut the paper."
+    },
+    {
+      "english": "cycle",
+      "ipa": "/ˈsaɪkl/",
+      "vietnamese": "chu kỳ; đi xe đạp",
+      "example": "Life cycle."
+    },
+    {
+      "english": "cycling",
+      "ipa": "/ˈsaɪklɪŋ/",
+      "vietnamese": "môn đua xe đạp, sự đi xe đạp",
+      "example": "She goes cycling every weekend."
+    }
+  ]
+}
