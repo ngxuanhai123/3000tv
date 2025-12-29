@@ -1,0 +1,617 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: H (English Vocabulary)",
+  "words": [
+    {
+      "english": "habit",
+      "ipa": "/ˈhæbɪt/",
+      "vietnamese": "thói quen, tập quán",
+      "example": "He has a habit of biting his nails."
+    },
+    {
+      "english": "hair",
+      "ipa": "/heər/",
+      "vietnamese": "tóc, lông",
+      "example": "She has long black hair."
+    },
+    {
+      "english": "hairdresser",
+      "ipa": "/ˈheədresər/",
+      "vietnamese": "thợ làm tóc",
+      "example": "I'm going to the hairdresser."
+    },
+    {
+      "english": "half",
+      "ipa": "/hɑːf/",
+      "vietnamese": "một nửa",
+      "example": "Half of the apple."
+    },
+    {
+      "english": "hall",
+      "ipa": "/hɔːl/",
+      "vietnamese": "đại sảnh, hội trường, hành lang",
+      "example": "The concert hall."
+    },
+    {
+      "english": "hammer",
+      "ipa": "/ˈhæmər/",
+      "vietnamese": "cái búa",
+      "example": "Hit the nail with a hammer."
+    },
+    {
+      "english": "hand",
+      "ipa": "/hænd/",
+      "vietnamese": "tay, bàn tay; trao",
+      "example": "Wash your hands."
+    },
+    {
+      "english": "handle",
+      "ipa": "/ˈhændl/",
+      "vietnamese": "cán, tay cầm; xử lý",
+      "example": "Handle with care."
+    },
+    {
+      "english": "hang",
+      "ipa": "/hæŋ/",
+      "vietnamese": "treo, mắc",
+      "example": "Hang your coat here."
+    },
+    {
+      "english": "happen",
+      "ipa": "/ˈhæpən/",
+      "vietnamese": "xảy ra, xảy đến",
+      "example": "What happened?"
+    },
+    {
+      "english": "happily",
+      "ipa": "/ˈhæpɪli/",
+      "vietnamese": "hạnh phúc, sung sướng",
+      "example": "They lived happily ever after."
+    },
+    {
+      "english": "happiness",
+      "ipa": "/ˈhæpinəs/",
+      "vietnamese": "sự hạnh phúc",
+      "example": "Money can't buy happiness."
+    },
+    {
+      "english": "happy",
+      "ipa": "/ˈhæpi/",
+      "vietnamese": "hạnh phúc, vui sướng",
+      "example": "Happy New Year!"
+    },
+    {
+      "english": "hard",
+      "ipa": "/hɑːrd/",
+      "vietnamese": "cứng, rắn; khó khăn; vất vả",
+      "example": "Work hard."
+    },
+    {
+      "english": "hardly",
+      "ipa": "/ˈhɑːrdli/",
+      "vietnamese": "hầu như không",
+      "example": "I hardly know him."
+    },
+    {
+      "english": "harm",
+      "ipa": "/hɑːrm/",
+      "vietnamese": "thiệt hại, tổn hại; làm hại",
+      "example": "No harm done."
+    },
+    {
+      "english": "harmful",
+      "ipa": "/ˈhɑːrmfl/",
+      "vietnamese": "có hại",
+      "example": "Smoking is harmful to health."
+    },
+    {
+      "english": "harmless",
+      "ipa": "/ˈhɑːrmləs/",
+      "vietnamese": "vô hại",
+      "example": "The snake is harmless."
+    },
+    {
+      "english": "hat",
+      "ipa": "/hæt/",
+      "vietnamese": "cái mũ",
+      "example": "Put on your hat."
+    },
+    {
+      "english": "hate",
+      "ipa": "/heɪt/",
+      "vietnamese": "ghét, căm ghét",
+      "example": "I hate lies."
+    },
+    {
+      "english": "hatred",
+      "ipa": "/ˈheɪtrɪd/",
+      "vietnamese": "lòng căm thù, sự căm ghét",
+      "example": "Look at him with hatred."
+    },
+    {
+      "english": "have",
+      "ipa": "/hæv/",
+      "vietnamese": "có; ăn uống",
+      "example": "I have a car."
+    },
+    {
+      "english": "have to",
+      "ipa": "/ˈhæv tuː/",
+      "vietnamese": "phải (làm gì)",
+      "example": "I have to go now."
+    },
+    {
+      "english": "he",
+      "ipa": "/hiː/",
+      "vietnamese": "nó, anh ấy, ông ấy",
+      "example": "He is my teacher."
+    },
+    {
+      "english": "head",
+      "ipa": "/hed/",
+      "vietnamese": "cái đầu; người đứng đầu",
+      "example": "Shake your head."
+    },
+    {
+      "english": "headache",
+      "ipa": "/ˈhedeɪk/",
+      "vietnamese": "đau đầu",
+      "example": "I have a headache."
+    },
+    {
+      "english": "heal",
+      "ipa": "/hiːl/",
+      "vietnamese": "chữa khỏi, lành lại",
+      "example": "The wound healed quickly."
+    },
+    {
+      "english": "health",
+      "ipa": "/helθ/",
+      "vietnamese": "sức khỏe",
+      "example": "Good health."
+    },
+    {
+      "english": "healthy",
+      "ipa": "/ˈhelθi/",
+      "vietnamese": "khỏe mạnh, lành mạnh",
+      "example": "Healthy food."
+    },
+    {
+      "english": "hear",
+      "ipa": "/hɪər/",
+      "vietnamese": "nghe",
+      "example": "Can you hear me?"
+    },
+    {
+      "english": "hearing",
+      "ipa": "/ˈhɪərɪŋ/",
+      "vietnamese": "thính giác, sự nghe",
+      "example": "His hearing is poor."
+    },
+    {
+      "english": "heart",
+      "ipa": "/hɑːrt/",
+      "vietnamese": "tim, trái tim",
+      "example": "Follow your heart."
+    },
+    {
+      "english": "heat",
+      "ipa": "/hiːt/",
+      "vietnamese": "hơi nóng, sức nóng; đun nóng",
+      "example": "The heat of the sun."
+    },
+    {
+      "english": "heating",
+      "ipa": "/ˈhiːtɪŋ/",
+      "vietnamese": "hệ thống sưởi, sự đốt nóng",
+      "example": "Central heating."
+    },
+    {
+      "english": "heaven",
+      "ipa": "/ˈhevn/",
+      "vietnamese": "thiên đường",
+      "example": "Go to heaven."
+    },
+    {
+      "english": "heavy",
+      "ipa": "/ˈhevi/",
+      "vietnamese": "nặng",
+      "example": "A heavy bag."
+    },
+    {
+      "english": "heavily",
+      "ipa": "/ˈhevɪli/",
+      "vietnamese": "nặng, nặng nề",
+      "example": "It is raining heavily."
+    },
+    {
+      "english": "heel",
+      "ipa": "/hiːl/",
+      "vietnamese": "gót chân",
+      "example": "High heels."
+    },
+    {
+      "english": "height",
+      "ipa": "/haɪt/",
+      "vietnamese": "chiều cao, độ cao",
+      "example": "What is your height?"
+    },
+    {
+      "english": "hell",
+      "ipa": "/hel/",
+      "vietnamese": "địa ngục",
+      "example": "Go to hell."
+    },
+    {
+      "english": "hello",
+      "ipa": "/həˈləʊ/",
+      "vietnamese": "chào, xin chào",
+      "example": "Hello everyone."
+    },
+    {
+      "english": "help",
+      "ipa": "/help/",
+      "vietnamese": "giúp đỡ; sự giúp đỡ",
+      "example": "Can I help you?"
+    },
+    {
+      "english": "helpful",
+      "ipa": "/ˈhelpfl/",
+      "vietnamese": "có ích, giúp ích",
+      "example": "Thank you, that was very helpful."
+    },
+    {
+      "english": "hence",
+      "ipa": "/hens/",
+      "vietnamese": "do đó, vì thế",
+      "example": "It is late, hence we must go."
+    },
+    {
+      "english": "her",
+      "ipa": "/hɜːr/",
+      "vietnamese": "của cô ấy, cô ấy (tân ngữ)",
+      "example": "I like her."
+    },
+    {
+      "english": "here",
+      "ipa": "/hɪər/",
+      "vietnamese": "ở đây",
+      "example": "Come here."
+    },
+    {
+      "english": "hero",
+      "ipa": "/ˈhɪərəʊ/",
+      "vietnamese": "người anh hùng",
+      "example": "A war hero."
+    },
+    {
+      "english": "hers",
+      "ipa": "/hɜːrz/",
+      "vietnamese": "cái của cô ấy",
+      "example": "This bag is hers."
+    },
+    {
+      "english": "herself",
+      "ipa": "/həˈself/",
+      "vietnamese": "chính cô ấy, tự cô ấy",
+      "example": "She did it herself."
+    },
+    {
+      "english": "hesitate",
+      "ipa": "/ˈhezɪteɪt/",
+      "vietnamese": "do dự, ngập ngừng",
+      "example": "Don't hesitate to ask."
+    },
+    {
+      "english": "hi",
+      "ipa": "/haɪ/",
+      "vietnamese": "chào",
+      "example": "Hi there!"
+    },
+    {
+      "english": "hide",
+      "ipa": "/haɪd/",
+      "vietnamese": "trốn, ẩn nấp; che giấu",
+      "example": "Hide behind the tree."
+    },
+    {
+      "english": "high",
+      "ipa": "/haɪ/",
+      "vietnamese": "cao",
+      "example": "A high mountain."
+    },
+    {
+      "english": "highlight",
+      "ipa": "/ˈhaɪlaɪt/",
+      "vietnamese": "làm nổi bật; điểm nổi bật",
+      "example": "Highlight the important words."
+    },
+    {
+      "english": "highly",
+      "ipa": "/ˈhaɪli/",
+      "vietnamese": "rất, lắm, cao",
+      "example": "Highly recommended."
+    },
+    {
+      "english": "highway",
+      "ipa": "/ˈhaɪweɪ/",
+      "vietnamese": "đường cao tốc, quốc lộ",
+      "example": "Driving on the highway."
+    },
+    {
+      "english": "hill",
+      "ipa": "/hɪl/",
+      "vietnamese": "đồi",
+      "example": "Up the hill."
+    },
+    {
+      "english": "him",
+      "ipa": "/hɪm/",
+      "vietnamese": "nó, hắn, ông ấy, anh ấy (tân ngữ)",
+      "example": "Give it to him."
+    },
+    {
+      "english": "himself",
+      "ipa": "/hɪmˈself/",
+      "vietnamese": "chính nó, chính hắn, tự ông ấy",
+      "example": "He hurt himself."
+    },
+    {
+      "english": "hip",
+      "ipa": "/hɪp/",
+      "vietnamese": "hông",
+      "example": "Hands on hips."
+    },
+    {
+      "english": "hire",
+      "ipa": "/ˈhaɪər/",
+      "vietnamese": "thuê, mướn",
+      "example": "Hire a car."
+    },
+    {
+      "english": "his",
+      "ipa": "/hɪz/",
+      "vietnamese": "của nó, của hắn, của ông ấy",
+      "example": "His name is John."
+    },
+    {
+      "english": "historical",
+      "ipa": "/hɪˈstɒrɪkl/",
+      "vietnamese": "thuộc lịch sử",
+      "example": "Historical events."
+    },
+    {
+      "english": "history",
+      "ipa": "/ˈhɪstri/",
+      "vietnamese": "lịch sử",
+      "example": "Study history."
+    },
+    {
+      "english": "hit",
+      "ipa": "/hɪt/",
+      "vietnamese": "đánh, đấm, ném trúng; đòn, cú đánh",
+      "example": "Hit the ball."
+    },
+    {
+      "english": "hobby",
+      "ipa": "/ˈhɒbi/",
+      "vietnamese": "sở thích",
+      "example": "My hobby is reading."
+    },
+    {
+      "english": "hold",
+      "ipa": "/həʊld/",
+      "vietnamese": "cầm, nắm, giữ",
+      "example": "Hold my hand."
+    },
+    {
+      "english": "hole",
+      "ipa": "/həʊl/",
+      "vietnamese": "lỗ, hố",
+      "example": "A hole in the ground."
+    },
+    {
+      "english": "holiday",
+      "ipa": "/ˈhɒlədeɪ/",
+      "vietnamese": "ngày lễ, kỳ nghỉ",
+      "example": "On holiday."
+    },
+    {
+      "english": "hollow",
+      "ipa": "/ˈhɒləʊ/",
+      "vietnamese": "rỗng",
+      "example": "A hollow tree."
+    },
+    {
+      "english": "holy",
+      "ipa": "/ˈhəʊli/",
+      "vietnamese": "linh thiêng, thánh",
+      "example": "Holy Bible."
+    },
+    {
+      "english": "home",
+      "ipa": "/həʊm/",
+      "vietnamese": "nhà, chỗ ở",
+      "example": "Go home."
+    },
+    {
+      "english": "homework",
+      "ipa": "/ˈhəʊmwɜːrk/",
+      "vietnamese": "bài tập về nhà",
+      "example": "Do your homework."
+    },
+    {
+      "english": "honest",
+      "ipa": "/ˈɒnɪst/",
+      "vietnamese": "trung thực, thật thà",
+      "example": "To be honest."
+    },
+    {
+      "english": "honestly",
+      "ipa": "/ˈɒnɪstli/",
+      "vietnamese": "thành thật",
+      "example": "Honestly, I don't know."
+    },
+    {
+      "english": "honour",
+      "ipa": "/ˈɒnər/",
+      "vietnamese": "danh dự; tôn kính",
+      "example": "A man of honour."
+    },
+    {
+      "english": "hook",
+      "ipa": "/hʊk/",
+      "vietnamese": "cái móc; treo vào móc",
+      "example": "Hang it on the hook."
+    },
+    {
+      "english": "hope",
+      "ipa": "/həʊp/",
+      "vietnamese": "hy vọng",
+      "example": "I hope so."
+    },
+    {
+      "english": "horizontal",
+      "ipa": "/ˌhɒrɪˈzɒntl/",
+      "vietnamese": "ngang, nằm ngang",
+      "example": "A horizontal line."
+    },
+    {
+      "english": "horn",
+      "ipa": "/hɔːrn/",
+      "vietnamese": "sừng; còi xe",
+      "example": "Honk the horn."
+    },
+    {
+      "english": "horror",
+      "ipa": "/ˈhɒrər/",
+      "vietnamese": "sự khiếp sợ; kinh dị",
+      "example": "Horror movie."
+    },
+    {
+      "english": "horse",
+      "ipa": "/hɔːrs/",
+      "vietnamese": "con ngựa",
+      "example": "Ride a horse."
+    },
+    {
+      "english": "hospital",
+      "ipa": "/ˈhɒspɪtl/",
+      "vietnamese": "bệnh viện",
+      "example": "Go to the hospital."
+    },
+    {
+      "english": "host",
+      "ipa": "/həʊst/",
+      "vietnamese": "chủ nhà, người dẫn chương trình",
+      "example": "The host of the party."
+    },
+    {
+      "english": "hot",
+      "ipa": "/hɒt/",
+      "vietnamese": "nóng",
+      "example": "It is hot today."
+    },
+    {
+      "english": "hotel",
+      "ipa": "/həʊˈtel/",
+      "vietnamese": "khách sạn",
+      "example": "Stay at a hotel."
+    },
+    {
+      "english": "hour",
+      "ipa": "/ˈaʊər/",
+      "vietnamese": "giờ",
+      "example": "Wait an hour."
+    },
+    {
+      "english": "house",
+      "ipa": "/haʊs/",
+      "vietnamese": "ngôi nhà",
+      "example": "A big house."
+    },
+    {
+      "english": "household",
+      "ipa": "/ˈhaʊshəʊld/",
+      "vietnamese": "hộ gia đình",
+      "example": "Household chores."
+    },
+    {
+      "english": "housing",
+      "ipa": "/ˈhaʊzɪŋ/",
+      "vietnamese": "nhà ở (nói chung)",
+      "example": "Housing market."
+    },
+    {
+      "english": "how",
+      "ipa": "/haʊ/",
+      "vietnamese": "thế nào, như thế nào, làm sao",
+      "example": "How are you?"
+    },
+    {
+      "english": "however",
+      "ipa": "/haʊˈevər/",
+      "vietnamese": "tuy nhiên",
+      "example": "I like him; however, I can't agree."
+    },
+    {
+      "english": "huge",
+      "ipa": "/hjuːdʒ/",
+      "vietnamese": "to lớn, khổng lồ",
+      "example": "A huge mistake."
+    },
+    {
+      "english": "human",
+      "ipa": "/ˈhjuːmən/",
+      "vietnamese": "con người, thuộc con người",
+      "example": "Human rights."
+    },
+    {
+      "english": "humorous",
+      "ipa": "/ˈhjuːmərəs/",
+      "vietnamese": "hài hước",
+      "example": "A humorous story."
+    },
+    {
+      "english": "humour",
+      "ipa": "/ˈhjuːmər/",
+      "vietnamese": "sự hài hước",
+      "example": "Sense of humour."
+    },
+    {
+      "english": "hungry",
+      "ipa": "/ˈhʌŋɡri/",
+      "vietnamese": "đói",
+      "example": "I am hungry."
+    },
+    {
+      "english": "hunt",
+      "ipa": "/hʌnt/",
+      "vietnamese": "săn bắn",
+      "example": "Hunt for food."
+    },
+    {
+      "english": "hunting",
+      "ipa": "/ˈhʌntɪŋ/",
+      "vietnamese": "sự săn bắn",
+      "example": "Go hunting."
+    },
+    {
+      "english": "hurry",
+      "ipa": "/ˈhʌri/",
+      "vietnamese": "vội vã; sự vội vã",
+      "example": "Hurry up!"
+    },
+    {
+      "english": "hurt",
+      "ipa": "/hɜːrt/",
+      "vietnamese": "làm đau, bị đau",
+      "example": "It hurts."
+    },
+    {
+      "english": "husband",
+      "ipa": "/ˈhʌzbənd/",
+      "vietnamese": "người chồng",
+      "example": "Her husband is a doctor."
+    }
+  ]
+}
