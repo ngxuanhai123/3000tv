@@ -1,0 +1,798 @@
+{
+  "name": "Từ Vựng Bắt Đầu Bằng Chữ: R (English Vocabulary)",
+  "words": [
+    {
+      "english": "race",
+      "ipa": "/reɪs/",
+      "vietnamese": "cuộc đua; chủng tộc",
+      "example": "Win a race."
+    },
+    {
+      "english": "racing",
+      "ipa": "/ˈreɪsɪŋ/",
+      "vietnamese": "cuộc đua ngựa (hoặc xe)",
+      "example": "Horse racing."
+    },
+    {
+      "english": "radio",
+      "ipa": "/ˈreɪdiəʊ/",
+      "vietnamese": "đài phát thanh",
+      "example": "Listen to the radio."
+    },
+    {
+      "english": "rail",
+      "ipa": "/reɪl/",
+      "vietnamese": "đường ray",
+      "example": "Travel by rail."
+    },
+    {
+      "english": "railway",
+      "ipa": "/ˈreɪlweɪ/",
+      "vietnamese": "đường sắt",
+      "example": "Railway station."
+    },
+    {
+      "english": "rain",
+      "ipa": "/reɪn/",
+      "vietnamese": "mưa; cơn mưa",
+      "example": "Heavy rain."
+    },
+    {
+      "english": "raise",
+      "ipa": "/reɪz/",
+      "vietnamese": "nâng lên; nuôi nấng",
+      "example": "Raise your hand."
+    },
+    {
+      "english": "range",
+      "ipa": "/reɪndʒ/",
+      "vietnamese": "phạm vi, lĩnh vực",
+      "example": "A wide range of products."
+    },
+    {
+      "english": "rank",
+      "ipa": "/ræŋk/",
+      "vietnamese": "hàng, dãy; cấp bậc",
+      "example": "High rank."
+    },
+    {
+      "english": "rapid",
+      "ipa": "/ˈræpɪd/",
+      "vietnamese": "nhanh, mau lẹ",
+      "example": "Rapid growth."
+    },
+    {
+      "english": "rapidly",
+      "ipa": "/ˈræpɪdli/",
+      "vietnamese": "nhanh chóng",
+      "example": "The city is growing rapidly."
+    },
+    {
+      "english": "rare",
+      "ipa": "/reər/",
+      "vietnamese": "hiếm; tái (thịt)",
+      "example": "A rare disease."
+    },
+    {
+      "english": "rarely",
+      "ipa": "/ˈreəli/",
+      "vietnamese": "hiếm khi",
+      "example": "I rarely eat meat."
+    },
+    {
+      "english": "rate",
+      "ipa": "/reɪt/",
+      "vietnamese": "tỷ lệ, tốc độ; giá",
+      "example": "Interest rate."
+    },
+    {
+      "english": "rather",
+      "ipa": "/ˈrɑːðər/",
+      "vietnamese": "thà... còn hơn, thích... hơn",
+      "example": "I'd rather stay home."
+    },
+    {
+      "english": "raw",
+      "ipa": "/rɔː/",
+      "vietnamese": "sống (chưa chín), thô (chưa chế biến)",
+      "example": "Raw meat."
+    },
+    {
+      "english": "reach",
+      "ipa": "/riːtʃ/",
+      "vietnamese": "đến, với tới",
+      "example": "Reach the top."
+    },
+    {
+      "english": "react",
+      "ipa": "/riˈækt/",
+      "vietnamese": "phản ứng",
+      "example": "How did he react?"
+    },
+    {
+      "english": "reaction",
+      "ipa": "/riˈækʃn/",
+      "vietnamese": "sự phản ứng",
+      "example": "Chemical reaction."
+    },
+    {
+      "english": "read",
+      "ipa": "/riːd/",
+      "vietnamese": "đọc",
+      "example": "Read a book."
+    },
+    {
+      "english": "reader",
+      "ipa": "/ˈriːdər/",
+      "vietnamese": "độc giả",
+      "example": "Dear reader."
+    },
+    {
+      "english": "reading",
+      "ipa": "/ˈriːdɪŋ/",
+      "vietnamese": "sự đọc",
+      "example": "Reading comprehension."
+    },
+    {
+      "english": "ready",
+      "ipa": "/ˈredi/",
+      "vietnamese": "sẵn sàng",
+      "example": "Are you ready?"
+    },
+    {
+      "english": "real",
+      "ipa": "/riːəl/",
+      "vietnamese": "thực, thật",
+      "example": "Real life."
+    },
+    {
+      "english": "realistic",
+      "ipa": "/ˌriːəˈlɪstɪk/",
+      "vietnamese": "thực tế",
+      "example": "Be realistic."
+    },
+    {
+      "english": "reality",
+      "ipa": "/riˈæləti/",
+      "vietnamese": "sự thật, thực tế",
+      "example": "Face reality."
+    },
+    {
+      "english": "realize",
+      "ipa": "/ˈriːəlaɪz/",
+      "vietnamese": "nhận ra, thực hiện",
+      "example": "I realized my mistake."
+    },
+    {
+      "english": "really",
+      "ipa": "/ˈriːəli/",
+      "vietnamese": "thực ra, thực sự",
+      "example": "Really good."
+    },
+    {
+      "english": "rear",
+      "ipa": "/rɪər/",
+      "vietnamese": "phía sau",
+      "example": "Rear window."
+    },
+    {
+      "english": "reason",
+      "ipa": "/ˈriːzn/",
+      "vietnamese": "lý do",
+      "example": "For some reason."
+    },
+    {
+      "english": "reasonable",
+      "ipa": "/ˈriːznəbl/",
+      "vietnamese": "hợp lý",
+      "example": "Reasonable price."
+    },
+    {
+      "english": "reasonably",
+      "ipa": "/ˈriːznəbli/",
+      "vietnamese": "một cách hợp lý, khá",
+      "example": "Reasonably priced."
+    },
+    {
+      "english": "recall",
+      "ipa": "/rɪˈkɔːl/",
+      "vietnamese": "gợi lại, nhắc lại, thu hồi",
+      "example": "I can't recall his name."
+    },
+    {
+      "english": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "vietnamese": "biên lai, hóa đơn",
+      "example": "Keep the receipt."
+    },
+    {
+      "english": "receive",
+      "ipa": "/rɪˈsiːv/",
+      "vietnamese": "nhận",
+      "example": "Receive a letter."
+    },
+    {
+      "english": "recent",
+      "ipa": "/ˈriːsnt/",
+      "vietnamese": "gần đây, mới đây",
+      "example": "Recent events."
+    },
+    {
+      "english": "recently",
+      "ipa": "/ˈriːsntli/",
+      "vietnamese": "gần đây",
+      "example": "I saw him recently."
+    },
+    {
+      "english": "reception",
+      "ipa": "/rɪˈsepʃn/",
+      "vietnamese": "sự đón tiếp; quầy lễ tân",
+      "example": "Wedding reception."
+    },
+    {
+      "english": "reckon",
+      "ipa": "/ˈrekən/",
+      "vietnamese": "tính, đếm; cho là",
+      "example": "I reckon it's going to rain."
+    },
+    {
+      "english": "recognition",
+      "ipa": "/ˌrekəɡˈnɪʃn/",
+      "vietnamese": "sự công nhận, sự nhận ra",
+      "example": "In recognition of."
+    },
+    {
+      "english": "recognize",
+      "ipa": "/ˈrekəɡnaɪz/",
+      "vietnamese": "nhận ra, công nhận",
+      "example": "I didn't recognize you."
+    },
+    {
+      "english": "recommend",
+      "ipa": "/ˌrekəˈmend/",
+      "vietnamese": "giới thiệu, tiến cử",
+      "example": "Can you recommend a good hotel?"
+    },
+    {
+      "english": "record",
+      "ipa": "/ˈrekɔːrd/",
+      "vietnamese": "hồ sơ, kỷ lục; ghi âm",
+      "example": "Break a record."
+    },
+    {
+      "english": "recording",
+      "ipa": "/rɪˈkɔːrdɪŋ/",
+      "vietnamese": "sự ghi âm, sự thu hình",
+      "example": "A recording studio."
+    },
+    {
+      "english": "recover",
+      "ipa": "/rɪˈkʌvər/",
+      "vietnamese": "hồi phục, lấy lại",
+      "example": "Recover from an illness."
+    },
+    {
+      "english": "red",
+      "ipa": "/red/",
+      "vietnamese": "đỏ, màu đỏ",
+      "example": "Red rose."
+    },
+    {
+      "english": "reduce",
+      "ipa": "/rɪˈduːs/",
+      "vietnamese": "giảm, giảm bớt",
+      "example": "Reduce the price."
+    },
+    {
+      "english": "reduction",
+      "ipa": "/rɪˈdʌkʃn/",
+      "vietnamese": "sự giảm bớt",
+      "example": "Price reduction."
+    },
+    {
+      "english": "refer",
+      "ipa": "/rɪˈfɜːr/",
+      "vietnamese": "tham khảo; ám chỉ",
+      "example": "Refer to the dictionary."
+    },
+    {
+      "english": "reference",
+      "ipa": "/ˈrefrəns/",
+      "vietnamese": "sự tham khảo, tài liệu tham khảo",
+      "example": "For future reference."
+    },
+    {
+      "english": "reflect",
+      "ipa": "/rɪˈflekt/",
+      "vietnamese": "phản chiếu, phản ánh",
+      "example": "The mirror reflects my face."
+    },
+    {
+      "english": "reform",
+      "ipa": "/rɪˈfɔːrm/",
+      "vietnamese": "cải cách; sự cải cách",
+      "example": "Education reform."
+    },
+    {
+      "english": "refrigerator",
+      "ipa": "/rɪˈfrɪdʒəreɪtər/",
+      "vietnamese": "tủ lạnh",
+      "example": "Put it in the refrigerator."
+    },
+    {
+      "english": "refusal",
+      "ipa": "/rɪˈfjuːzl/",
+      "vietnamese": "sự từ chối",
+      "example": "His refusal to help."
+    },
+    {
+      "english": "refuse",
+      "ipa": "/rɪˈfjuːz/",
+      "vietnamese": "từ chối",
+      "example": "I refuse to go."
+    },
+    {
+      "english": "regard",
+      "ipa": "/rɪˈɡɑːrd/",
+      "vietnamese": "nhìn, đánh giá; cái nhìn",
+      "example": "Regard as a hero."
+    },
+    {
+      "english": "regarding",
+      "ipa": "/rɪˈɡɑːrdɪŋ/",
+      "vietnamese": "về, về việc, đối với (vấn đề...)",
+      "example": "Regarding your application."
+    },
+    {
+      "english": "region",
+      "ipa": "/ˈriːdʒən/",
+      "vietnamese": "vùng, miền",
+      "example": "Mountainous region."
+    },
+    {
+      "english": "regional",
+      "ipa": "/ˈriːdʒənl/",
+      "vietnamese": "thuộc vùng, địa phương",
+      "example": "Regional office."
+    },
+    {
+      "english": "register",
+      "ipa": "/ˈredʒɪstər/",
+      "vietnamese": "đăng ký, ghi vào sổ",
+      "example": "Register for a course."
+    },
+    {
+      "english": "regret",
+      "ipa": "/rɪˈɡret/",
+      "vietnamese": "hối tiếc; lòng thương tiếc",
+      "example": "I regret my decision."
+    },
+    {
+      "english": "regular",
+      "ipa": "/ˈreɡjələr/",
+      "vietnamese": "đều đặn, thường xuyên",
+      "example": "Regular exercise."
+    },
+    {
+      "english": "regularly",
+      "ipa": "/ˈreɡjələli/",
+      "vietnamese": "đều đặn, thường xuyên",
+      "example": "Visit the dentist regularly."
+    },
+    {
+      "english": "regulation",
+      "ipa": "/ˌreɡjuˈleɪʃn/",
+      "vietnamese": "quy định, quy tắc",
+      "example": "Traffic regulations."
+    },
+    {
+      "english": "reject",
+      "ipa": "/rɪˈdʒekt/",
+      "vietnamese": "từ chối, bác bỏ",
+      "example": "Reject an offer."
+    },
+    {
+      "english": "relate",
+      "ipa": "/rɪˈleɪt/",
+      "vietnamese": "kể lại, thuật lại; liên hệ",
+      "example": "Relate a story."
+    },
+    {
+      "english": "related",
+      "ipa": "/rɪˈleɪtɪd/",
+      "vietnamese": "có liên quan, có quan hệ",
+      "example": "Related topics."
+    },
+    {
+      "english": "relation",
+      "ipa": "/rɪˈleɪʃn/",
+      "vietnamese": "mối quan hệ, sự liên quan",
+      "example": "In relation to."
+    },
+    {
+      "english": "relationship",
+      "ipa": "/rɪˈleɪʃnʃɪp/",
+      "vietnamese": "mối quan hệ",
+      "example": "A close relationship."
+    },
+    {
+      "english": "relative",
+      "ipa": "/ˈrelətɪv/",
+      "vietnamese": "tương đối; người thân",
+      "example": "A distant relative."
+    },
+    {
+      "english": "relatively",
+      "ipa": "/ˈrelətɪvli/",
+      "vietnamese": "tương đối",
+      "example": "Relatively cheap."
+    },
+    {
+      "english": "relax",
+      "ipa": "/rɪˈlæks/",
+      "vietnamese": "thư giãn, giải trí",
+      "example": "Sit down and relax."
+    },
+    {
+      "english": "relaxed",
+      "ipa": "/rɪˈlækst/",
+      "vietnamese": "thư thái, thanh thản",
+      "example": "Feel relaxed."
+    },
+    {
+      "english": "relaxing",
+      "ipa": "/rɪˈlæksɪŋ/",
+      "vietnamese": "làm giảm căng thẳng, thư thái",
+      "example": "A relaxing holiday."
+    },
+    {
+      "english": "release",
+      "ipa": "/rɪˈliːs/",
+      "vietnamese": "giải phóng, phát hành",
+      "example": "Release a prisoner."
+    },
+    {
+      "english": "relevant",
+      "ipa": "/ˈreləvənt/",
+      "vietnamese": "thích đáng, có liên quan",
+      "example": "Relevant information."
+    },
+    {
+      "english": "relief",
+      "ipa": "/rɪˈliːf/",
+      "vietnamese": "sự giảm nhẹ, sự cứu viện",
+      "example": "Pain relief."
+    },
+    {
+      "english": "religion",
+      "ipa": "/rɪˈlɪdʒən/",
+      "vietnamese": "tôn giáo",
+      "example": "Freedom of religion."
+    },
+    {
+      "english": "religious",
+      "ipa": "/rɪˈlɪdʒəs/",
+      "vietnamese": "thuộc tôn giáo, sùng đạo",
+      "example": "Religious beliefs."
+    },
+    {
+      "english": "rely",
+      "ipa": "/rɪˈlaɪ/",
+      "vietnamese": "tin cậy, dựa vào (on)",
+      "example": "You can rely on me."
+    },
+    {
+      "english": "remain",
+      "ipa": "/rɪˈmeɪn/",
+      "vietnamese": "còn lại, vẫn",
+      "example": "Remain silent."
+    },
+    {
+      "english": "remaining",
+      "ipa": "/rɪˈmeɪnɪŋ/",
+      "vietnamese": "còn lại",
+      "example": "The remaining money."
+    },
+    {
+      "english": "remains",
+      "ipa": "/rɪˈmeɪnz/",
+      "vietnamese": "đồ thừa, cái còn lại",
+      "example": "The remains of a meal."
+    },
+    {
+      "english": "remark",
+      "ipa": "/rɪˈmɑːrk/",
+      "vietnamese": "nhận xét, phê bình",
+      "example": "Make a remark."
+    },
+    {
+      "english": "remarkable",
+      "ipa": "/rɪˈmɑːrkəbl/",
+      "vietnamese": "đáng chú ý, khác thường",
+      "example": "A remarkable achievement."
+    },
+    {
+      "english": "remember",
+      "ipa": "/rɪˈmembər/",
+      "vietnamese": "nhớ",
+      "example": "Remember to call me."
+    },
+    {
+      "english": "remind",
+      "ipa": "/rɪˈmaɪnd/",
+      "vietnamese": "nhắc nhở",
+      "example": "Remind me to buy milk."
+    },
+    {
+      "english": "remote",
+      "ipa": "/rɪˈməʊt/",
+      "vietnamese": "xa xôi, hẻo lánh",
+      "example": "Remote control."
+    },
+    {
+      "english": "removal",
+      "ipa": "/rɪˈmuːvl/",
+      "vietnamese": "sự dời đi, sự loại bỏ",
+      "example": "Removal of rubbish."
+    },
+    {
+      "english": "remove",
+      "ipa": "/rɪˈmuːv/",
+      "vietnamese": "dời đi, di chuyển, xóa bỏ",
+      "example": "Remove your shoes."
+    },
+    {
+      "english": "rent",
+      "ipa": "/rent/",
+      "vietnamese": "thuê; tiền thuê",
+      "example": "Rent a house."
+    },
+    {
+      "english": "repair",
+      "ipa": "/rɪˈpeər/",
+      "vietnamese": "sửa chữa",
+      "example": "Repair a car."
+    },
+    {
+      "english": "repeat",
+      "ipa": "/rɪˈpiːt/",
+      "vietnamese": "lặp lại",
+      "example": "Repeat after me."
+    },
+    {
+      "english": "replace",
+      "ipa": "/rɪˈpleɪs/",
+      "vietnamese": "thay thế",
+      "example": "Replace a broken part."
+    },
+    {
+      "english": "reply",
+      "ipa": "/rɪˈplaɪ/",
+      "vietnamese": "trả lời; sự trả lời",
+      "example": "Reply to an email."
+    },
+    {
+      "english": "report",
+      "ipa": "/rɪˈpɔːrt/",
+      "vietnamese": "báo cáo, tường trình",
+      "example": "Write a report."
+    },
+    {
+      "english": "reporter",
+      "ipa": "/rɪˈpɔːrtər/",
+      "vietnamese": "phóng viên",
+      "example": "News reporter."
+    },
+    {
+      "english": "represent",
+      "ipa": "/ˌreprɪˈzent/",
+      "vietnamese": "đại diện, tượng trưng cho",
+      "example": "Represent a company."
+    },
+    {
+      "english": "representative",
+      "ipa": "/ˌreprɪˈzentətɪv/",
+      "vietnamese": "người đại diện",
+      "example": "Sales representative."
+    },
+    {
+      "english": "republic",
+      "ipa": "/rɪˈpʌblɪk/",
+      "vietnamese": "nền cộng hòa",
+      "example": "The Republic of France."
+    },
+    {
+      "english": "reputation",
+      "ipa": "/ˌrepjuˈteɪʃn/",
+      "vietnamese": "danh tiếng",
+      "example": "A good reputation."
+    },
+    {
+      "english": "request",
+      "ipa": "/rɪˈkwest/",
+      "vietnamese": "lời yêu cầu, thỉnh cầu",
+      "example": "Make a request."
+    },
+    {
+      "english": "require",
+      "ipa": "/rɪˈkwaɪər/",
+      "vietnamese": "đòi hỏi, yêu cầu",
+      "example": "Require assistance."
+    },
+    {
+      "english": "requirement",
+      "ipa": "/rɪˈkwaɪərmənt/",
+      "vietnamese": "nhu cầu, yêu cầu",
+      "example": "Meet the requirements."
+    },
+    {
+      "english": "rescue",
+      "ipa": "/ˈreskjuː/",
+      "vietnamese": "giải cứu, cứu nguy",
+      "example": "Rescue the hostages."
+    },
+    {
+      "english": "research",
+      "ipa": "/rɪˈsɜːrtʃ/",
+      "vietnamese": "nghiên cứu; sự nghiên cứu",
+      "example": "Scientific research."
+    },
+    {
+      "english": "reservation",
+      "ipa": "/ˌrezəˈveɪʃn/",
+      "vietnamese": "sự đặt chỗ trước",
+      "example": "Make a reservation."
+    },
+    {
+      "english": "reserve",
+      "ipa": "/rɪˈzɜːrv/",
+      "vietnamese": "đặt trước; để dành",
+      "example": "Reserve a table."
+    },
+    {
+      "english": "resident",
+      "ipa": "/ˈrezɪdənt/",
+      "vietnamese": "cư dân",
+      "example": "Local residents."
+    },
+    {
+      "english": "resist",
+      "ipa": "/rɪˈzɪst/",
+      "vietnamese": "chống lại, kháng cự",
+      "example": "Resist temptation."
+    },
+    {
+      "english": "resistance",
+      "ipa": "/rɪˈzɪstəns/",
+      "vietnamese": "sự chống lại, sự kháng cự",
+      "example": "Resistance to change."
+    },
+    {
+      "english": "resolve",
+      "ipa": "/rɪˈzɒlv/",
+      "vietnamese": "giải quyết (vấn đề)",
+      "example": "Resolve a conflict."
+    },
+    {
+      "english": "resort",
+      "ipa": "/rɪˈzɔːrt/",
+      "vietnamese": "khu nghỉ dưỡng; phương kế",
+      "example": "Holiday resort."
+    },
+    {
+      "english": "resource",
+      "ipa": "/rɪˈsɔːrs/",
+      "vietnamese": "tài nguyên",
+      "example": "Natural resources."
+    },
+    {
+      "english": "respect",
+      "ipa": "/rɪˈspekt/",
+      "vietnamese": "tôn trọng; sự kính trọng",
+      "example": "Show respect."
+    },
+    {
+      "english": "respond",
+      "ipa": "/rɪˈspɒnd/",
+      "vietnamese": "phản ứng, trả lời",
+      "example": "Respond to a question."
+    },
+    {
+      "english": "response",
+      "ipa": "/rɪˈspɒns/",
+      "vietnamese": "sự trả lời, phản ứng",
+      "example": "No response."
+    },
+    {
+      "english": "responsibility",
+      "ipa": "/rɪˌspɒnsəˈbɪləti/",
+      "vietnamese": "trách nhiệm",
+      "example": "Take responsibility."
+    },
+    {
+      "english": "responsible",
+      "ipa": "/rɪˈspɒnsəbl/",
+      "vietnamese": "chịu trách nhiệm",
+      "example": "Who is responsible?"
+    },
+    {
+      "english": "rest",
+      "ipa": "/rest/",
+      "vietnamese": "nghỉ ngơi; sự nghỉ ngơi; phần còn lại",
+      "example": "Have a rest."
+    },
+    {
+      "english": "restaurant",
+      "ipa": "/ˈrestrɒnt/",
+      "vietnamese": "nhà hàng",
+      "example": "Eat at a restaurant."
+    },
+    {
+      "english": "restore",
+      "ipa": "/rɪˈstɔːr/",
+      "vietnamese": "khôi phục",
+      "example": "Restore peace."
+    },
+    {
+      "english": "restrict",
+      "ipa": "/rɪˈstrɪkt/",
+      "vietnamese": "hạn chế, giới hạn",
+      "example": "Restrict access."
+    },
+    {
+      "english": "restricted",
+      "ipa": "/rɪˈstrɪktɪd/",
+      "vietnamese": "bị hạn chế",
+      "example": "Restricted area."
+    },
+    {
+      "english": "restriction",
+      "ipa": "/rɪˈstrɪkʃn/",
+      "vietnamese": "sự hạn chế",
+      "example": "Travel restrictions."
+    },
+    {
+      "english": "result",
+      "ipa": "/rɪˈzʌlt/",
+      "vietnamese": "kết quả",
+      "example": "Test results."
+    },
+    {
+      "english": "retain",
+      "ipa": "/rɪˈteɪn/",
+      "vietnamese": "giữ lại, nhớ được",
+      "example": "Retain information."
+    },
+    {
+      "english": "retire",
+      "ipa": "/rɪˈtaɪər/",
+      "vietnamese": "nghỉ hưu",
+      "example": "He retired at 65."
+    },
+    {
+      "english": "retired",
+      "ipa": "/rɪˈtaɪərd/",
+      "vietnamese": "đã nghỉ hưu",
+      "example": "A retired teacher."
+    },
+    {
+      "english": "retirement",
+      "ipa": "/rɪˈtaɪərmənt/",
+      "vietnamese": "sự nghỉ hưu",
+      "example": "Happy retirement."
+    },
+    {
+      "english": "return",
+      "ipa": "/rɪˈtɜːrn/",
+      "vietnamese": "trở lại, trả lại",
+      "example": "Return a book."
+    },
+    {
+      "english": "reveal",
+      "ipa": "/rɪˈviːl/",
+      "vietnamese": "tiết lộ, bộc lộ",
+      "example": "Reveal a secret."
+    },
+    {
+      "english": "reverse",
+      "ipa
