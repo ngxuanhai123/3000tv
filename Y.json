@@ -2,58 +2,352 @@
   "name": "Từ Vựng Bắt Đầu Bằng Chữ: Y (English Vocabulary)",
   "words": [
     {
+      "english": "yacht",
+      "ipa": "/jɑːt/",
+      "vietnamese": "du thuyền",
+      "example": "They spent their vacation sailing on a luxury yacht."
+    },
+    {
+      "english": "yahoo",
+      "ipa": "/ˈjɑː.huː/",
+      "vietnamese": "kẻ thô lỗ, cục súc (hoặc tiếng reo vui)",
+      "example": "He acted like a yahoo at the party."
+    },
+    {
+      "english": "yak",
+      "ipa": "/jæk/",
+      "vietnamese": "bò Tây Tạng",
+      "example": "The yak is native to the Himalayas."
+    },
+    {
+      "english": "yam",
+      "ipa": "/jæm/",
+      "vietnamese": "khoai mỡ, khoai lang",
+      "example": "Baked yams are a delicious side dish."
+    },
+    {
+      "english": "yank",
+      "ipa": "/jæŋk/",
+      "vietnamese": "kéo mạnh, giật mạnh",
+      "example": "He yanked the door open in anger."
+    },
+    {
+      "english": "yap",
+      "ipa": "/jæp/",
+      "vietnamese": "sủa ăng ẳng, nói lảm nhảm",
+      "example": "That little dog yaps all day long."
+    },
+    {
+      "english": "yard",
+      "ipa": "/jɑːrd/",
+      "vietnamese": "cái sân; thước Anh (đơn vị đo lường)",
+      "example": "The children are playing in the back yard."
+    },
+    {
+      "english": "yarn",
+      "ipa": "/jɑːrn/",
+      "vietnamese": "sợi chỉ, sợi len",
+      "example": "She is knitting a scarf with blue yarn."
+    },
+    {
+      "english": "yawn",
+      "ipa": "/jɑːn/",
+      "vietnamese": "ngáp",
+      "example": "He yawned loudly because he was bored."
+    },
+    {
+      "english": "yeah",
+      "ipa": "/jeə/",
+      "vietnamese": "vâng, ừ (văn nói thân mật của Yes)",
+      "example": "Yeah, I think that's a good idea."
+    },
+    {
+      "english": "year",
+      "ipa": "/jɪr/",
+      "vietnamese": "năm",
+      "example": "We wish you a Happy New Year."
+    },
+    {
+      "english": "yearbook",
+      "ipa": "/ˈjɪr.bʊk/",
+      "vietnamese": "kỷ yếu (trường học)",
+      "example": "I asked my friends to sign my yearbook."
+    },
+    {
+      "english": "yearn",
+      "ipa": "/jɝːn/",
+      "vietnamese": "khao khát, mong mỏi",
+      "example": "She yearns for a peaceful life in the countryside."
+    },
+    {
+      "english": "yeast",
+      "ipa": "/jiːst/",
+      "vietnamese": "men (làm bia, bánh mì)",
+      "example": "Yeast makes the bread dough rise."
+    },
+    {
+      "english": "yell",
+      "ipa": "/jel/",
+      "vietnamese": "la hét, quát tháo",
+      "example": "Please don't yell at me."
+    },
+    {
+      "english": "yellow",
+      "ipa": "/ˈjel.oʊ/",
+      "vietnamese": "màu vàng",
+      "example": "Sunflowers are bright yellow."
+    },
+    {
+      "english": "yelp",
+      "ipa": "/jelp/",
+      "vietnamese": "kêu ăng ẳng (vì đau), la lên",
+      "example": "The puppy let out a yelp when I stepped on its tail."
+    },
+    {
+      "english": "yes",
+      "ipa": "/jes/",
+      "vietnamese": "vâng, dạ, có",
+      "example": "Yes, I understand what you mean."
+    },
+    {
+      "english": "yesterday",
+      "ipa": "/ˈjes.tɚ.deɪ/",
+      "vietnamese": "hôm qua",
+      "example": "I went to the cinema yesterday."
+    },
+    {
       "english": "yet",
       "ipa": "/jet/",
-      "vietnamese": "còn, hãy còn, còn nữa; như mà, xong, tuy thế, tuy nhiên",
-      "example": ""
+      "vietnamese": "chưa (dùng trong câu phủ định/nghi vấn); tuy nhiên",
+      "example": "I haven't finished my homework yet."
+    },
+    {
+      "english": "yield",
+      "ipa": "/jiːld/",
+      "vietnamese": "sản lượng; nhường đường; đầu hàng",
+      "example": "This farm yields a large harvest every year."
+    },
+    {
+      "english": "yoga",
+      "ipa": "/ˈjoʊ.ɡə/",
+      "vietnamese": "môn yoga",
+      "example": "She does yoga every morning to stay flexible."
+    },
+    {
+      "english": "yogurt",
+      "ipa": "/ˈjoʊ.ɡɚt/",
+      "vietnamese": "sữa chua",
+      "example": "I usually have yogurt and fruit for breakfast."
+    },
+    {
+      "english": "yoke",
+      "ipa": "/joʊk/",
+      "vietnamese": "cái ách (bò); gánh nặng, sự kìm kẹp",
+      "example": "People fought to throw off the yoke of oppression."
+    },
+    {
+      "english": "yolk",
+      "ipa": "/joʊk/",
+      "vietnamese": "lòng đỏ trứng",
+      "example": "Some recipes only use the egg yolk."
+    },
+    {
+      "english": "yonder",
+      "ipa": "/ˈjɑːn.dɚ/",
+      "vietnamese": "đằng kia (vị trí xa nhưng nhìn thấy được)",
+      "example": "Look at the beautiful tree over yonder."
     },
     {
       "english": "you",
-      "ipa": "/ju:/",
-      "vietnamese": "anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài, các người, chúng mày",
-      "example": ""
+      "ipa": "/juː/",
+      "vietnamese": "bạn, anh, chị, ông, bà (ngôi thứ 2)",
+      "example": "How are you today?"
     },
     {
       "english": "young",
-      "ipa": "/jʌɳ/",
-      "vietnamese": "trẻ, trẻ tuổi, thanh niên",
-      "example": ""
+      "ipa": "/jʌŋ/",
+      "vietnamese": "trẻ, trẻ tuổi",
+      "example": "He looks very young for his age."
+    },
+    {
+      "english": "youngster",
+      "ipa": "/ˈjʌŋ.stɚ/",
+      "vietnamese": "thanh thiếu niên, người trẻ",
+      "example": "The park provides a place for youngsters to play."
     },
     {
       "english": "your",
-      "ipa": "/jo:/",
-      "vietnamese": "của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày",
-      "example": ""
+      "ipa": "/jɔːr/",
+      "vietnamese": "của bạn (tính từ sở hữu)",
+      "example": "Is this your book?"
     },
     {
       "english": "yours",
-      "ipa": "/jo:z/",
-      "vietnamese": "cái của anh, cái của chị, cái của ngài, cái của mày; cái của các anh, cái của các chị, cái của các ngài, cái của chúng mày",
-      "example": ""
-    },
-    {
-      "english": "Yours sincerely",
-      "ipa": "",
-      "vietnamese": "bạn chân thành của anh, chị.. (viết ở cuối thư)",
-      "example": ""
-    },
-    {
-      "english": "Yours Truly",
-      "ipa": "",
-      "vietnamese": "lời kết thúc thư (bạn chân thành của...)",
-      "example": ""
+      "ipa": "/jɔːrz/",
+      "vietnamese": "cái của bạn (đại từ sở hữu)",
+      "example": "This pen is mine, and that one is yours."
     },
     {
       "english": "yourself",
-      "ipa": "/jɔ:'self/",
-      "vietnamese": "tự anh, tự chị, chính anh, chính mày, tự mày, tự mình",
-      "example": ""
+      "ipa": "/jɔːrˈself/",
+      "vietnamese": "chính bạn, tự bạn",
+      "example": "You have to do it yourself."
     },
     {
       "english": "youth",
-      "ipa": "/ju:θ/",
-      "vietnamese": "tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu",
-      "example": ""
+      "ipa": "/juːθ/",
+      "vietnamese": "tuổi trẻ, giới trẻ",
+      "example": "The youth of today are very tech-savvy."
+    },
+    {
+      "english": "youthful",
+      "ipa": "/ˈjuːθ.fəl/",
+      "vietnamese": "trẻ trung, đầy sức sống",
+      "example": "She has a youthful spirit."
+    },
+    {
+      "english": "yowl",
+      "ipa": "/jaʊl/",
+      "vietnamese": "tiếng gào, tiếng hú (chó/mèo)",
+      "example": "The cat yowled loudly at night."
+    },
+    {
+      "english": "yoyo",
+      "ipa": "/ˈjoʊ.joʊ/",
+      "vietnamese": "đồ chơi yoyo",
+      "example": "He knows many tricks with a yoyo."
+    },
+    {
+      "english": "yuck",
+      "ipa": "/jʌk/",
+      "vietnamese": "eo ôi (biểu cảm ghê tởm)",
+      "example": "Yuck! This food tastes terrible."
+    },
+    {
+      "english": "yucky",
+      "ipa": "/ˈjʌk.i/",
+      "vietnamese": "dở tệ, kinh tởm",
+      "example": "The medicine tasted yucky."
+    },
+    {
+      "english": "yule",
+      "ipa": "/juːl/",
+      "vietnamese": "lễ Giáng sinh (từ cổ)",
+      "example": "We sat by the fire during Yule."
+    },
+    {
+      "english": "yummy",
+      "ipa": "/ˈjʌm.i/",
+      "vietnamese": "ngon tuyệt",
+      "example": "This chocolate cake is yummy."
+    },
+    {
+      "english": "yuppie",
+      "ipa": "/ˈjʌp.i/",
+      "vietnamese": "thanh niên chuyên nghiệp thành đạt",
+      "example": "The cafe is full of yuppies working on laptops."
+    },
+    {
+      "english": "yearly",
+      "ipa": "/ˈjɪr.li/",
+      "vietnamese": "hàng năm",
+      "example": "We have a yearly family reunion."
+    },
+    {
+      "english": "yearn for",
+      "ipa": "/jɝːn fɔːr/",
+      "vietnamese": "khao khát cái gì đó",
+      "example": "They yearn for freedom."
+    },
+    {
+      "english": "yield to",
+      "ipa": "/jiːld tu/",
+      "vietnamese": "nhượng bộ, đầu hàng trước ai",
+      "example": "He refused to yield to pressure."
+    },
+    {
+      "english": "yellowish",
+      "ipa": "/ˈjel.oʊ.ɪʃ/",
+      "vietnamese": "hơi vàng, ngả vàng",
+      "example": "The old pages were yellowish."
+    },
+    {
+      "english": "yen",
+      "ipa": "/jen/",
+      "vietnamese": "đồng Yên (Nhật Bản)",
+      "example": "The price is 1000 Yen."
+    },
+    {
+      "english": "yeoman",
+      "ipa": "/ˈjoʊ.mən/",
+      "vietnamese": "tiểu chủ (nông dân tự canh tác)",
+      "example": "A yeoman farmer owns a small amount of land."
+    },
+    {
+      "english": "yesteryear",
+      "ipa": "/ˈjes.tɚ.jɪr/",
+      "vietnamese": "những năm tháng trước đây, quá khứ",
+      "example": "Fashion of yesteryear is coming back."
+    },
+    {
+      "english": "yippee",
+      "ipa": "/ˈjɪp.i/",
+      "vietnamese": "hoan hô (tiếng reo vui)",
+      "example": "Yippee! We won the game!"
+    },
+    {
+      "english": "yogi",
+      "ipa": "/ˈjoʊ.ɡi/",
+      "vietnamese": "người tập yoga thuần thục",
+      "example": "The yogi meditated in the cave."
+    },
+    {
+      "english": "yourselves",
+      "ipa": "/jɔːrˈselvz/",
+      "vietnamese": "chính các bạn (số nhiều)",
+      "example": "Enjoy yourselves at the party!"
+    },
+    {
+      "english": "Yours sincerely",
+      "ipa": "/jɔːrz sɪnˈsɪr.li/",
+      "vietnamese": "kính thư (kết thúc thư trang trọng)",
+      "example": "Yours sincerely, John Smith."
+    },
+    {
+      "english": "Yours truly",
+      "ipa": "/jɔːrz ˈtruː.li/",
+      "vietnamese": "bạn chân thành của... (kết thúc thư)",
+      "example": "Yours truly, Jane."
+    },
+    {
+      "english": "yardstick",
+      "ipa": "/ˈjɑːrd.stɪk/",
+      "vietnamese": "thước đo, tiêu chuẩn so sánh",
+      "example": "Profit is not the only yardstick of success."
+    },
+    {
+      "english": "yearning",
+      "ipa": "/ˈjɝː.nɪŋ/",
+      "vietnamese": "sự khao khát mãnh liệt",
+      "example": "She felt a deep yearning to travel."
+    },
+    {
+      "english": "year-round",
+      "ipa": "/ˌjɪrˈraʊnd/",
+      "vietnamese": "quanh năm",
+      "example": "This resort is open year-round."
+    },
+    {
+      "english": "youth hostel",
+      "ipa": "/ˈjuːθ ˌhɑː.stəl/",
+      "vietnamese": "nhà trọ giá rẻ (cho giới trẻ du lịch)",
+      "example": "We stayed in a youth hostel to save money."
+    },
+    {
+      "english": "youtuber",
+      "ipa": "/ˈjuː.tuː.bɚ/",
+      "vietnamese": "người làm nội dung YouTube",
+      "example": "He wants to become a famous YouTuber."
     }
   ]
 }
